@@ -1,0 +1,8 @@
+owner = AGA
+controller = AGA
+add_core = AGA
+
+
+trade_goods = fruit
+life_rating = 35
+

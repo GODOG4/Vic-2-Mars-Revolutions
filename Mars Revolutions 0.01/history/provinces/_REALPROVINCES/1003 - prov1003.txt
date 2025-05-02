@@ -1,0 +1,8 @@
+owner = RAR
+controller = RAR
+add_core = RAR
+
+
+trade_goods = grain
+life_rating = 35
+

@@ -1,0 +1,7 @@
+owner = SCI
+controller = SCI
+add_core = SCI
+
+trade_goods = silk
+life_rating = 35
+

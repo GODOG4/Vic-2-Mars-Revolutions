@@ -1,0 +1,7 @@
+owner = LUN
+controller = LUN
+add_core = LUN
+
+trade_goods = wool
+life_rating = 35
+

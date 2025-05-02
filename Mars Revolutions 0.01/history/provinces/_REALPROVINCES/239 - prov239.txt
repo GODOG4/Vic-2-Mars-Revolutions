@@ -1,0 +1,6 @@
+owner = CER
+controller = CER
+add_core = CER
+trade_goods = cattle
+life_rating = 35
+

@@ -1,0 +1,8 @@
+owner = MEN
+controller = MEN
+add_core = MEN
+
+
+trade_goods = coal
+life_rating = 35
+

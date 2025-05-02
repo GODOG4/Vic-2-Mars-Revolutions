@@ -1,0 +1,8 @@
+owner = ARI
+controller = ARI
+add_core = ARI
+
+
+trade_goods = grain
+life_rating = 35
+

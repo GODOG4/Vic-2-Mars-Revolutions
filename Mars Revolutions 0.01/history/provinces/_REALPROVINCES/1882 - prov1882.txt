@@ -1,0 +1,7 @@
+owner = SIS
+controller = SIS
+add_core = SIS
+
+trade_goods = cattle
+life_rating = 35
+

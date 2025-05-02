@@ -1,0 +1,8 @@
+owner = ABD
+controller = ABD
+add_core = ABD
+
+
+trade_goods = grain
+life_rating = 35
+

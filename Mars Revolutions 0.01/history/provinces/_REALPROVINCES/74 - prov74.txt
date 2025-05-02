@@ -1,0 +1,8 @@
+owner = QAH
+controller = QAH
+add_core = QAH
+
+
+trade_goods = cattle
+life_rating = 35
+

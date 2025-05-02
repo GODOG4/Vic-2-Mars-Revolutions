@@ -1,0 +1,6 @@
+owner = HEL
+controller = HEL
+add_core = HEL
+trade_goods = coal
+life_rating = 40
+

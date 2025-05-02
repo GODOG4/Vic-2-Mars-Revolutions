@@ -1,0 +1,9 @@
+owner = ETE
+controller = ETE
+add_core = ETE
+
+
+
+trade_goods = iron
+life_rating = 35
+

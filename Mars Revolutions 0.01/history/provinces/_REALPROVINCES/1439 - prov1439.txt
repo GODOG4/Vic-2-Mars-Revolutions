@@ -1,0 +1,7 @@
+owner = KAK
+controller = KAK
+add_core = KAK 
+
+trade_goods = fish
+life_rating = 35
+

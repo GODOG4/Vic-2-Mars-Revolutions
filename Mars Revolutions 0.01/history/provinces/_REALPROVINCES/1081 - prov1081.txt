@@ -1,0 +1,7 @@
+owner = NUO
+controller = NUO
+add_core = NUO
+
+trade_goods = tea
+life_rating = 35
+

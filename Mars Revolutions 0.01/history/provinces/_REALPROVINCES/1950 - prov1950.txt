@@ -1,0 +1,9 @@
+owner = SOB
+controller = SOB
+add_core = SOB
+
+
+
+trade_goods = grain
+life_rating = 35
+

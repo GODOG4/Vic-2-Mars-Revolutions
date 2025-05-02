@@ -1,0 +1,31 @@
+political_decisions = {
+
+	CIVstartup = {
+		potential = {
+			 always = no
+		}
+		allow = {
+
+		}
+		effect = {
+			any_owned = {
+				limit = {
+					continent = continent_1 
+					}
+				life_rating = -15		
+				}
+			any_owned = {
+				limit = {
+					continent = continent_2
+					}
+				life_rating = -20			
+				}
+			any_owned = {
+				limit = {
+					continent = continent_7
+					}
+				life_rating = -20				
+				}
+			}
+		}
+	}

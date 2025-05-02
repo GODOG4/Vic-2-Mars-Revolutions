@@ -1,0 +1,200 @@
+north_german;Niederdeutsch;x
+south_german;Oberdeutsch;x
+sudwest_german;Alemannischdeutsch;x
+central_german;Ostmitteldeutsch;x
+dutch;Westmitteldeutsch;x
+ukrainian;Ruthenian;x
+british;English;x
+irish;Celtic;x
+scottish;Scottish;x
+serb;Illyrian;x
+estonian;Baltischdeutsch;x
+NET;Burgundy;x
+NET_ADJ;Burgundian;x
+NET_proletarian_dictatorship;Dutch Republic;x
+NET_proletarian_dictatorship_ADJ;Dutch;x
+NET_absolute_monarchy;Kingdom of Burgundy;x
+NET_prussian_constitutionalism;Kingdom of Burgundy;x
+NET_hms_government;Burgundian Circle;x
+NET_democracy;Dutch Republic;x
+NET_democracy_ADJ;Dutch;x
+prussian_constitutionalism;Constituional Monarchy;x
+hms_government;Imperial Kingdom;x
+PRU;Hanseatic League;x
+PRU_ADJ;Hanseatic;x
+PRU_democracy;Hanseatic Confederation;x
+ENG;England;x
+ENG_ADJ;English;x
+ENG_proletarian_dictatorship_ADJ;English;x
+ENG_democracy;English Republic;x
+ENG_absolute_monarchy;Kingdom of England;x
+ENG_prussian_constitutionalism;Kingdom of England;x
+GRE;Byzantium;x
+GRE_ADJ;Byzantine;x
+PER;Iranshahr;x
+PER_ADJ;Iranian;x
+persian;Iranian;x
+IRQ;Iraqi Revolutionary Army;x
+SIC;Naples;x
+SIC_ADJ;Napolitean;x
+CHI_absolute_monarchy;Chinese Confucianism Kingdom;x
+CHI;Chinese Confucianism Kingdom;x
+CHI_ADJ;Confucian;x
+WEI_ADJ;Saxon;x
+WEI;Upper Saxony;x
+WEI_hms_government;Upper Saxon Circle;x
+FRM_ADJ;Franconian;x
+FRM;Fanconia;x
+FRM_hms_government;Franconian Circle;x
+WUR_ADJ;Swabian;x
+WUR;Swabia;x
+WUR_hms_government;Swabian Circle;x
+BAD_ADJ;Rhenish;x
+BAD;Rhineland;x
+BAD_hms_government;Upper Rhenish Circle;x
+HAN_ADJ;Westphalen;x
+HAN;Westphalia;x
+HAN_hms_government;Westphalian Circle;x
+OLD_ADJ;Saxon;x
+OLD;Lower Saxony;x
+OLD_hms_government;Lower Saxon Circle;x
+AUS;Holy Roman Empire;x
+AUS_ADJ;German;x
+ENG_2228;Dunkirk;x
+USA_116;Falklands;x
+ENG_2132;Tristan da Cunha;x
+USA_106;Saint Helena;x
+USA_111;Ascension;x
+POR_2134;Cape Verde;x
+USA_81;Canary Islands;x
+USA_91;Madeira;x
+USA_78;Azores;x
+HND_1;Punj Karachi;x
+HND_2;Punj Shahpur;x
+HND_3;Punj Srinagar;x
+HND_4;Pradesh Jodhpur;x
+HND_5;Pradesh Bikaner;x
+HND_6;Pradesh Firozpur;x
+HND_7;Rajas Beroda;x
+HND_8;Rajas Gwalior;x
+HND_9;Rajas Meerut;x
+HND_10;Dehra Bombay;x
+HND_11;Dehra Bhopal;x
+HND_12;Chandi Nagpur;x
+HND_13;Chandi Jubbulpore;x
+HND_14;Buban Cuttack;x
+HND_15;Buban Gaya;x
+HND_16;Calcutta;x
+HND_17;Jessore;x
+HND_18;Chittagong;x
+HND_19;Goa;x
+HND_20;Hyderabad;x
+HND_21;Nellore;x
+HND_22;Mysore;x
+HND_23;Madurai;x
+HND_24;Pondicherry;x
+BRE;Silesia;x
+BRE_ADJ;Silesian;x
+FLA;Wales;x
+FLA_ADJ;Welsh;x
+DUA;Dual Monarchy;x
+DUA_ADJ;French;x
+ABB;United Kingdom;x
+ABB_ADJ;Austrian;x
+SIF;South Italian Federation;x
+SIF_ADJ;Italian;x
+occitan;Occitan;x
+brittan;Brittan;x
+sif_form_title;South Italian Federation;x
+ita_form_title;Ascesa Dell'Italia;x
+sif_form_desc;While Italy was not united until the proclamation of the Italian Union State, rising nationalism in the 19th century had meant that unification had been on the cards long before that, with the Naples assembly of 1848 being an important forerunner. By achieving a dominant position among the South Italian states, we can form the South Italy Federation.;x
+ita_form_desc;The Italian peninsula has been divided since the time of the Romans. Now that we've reunified the fractured Italian states it is time for the world to see the rise of Italy!;x
+ITA;Italian Union State;x
+hre_consolidated;The Holy Roman Empire has been consolidated.;x
+SAR;Piedmont;x
+eventdesc1337002;In the years leading up to $YEAR$, the Hanseatic League and the Polish republic have had a contentious relation due to the two's division of Poland. In $YEAR$ a treaty was proposed to settle the dispute through a peaceable population transfer of ethnic Germans and Poles, laying the groundwork for the development of modern international claims courts.\n§RIf we accept the German pops in Polish controlled Westprussen will be moved to Danzig and Tuchel, and the Polish pops there will move to Polish Westpreussen. In addition we will both lose cores on eachother's portion of Prussia.;x
+treaty_of_prussia_title;Negotiate the Treaty of Prussia;x
+treaty_of_prussia_desc; The division of Prussia in the previous century between the Hanseatic trade league and the Polish republic has left many ethnic Poles and Germans on the wrong sides of the border. We should negotiate a peaceable population transfer in order to put this conflict to rest. \n§RIf they accept we will exchange German and Polish pops in our overlapping cores in Prussia. These overlapping cores will also be removed and we will both gain a small amount of prestige.;x
+eventdesc1337001;The Holy Roman Empire has experienced multiple setbacks during and after the centralization it underwent in the previous century. The encroachment of the Hanseatic trade league, the increasing influence and independence of the Burgundian Circle, and the loss of northern Italy have made the sustainment of the Empire untenable. In $YEAR$, after the setback of further losses of territory to the Hansa and Burgundians, the Holy Roman Emperor Ferdinand I under the advisement of the Secret State Conference declared the Holy Roman Empire dissolved and established a new United Kingdom from the crowns of Austria, Bohemia, and Bavaria.;x
+chinese_rebels_name;Confucian Death Cult;x
+chinese_rebels_army;Confucian Horde;x
+HRE_GP_NERF;Holy Roman Military Subsidies;x
+eventdesc1337004;A prominent sect of the Confucian state religion in China has formed its own cult around death worship. The cult has become so brazen as to attempt to coup the Chinese government and threatens to overrun all of Eurasia! \n§RSoon thousands of Confucian extremist rebel brigades will come pouring out of China towards Europe! The only way to stop them for good is to declare a special containment CB against China. Winning will stop the rebels and also give you and everyone who joined your war a large bonus to prestige, pop growth, immigration attraction, and infamy!;x
+china_timebomb_coming;Confucian State Religion;x
+china_timebomb;Confucian Death Cult;x
+european_wall_of_china;Victor of the Great War Against China!;x
+unciv_diplo;Uncivilized Diplomacy;x
+european_war_of_china;Chinese Containment;x
+european_war_of_china_desc;Push back the Confucian hordes!;x
+european_war_of_china_setup;Push back the Confucian hordes!;x
+european_war_of_china_short;Stop the invasion of Confucian rebels;x
+eventdesc1337008;The colonial powers of Europe have been gathered by $FROMCOUNTRY$ to discuss an equal partition of the Indian interior. \n§RThis will give everyone the interior states with the same first name as the coastal states they own.;x
+partition_voting;The colonial powers are deliberating.;x
+exile_government;Government in Exile;x
+exile_government_ruler;Committee Chair;x
+FRA_exile_government;France in Exile;x
+NET_exile_government;Dutch in Exile;x
+ENG_exile_government;England in Exile;x
+DUA_exile_government;Dual Monarchy in Exile;x
+PRU_exile_government;Hanseatic League in Exile;x
+SIC_exile_government;Naples in Exile;x
+ITA_exile_government;Italy in Exile;x
+SIF_exile_government;Italy in Exile;x
+GRE_exile_government;Byzantium in Exile;x
+POL_exile_government;Poland in Exile;x
+NOR_exile_government;Norway in Exile;x
+AUS_exile_government;Roman Empire in Exile;x
+ROM_exile_government;Romania in Exile;x
+RUS_exile_government;Russia in Exile;x
+ABB_exile_government;United Kingdom in Exile;x
+NET_exile_government_ADJ;Dutch;x
+go_in_exile_title;$COUNTRYNAME$ in Exile!;x
+go_in_exile_desc;Having lost most of our country to foreign invaders, our only choice for the survival of our government is to flee to our colonial holdings!\nThis decision will state and core a random overseas colony and any neighbouring states. You will also receive a large increase to immigration globally and assimilation in your non-European territory. §RWARNING: Your accepted pops in Europe will rapidly migrate to your non-European states and colonies! This decision can only be reversed once you've reclaimed all your European cores.;x
+return_from_exile_title;Return Home!;x
+return_from_exile_desc;Now that we've reclaimed out homeland we can reestablish our European holdings as our seat of power.;x
+consolidate_hre_title;Consolidate the Holy Roman Empire;x
+consolidate_hre_desc;We've triumphed over the Hanseatic League and the Burgundian menace! Having cemented our superiority over the other German states we can finally fully consolidate the Imperial circles!;x
+form_united_kingdom_title;Dissolve the Holy Roman Empire!;x
+form_united_kingdom_desc;The interests of our core territories must come first before the petty squabbles of the German minor states. Because of this we should abolish the title of the Holy Roman Empire and in its stead form the United Kingdom of Austria, Bohemia, and Bavaria.;x
+abb_hungary_title;Incorporate the kingdom of Hungary;x
+abb_illyria_title;Incorporate the kingdom of Illyria;x
+abb_south_germany_title;Incorporate the kingdom of Swabia;x
+abb_italy_title;Incorporate the kingdom of Italy;x
+abb_hungary_desc;We should include the kingdom of Hungary in our United Kingdom!;x
+abb_illyria_desc;We should include the kingdom of Illyria in our United Kingdom!;x
+abb_south_germany_desc;We should include the kingdom of Swabia in our United Kingdom!;x
+abb_italy_desc;We should include the kingdom of Italy in our United Kingdom!;x
+form_england_title;Form the Dual Monarchy of France and England;x
+form_spain_title;Form the Dual Monarchy of France and Spain;x
+form_england_desc;We've established our dominion over the Isles!;x
+form_spain_desc;We've established our dominion over Iberia!;x
+go_england_title;Eyes towards the Isles;x
+go_spain_title;Eyes towards Iberia;x
+go_england_desc;We should expand into the Isles!;x
+go_spain_desc;We should expand into Iberia!;x
+pacify_south_title;Pacify the southern countryside;x
+pacify_south_desc;The Occitan have been a thorn in our side since the times of the Frankish kingdom.;x
+get_scottish_title;Pacify the Scotts;x
+get_portugese_title;Pacify Portugal;x
+get_scottish_desc;Accept the Scotts;x
+get_portugese_desc;Accept the Portugese;x
+inherit_wales_title;Inherit the throne of Arthur;x
+inherit_wales_desc;Inherit Wales;x
+propose_partition_title;Propose the partition of Hindustan;x
+propose_partition_desc;As a principle colonial power of Europe it is in our interests to have a cooperative partition of India.\n§RIf everyone who owns land in India accepts, this will give everyone the interior states with the same first name as the coastal states they own.;x
+inherit_swe_title;Abolish Swedish Titles;x 
+inherit_swe_desc;The Union between Sweden and Norway was a personal union of the separate kingdoms of Sweden and Norway under a common monarch and common foreign policy that began in 1814. Since then we have come to dominate Sweden not only in foreign policy but in domestic politics as well. By abolishing the Swedish royal titles their land can become de jure part of the Norwegian crown.;x
+form_ruthenia_title;Form Ruthenia;x
+form_ruthenia_desc;The Ruthenian people have been divided into constituent polities since the times of Kyeven Rus. By unifying them under a single Slavic state we can declare ourselves as the protector of the Ruthenian people.;x
+king_of_scots_title;Claim Scottish Titles;x
+king_of_scots_desc;The Scottish throne has been without a king since the division of the Scottish kingdom in 1776. By controlling the de jure Scottish lands we can proclaim ourselves as the rightful King of Scotland.;x
+inherit_aragon_title;Inherit Aragon;x
+inherit_portugal_title;Inherit Portugal;x
+inherit_aragon_desc;We should incorporate Aragon.;x
+inherit_portugal_desc;We should incorporate Portugal.;x
+CAT;Aragon;x
+CAT_ADJ;Aragonian;x
+colonial_ticker;Colonial Dispute;x
+colonial_ticker_desc;This CB is solely for being a ticker in colonies. It should not be taken in a peace deal.;x
+colonial_ticker_setup;This CB is solely for being a ticker in colonies. It should not be taken in a peace deal.;x
+colonial_ticker_short;Colonial ticker for $STATE$;x

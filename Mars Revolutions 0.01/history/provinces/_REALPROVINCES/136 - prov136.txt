@@ -1,0 +1,6 @@
+owner = IAL
+controller = IAL
+add_core = IAL
+trade_goods = tobacco
+life_rating = 35
+

@@ -1,0 +1,8 @@
+owner = ANT
+controller = ANT
+add_core = ANT
+
+
+trade_goods = iron
+life_rating = 35
+

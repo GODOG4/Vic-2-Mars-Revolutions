@@ -1,0 +1,8 @@
+owner = RIN
+controller = RIN
+add_core = RIN
+
+
+trade_goods = timber
+life_rating = 35
+

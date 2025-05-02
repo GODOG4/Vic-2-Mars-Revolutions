@@ -1,0 +1,8 @@
+owner = ABF
+controller = ABF
+add_core = ABF
+
+
+trade_goods = grain
+life_rating = 35
+

@@ -1,0 +1,6 @@
+owner = CER
+controller = CER
+add_core = CER
+trade_goods = timber
+life_rating = 35
+

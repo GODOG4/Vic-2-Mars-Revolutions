@@ -1,0 +1,8 @@
+owner = SUD
+controller = SUD
+add_core = SUD
+
+
+trade_goods = tea
+life_rating = 35
+

@@ -1,0 +1,8 @@
+owner = AH1
+controller = AH1
+add_core = AH1
+
+
+trade_goods = grain
+life_rating = 35
+

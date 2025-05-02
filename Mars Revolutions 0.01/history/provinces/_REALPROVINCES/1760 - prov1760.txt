@@ -1,0 +1,8 @@
+owner = QAR
+controller = QAR
+add_core = QAR
+
+
+trade_goods = grain
+life_rating = 35
+

@@ -1,0 +1,7 @@
+owner = SOT
+controller = SOT
+add_core = SOT
+
+trade_goods = coal
+life_rating = 35
+

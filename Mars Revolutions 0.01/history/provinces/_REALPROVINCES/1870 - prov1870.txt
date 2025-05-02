@@ -1,0 +1,8 @@
+owner = SIS
+controller = SIS
+add_core = SIS
+
+
+trade_goods = silk
+life_rating = 35
+

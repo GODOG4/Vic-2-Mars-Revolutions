@@ -1,0 +1,9 @@
+owner = HLI
+controller = HLI
+add_core = HLI
+
+
+
+trade_goods = coal
+life_rating = 35
+

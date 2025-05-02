@@ -1,0 +1,9 @@
+owner = MOI
+controller = MOI
+add_core = MOI
+
+
+
+trade_goods = iron
+life_rating = 35
+

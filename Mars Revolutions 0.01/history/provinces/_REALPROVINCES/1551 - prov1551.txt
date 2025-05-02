@@ -1,0 +1,6 @@
+owner = CEL
+controller = CEL
+add_core = CEL
+trade_goods = silk
+life_rating = 35
+

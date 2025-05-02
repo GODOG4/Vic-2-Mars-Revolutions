@@ -1,0 +1,6 @@
+owner = HEL
+controller = HEL
+add_core = HEL
+trade_goods = cotton
+life_rating = 35
+

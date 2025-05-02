@@ -1,0 +1,6 @@
+owner = JAM
+controller = JAM
+add_core = JAM
+trade_goods = opium
+life_rating = 35
+

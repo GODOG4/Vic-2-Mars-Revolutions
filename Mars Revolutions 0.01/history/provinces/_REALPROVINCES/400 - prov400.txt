@@ -1,0 +1,9 @@
+owner = WEN
+controller = WEN
+add_core = WEN
+
+
+
+trade_goods = wool
+life_rating = 35
+

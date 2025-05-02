@@ -1,0 +1,8 @@
+owner = EVA
+controller = EVA
+add_core = EVA
+
+
+trade_goods = fish
+life_rating = 35
+

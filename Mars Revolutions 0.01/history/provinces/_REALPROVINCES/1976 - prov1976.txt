@@ -1,0 +1,9 @@
+owner = TAI
+controller = TAI
+add_core = TAI
+
+
+
+trade_goods = coffee
+life_rating = 35
+

@@ -1,0 +1,6 @@
+owner = FLD
+controller = FLD
+add_core = FLD
+trade_goods = tea
+life_rating = 35
+

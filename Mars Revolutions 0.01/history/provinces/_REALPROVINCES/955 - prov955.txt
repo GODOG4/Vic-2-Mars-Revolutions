@@ -1,0 +1,9 @@
+owner = WRJ
+controller = WRJ
+add_core = WRJ
+
+
+
+trade_goods = tropical_wood
+life_rating = 35
+

@@ -1,0 +1,7 @@
+owner = ISA
+controller = ISA
+add_core = ISA
+
+trade_goods = grain
+life_rating = 35
+

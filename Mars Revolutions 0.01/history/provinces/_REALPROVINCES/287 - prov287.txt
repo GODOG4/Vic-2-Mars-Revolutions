@@ -1,0 +1,6 @@
+owner = OLM
+controller = OLM
+add_core = OLM
+trade_goods = wool
+life_rating = 35
+

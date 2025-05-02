@@ -1,0 +1,7 @@
+owner = DOT
+controller = DOT
+add_core = DOT
+
+trade_goods = tobacco
+life_rating = 35
+

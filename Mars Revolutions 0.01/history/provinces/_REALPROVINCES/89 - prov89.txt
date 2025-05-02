@@ -1,0 +1,6 @@
+owner = IAL
+controller = IAL
+add_core = IAL
+trade_goods = coal
+life_rating = 35
+

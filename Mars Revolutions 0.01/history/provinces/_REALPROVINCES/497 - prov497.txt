@@ -1,0 +1,9 @@
+owner = LOM
+controller = LOM
+add_core = LOM
+
+
+
+trade_goods = cattle
+life_rating = 35
+

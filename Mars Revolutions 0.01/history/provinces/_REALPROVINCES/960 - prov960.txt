@@ -1,0 +1,8 @@
+owner = REN
+controller = REN
+add_core = REN
+
+
+trade_goods = coal
+life_rating = 35
+

@@ -1,0 +1,6 @@
+owner = KYA
+controller = KYA
+add_core = KYA
+trade_goods = fruit
+life_rating = 35
+

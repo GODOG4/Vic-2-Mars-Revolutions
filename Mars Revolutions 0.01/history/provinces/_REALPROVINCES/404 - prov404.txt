@@ -1,0 +1,6 @@
+owner = THM
+controller = THM
+add_core = THM
+trade_goods = grain
+life_rating = 35
+

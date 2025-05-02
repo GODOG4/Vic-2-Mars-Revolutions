@@ -1,0 +1,8 @@
+owner = ARU
+controller = ARU
+add_core = ARU
+
+
+trade_goods = tropical_wood
+life_rating = 35
+

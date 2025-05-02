@@ -1,0 +1,7 @@
+owner = ABF
+controller = ABF
+add_core = ABF
+
+trade_goods = timber
+life_rating = 35
+

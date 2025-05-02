@@ -1,0 +1,7 @@
+owner = REM
+controller = REM
+add_core = REM
+
+trade_goods = tropical_wood
+life_rating = 35
+

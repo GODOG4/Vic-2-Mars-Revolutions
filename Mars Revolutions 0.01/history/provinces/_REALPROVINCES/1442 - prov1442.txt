@@ -1,0 +1,8 @@
+owner = QOR
+controller = QOR
+add_core = QOR
+
+
+trade_goods = iron
+life_rating = 35
+

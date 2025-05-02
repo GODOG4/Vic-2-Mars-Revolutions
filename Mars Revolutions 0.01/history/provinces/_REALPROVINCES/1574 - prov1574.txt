@@ -1,0 +1,7 @@
+owner = RIN
+controller = RIN
+add_core = RIN
+
+trade_goods = iron
+life_rating = 35
+

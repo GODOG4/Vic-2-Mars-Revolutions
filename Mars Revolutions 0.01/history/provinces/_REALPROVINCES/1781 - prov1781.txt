@@ -1,0 +1,8 @@
+owner = QAR
+controller = QAR
+add_core = QAR
+
+
+trade_goods = wool
+life_rating = 35
+

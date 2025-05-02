@@ -1,0 +1,8 @@
+owner = BYA
+controller = BYA
+add_core = BYA
+
+
+trade_goods = grain
+life_rating = 35
+

@@ -1,0 +1,8 @@
+owner = EKT
+controller = EKT
+add_core = EKT
+
+
+trade_goods = iron
+life_rating = 35
+

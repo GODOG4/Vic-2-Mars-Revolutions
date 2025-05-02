@@ -1,0 +1,6 @@
+owner = POP
+controller = POP
+add_core = POP
+trade_goods = timber
+life_rating = 35
+

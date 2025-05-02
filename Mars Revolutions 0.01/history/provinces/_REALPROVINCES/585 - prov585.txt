@@ -1,0 +1,7 @@
+owner = FAR
+controller = FAR
+add_core = FAR
+
+trade_goods = cotton
+life_rating = 35
+

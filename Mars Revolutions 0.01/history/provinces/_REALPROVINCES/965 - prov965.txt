@@ -1,0 +1,8 @@
+owner = LAL
+controller = LAL
+add_core = LAL
+
+
+trade_goods = coal
+life_rating = 35
+

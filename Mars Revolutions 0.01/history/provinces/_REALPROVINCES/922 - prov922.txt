@@ -1,0 +1,8 @@
+owner = TYA
+controller = TYA
+add_core = TYA
+
+
+trade_goods = tobacco
+life_rating = 35
+

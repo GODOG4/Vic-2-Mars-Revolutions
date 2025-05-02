@@ -1,0 +1,8 @@
+owner = RAM
+controller = RAM
+add_core = RAM
+
+
+trade_goods = tropical_wood
+life_rating = 35
+

@@ -1,0 +1,8 @@
+owner = PYT
+controller = PYT
+add_core = PYT
+
+
+trade_goods = wool
+life_rating = 35
+

@@ -1,0 +1,7 @@
+owner = TYA
+controller = TYA
+add_core = TYA
+
+trade_goods = coal
+life_rating = 35
+

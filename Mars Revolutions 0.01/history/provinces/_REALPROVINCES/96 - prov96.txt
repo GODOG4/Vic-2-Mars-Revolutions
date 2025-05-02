@@ -1,0 +1,7 @@
+owner = ALC
+controller = ALC
+add_core = ALC
+
+trade_goods = timber
+life_rating = 35
+

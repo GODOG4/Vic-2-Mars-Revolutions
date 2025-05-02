@@ -1,0 +1,8 @@
+owner = JAM
+controller = JAM
+add_core = JAM
+
+
+trade_goods = cattle
+life_rating = 35
+

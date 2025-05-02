@@ -1,0 +1,8 @@
+owner = KUN
+controller = KUN
+add_core = KUN
+
+
+trade_goods = coffee
+life_rating = 35
+

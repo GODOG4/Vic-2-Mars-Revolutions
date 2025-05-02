@@ -1,0 +1,36 @@
+#From;To;Type;Through;Data;Comment
+#
+# Inner Sea Australe 
+#
+1247;1999;sea;1306;0;
+1256;1986;sea;1290;0;
+1999;1378;sea;1356;0;
+1986;1378;sea;1385;0;
+1579;1488;sea;1477;0;
+1986;1398;sea;1380;0;
+1579;1398;sea;1427;0;
+#
+# Inner Sea Aonia 
+#
+1148;1124;sea;1122;0;
+1124;1035;sea;1114;0;
+1035;1103;sea;1084;0;
+#
+# Impassables
+#
+1327;1328;impassable;0;0;artic
+1327;1373;impassable;0;0;artic
+1327;1428;impassable;0;0;artic
+1327;1412;impassable;0;0;artic
+1327;1383;impassable;0;0;artic
+1327;1332;impassable;0;0;artic
+1327;1310;impassable;0;0;artic
+1327;1301;impassable;0;0;artic
+1333;1328;impassable;0;0;artic
+1333;1293;impassable;0;0;artic
+1333;1335;impassable;0;0;artic
+1333;1392;impassable;0;0;artic
+1333;1406;impassable;0;0;artic
+1333;1429;impassable;0;0;artic
+1333;1428;impassable;0;0;artic
+1333;1373;impassable;0;0;artic

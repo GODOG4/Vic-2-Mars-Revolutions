@@ -1,0 +1,9 @@
+owner = ROT
+controller = ROT
+add_core = ROT
+
+
+
+trade_goods = coal
+life_rating = 35
+

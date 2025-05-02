@@ -1,0 +1,8 @@
+owner = KAD
+controller = KAD
+add_core = KAD
+
+
+trade_goods = fish
+life_rating = 35
+

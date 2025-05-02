@@ -1,0 +1,6 @@
+owner = THM
+controller = THM
+add_core = THM
+trade_goods = tobacco
+life_rating = 35
+

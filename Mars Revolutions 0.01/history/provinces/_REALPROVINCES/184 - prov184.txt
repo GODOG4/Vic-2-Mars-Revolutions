@@ -1,0 +1,6 @@
+owner = OLF
+controller = OLF
+add_core = OLF
+trade_goods = cattle
+life_rating = 35
+

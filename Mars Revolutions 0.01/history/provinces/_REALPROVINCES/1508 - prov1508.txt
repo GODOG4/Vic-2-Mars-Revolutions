@@ -1,0 +1,7 @@
+owner = CEL
+controller = CEL
+add_core = CEL
+
+trade_goods = cattle
+life_rating = 35
+

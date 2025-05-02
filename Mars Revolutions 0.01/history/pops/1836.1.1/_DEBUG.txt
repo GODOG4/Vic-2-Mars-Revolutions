@@ -1,0 +1,50 @@
+304 = {
+	bankers = {
+		culture = banker
+		religion = placeholder
+		size = 20000
+	}
+	bankers = {
+		culture = high_acheronian
+		religion = placeholder
+		size = 20000
+	}
+	bankers = {
+		culture = lower_acheronian
+		religion = placeholder
+		size = 20000
+	}
+	bankers = {
+		culture = inner_alban
+		religion = placeholder
+		size = 20000
+	}
+	bankers = {
+		culture = outer_alban
+		religion = placeholder
+		size = 20000
+	}
+	bankers = {
+		culture = temp_terran
+		religion = placeholder
+		size = 20000
+	}
+	bankers = {
+		culture = tempest
+		religion = placeholder
+		size = 20000
+	}
+	bankers = {
+		culture = mariner
+		religion = placeholder
+		size = 20000
+	}
+}
+
+200 = {
+	farmers = {
+		culture = banker
+		religion = placeholder
+		size = 200
+	}
+}

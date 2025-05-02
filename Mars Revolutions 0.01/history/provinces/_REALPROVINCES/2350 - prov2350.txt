@@ -1,0 +1,8 @@
+owner = WYU
+controller = WYU
+add_core = WYU
+
+
+trade_goods = iron
+life_rating = 35
+

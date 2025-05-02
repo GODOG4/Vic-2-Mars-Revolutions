@@ -1,0 +1,8 @@
+owner = KHE
+controller = KHE
+add_core = KHE
+
+
+trade_goods = tea
+life_rating = 35
+

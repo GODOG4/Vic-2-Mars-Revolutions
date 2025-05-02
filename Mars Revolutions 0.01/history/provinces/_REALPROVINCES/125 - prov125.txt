@@ -1,0 +1,8 @@
+owner = AS2
+controller = AS2
+add_core = AS2
+
+
+trade_goods = sulphur
+life_rating = 35
+

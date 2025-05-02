@@ -1,0 +1,7 @@
+owner = TRB
+controller = TRB
+add_core = TRB
+
+trade_goods = sulphur
+life_rating = 35
+

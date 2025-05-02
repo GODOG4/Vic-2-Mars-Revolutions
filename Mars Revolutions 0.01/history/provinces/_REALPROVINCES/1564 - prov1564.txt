@@ -1,0 +1,6 @@
+owner = QAH
+controller = QAH
+add_core = QAH
+trade_goods = coffee
+life_rating = 35
+

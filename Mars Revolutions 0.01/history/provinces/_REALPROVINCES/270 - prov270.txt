@@ -1,0 +1,9 @@
+owner = NEC
+controller = NEC
+add_core = NEC
+
+
+
+trade_goods = grain
+life_rating = 35
+

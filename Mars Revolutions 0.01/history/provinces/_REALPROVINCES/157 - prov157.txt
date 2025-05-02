@@ -1,0 +1,6 @@
+owner = OLF
+controller = OLF
+add_core = OLF
+trade_goods = silk
+life_rating = 35
+

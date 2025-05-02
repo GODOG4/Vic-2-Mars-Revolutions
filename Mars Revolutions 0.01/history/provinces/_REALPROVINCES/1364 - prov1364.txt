@@ -1,0 +1,7 @@
+owner = NOH
+controller = NOH
+add_core = NOH
+
+trade_goods = coffee
+life_rating = 35
+

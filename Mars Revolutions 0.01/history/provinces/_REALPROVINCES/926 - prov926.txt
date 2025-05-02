@@ -1,0 +1,8 @@
+owner = DEN
+controller = DEN
+add_core = DEN
+
+
+trade_goods = wool
+life_rating = 35
+

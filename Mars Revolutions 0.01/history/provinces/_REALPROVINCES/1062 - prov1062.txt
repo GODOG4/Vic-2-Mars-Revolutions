@@ -1,0 +1,8 @@
+owner = NUO
+controller = NUO
+add_core = NUO
+
+
+trade_goods = fish
+life_rating = 35
+

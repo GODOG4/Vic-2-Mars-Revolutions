@@ -1,0 +1,8 @@
+owner = FLD
+controller = FLD
+add_core = FLD
+
+
+trade_goods = coal
+life_rating = 35
+

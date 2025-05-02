@@ -1,0 +1,8 @@
+owner = NOH
+controller = NOH
+add_core = NOH
+
+
+trade_goods = tobacco
+life_rating = 35
+

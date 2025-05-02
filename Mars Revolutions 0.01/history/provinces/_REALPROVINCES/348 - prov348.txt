@@ -1,0 +1,7 @@
+owner = CRF
+controller = CRF
+add_core = CRF
+
+trade_goods = grain
+life_rating = 35
+

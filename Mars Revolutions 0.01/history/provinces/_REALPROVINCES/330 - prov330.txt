@@ -1,0 +1,8 @@
+owner = NIL
+controller = NIL
+add_core = NIL
+
+
+trade_goods = fish
+life_rating = 35
+

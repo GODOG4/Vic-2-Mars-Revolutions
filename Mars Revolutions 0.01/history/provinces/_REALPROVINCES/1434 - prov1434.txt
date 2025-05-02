@@ -1,0 +1,9 @@
+owner = KUN
+controller = KUN
+add_core = KUN
+
+
+
+trade_goods = coal
+life_rating = 35
+

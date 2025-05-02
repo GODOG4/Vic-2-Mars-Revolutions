@@ -1,0 +1,8 @@
+owner = OLM
+controller = OLM
+add_core = OLM
+
+
+trade_goods = cotton
+life_rating = 35
+

@@ -1,0 +1,40 @@
+political_decisions = {
+	WB_security_1 = {
+		alert = no
+		potential = {
+			tag = GHO
+			NOT = { LCT = { has_country_modifier = WB_no_bankruns_please } }
+		}
+		allow = {
+			tag = GHO
+			NOT = { LCT = { has_country_modifier = WB_no_bankruns_please } }
+		}
+		effect = { 
+			LCT = { 
+				add_country_modifier = {
+					name = WB_no_bankruns_please
+					duration = -1
+				} 
+			}
+		}
+	}
+	WB_security_2 = {
+		alert = no
+		potential = {
+			tag = GHO
+			LCT = { Money = 300000000 }
+		}
+		allow = {
+			tag = GHO
+			LCT = { Money = 300000000 }
+		}
+		effect = { 
+			LCT = { 
+				add_country_modifier = {
+					name = Stop_printing_money
+					duration = 1000
+				} 
+			}
+		}
+	}
+}

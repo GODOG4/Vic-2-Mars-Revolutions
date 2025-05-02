@@ -1,0 +1,7 @@
+owner = RAX
+controller = RAX
+add_core = RAX
+
+trade_goods = cattle
+life_rating = 35
+

@@ -1,0 +1,6 @@
+owner = FLD
+controller = FLD
+add_core = FLD
+trade_goods = cattle
+life_rating = 35
+

@@ -1,0 +1,6 @@
+owner = KYA
+controller = KYA
+add_core = KYA
+trade_goods = cattle
+life_rating = 35
+

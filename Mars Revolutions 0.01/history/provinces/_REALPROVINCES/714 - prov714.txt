@@ -1,0 +1,6 @@
+owner = JAM
+controller = JAM
+add_core = JAM
+trade_goods = fish
+life_rating = 35
+

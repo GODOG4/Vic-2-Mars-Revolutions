@@ -1,0 +1,8 @@
+owner = AAB
+controller = AAB
+add_core = AAB
+
+
+trade_goods = coffee
+life_rating = 35
+

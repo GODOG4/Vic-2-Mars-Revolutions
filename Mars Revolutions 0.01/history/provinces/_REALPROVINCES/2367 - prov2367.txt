@@ -1,0 +1,7 @@
+owner = RMR
+controller = RMR
+add_core = RMR
+
+trade_goods = iron
+life_rating = 35
+

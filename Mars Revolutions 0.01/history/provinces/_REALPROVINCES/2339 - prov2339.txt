@@ -1,0 +1,8 @@
+owner = DOT
+controller = DOT
+add_core = DOT
+
+
+trade_goods = grain
+life_rating = 35
+

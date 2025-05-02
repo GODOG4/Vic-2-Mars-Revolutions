@@ -1,0 +1,9 @@
+owner = AH5
+controller = AH5
+add_core = AH5
+
+
+
+trade_goods = timber
+life_rating = 35
+

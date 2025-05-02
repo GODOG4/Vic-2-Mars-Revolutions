@@ -1,0 +1,7 @@
+owner = KHE
+controller = KHE
+add_core = KHE
+
+trade_goods = coal
+life_rating = 35
+

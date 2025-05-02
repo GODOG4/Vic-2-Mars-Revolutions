@@ -1,0 +1,8 @@
+owner = FES
+controller = FES
+add_core = FES
+
+
+trade_goods = grain
+life_rating = 35
+

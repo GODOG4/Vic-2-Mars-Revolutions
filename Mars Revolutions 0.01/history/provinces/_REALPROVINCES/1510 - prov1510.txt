@@ -1,0 +1,8 @@
+owner = SUN
+controller = SUN
+add_core = SUN
+
+
+trade_goods = iron
+life_rating = 35
+

@@ -1,0 +1,8 @@
+owner = TRC
+controller = TRC
+add_core = TRC
+
+
+trade_goods = fruit
+life_rating = 35
+

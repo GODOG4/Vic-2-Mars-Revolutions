@@ -1,0 +1,8 @@
+owner = FER
+controller = FER
+add_core = FER
+
+
+trade_goods = iron
+life_rating = 35
+

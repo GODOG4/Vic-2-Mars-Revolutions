@@ -1,0 +1,7 @@
+owner = SCI
+controller = SCI
+add_core = SCI
+
+trade_goods = cattle
+life_rating = 35
+

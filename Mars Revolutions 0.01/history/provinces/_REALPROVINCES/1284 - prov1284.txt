@@ -1,0 +1,9 @@
+owner = SCI
+controller = SCI
+add_core = SCI
+
+
+
+trade_goods = fish
+life_rating = 35
+

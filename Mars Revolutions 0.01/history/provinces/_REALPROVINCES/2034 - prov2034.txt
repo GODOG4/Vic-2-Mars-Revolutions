@@ -1,0 +1,8 @@
+owner = NAR
+controller = NAR
+add_core = NAR
+
+
+trade_goods = silk
+life_rating = 35
+

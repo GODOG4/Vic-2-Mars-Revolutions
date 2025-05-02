@@ -1,0 +1,7 @@
+owner = TAB
+controller = TAB
+add_core = TAB
+
+trade_goods = coffee
+life_rating = 35
+

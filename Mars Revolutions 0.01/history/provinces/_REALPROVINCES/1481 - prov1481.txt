@@ -1,0 +1,8 @@
+owner = EKT
+controller = EKT
+add_core = EKT
+
+
+trade_goods = silk
+life_rating = 35
+

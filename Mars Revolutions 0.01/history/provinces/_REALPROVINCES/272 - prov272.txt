@@ -1,0 +1,8 @@
+owner = PYT
+controller = PYT
+add_core = PYT
+
+
+trade_goods = grain
+life_rating = 35
+

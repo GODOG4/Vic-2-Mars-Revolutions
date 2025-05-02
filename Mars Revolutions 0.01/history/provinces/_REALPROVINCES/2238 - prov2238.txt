@@ -1,0 +1,7 @@
+owner = MAR
+controller = MAR
+
+
+trade_goods = sulphur
+life_rating = 35
+

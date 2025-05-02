@@ -1,0 +1,7 @@
+owner = KHE
+controller = KHE
+add_core = KHE
+
+trade_goods = fruit
+life_rating = 35
+

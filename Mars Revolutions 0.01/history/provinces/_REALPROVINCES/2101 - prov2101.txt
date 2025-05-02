@@ -1,0 +1,7 @@
+owner = JAY
+controller = JAY
+add_core = JAY
+
+trade_goods = tobacco
+life_rating = 35
+

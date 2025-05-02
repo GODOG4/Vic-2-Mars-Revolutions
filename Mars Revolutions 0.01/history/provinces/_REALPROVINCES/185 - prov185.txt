@@ -1,0 +1,7 @@
+#Made with Vic2 Map Maker Tool by Dotdot :) 
+owner = CRF
+controller = CRF
+add_core = CRF
+trade_goods = timber
+life_rating = 35
+

@@ -1,0 +1,9 @@
+owner = BIL
+controller = BIL
+add_core = BIL
+
+
+
+trade_goods = fruit
+life_rating = 35
+

@@ -1,0 +1,7 @@
+owner = AAB
+controller = AAB
+add_core = AAB
+
+trade_goods = iron
+life_rating = 35
+

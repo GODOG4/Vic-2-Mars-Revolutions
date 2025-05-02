@@ -1,0 +1,181 @@
+#prevents pop growth in world bank / GHOst nation
+
+country_event = {
+	id = 9991200
+	title = "Prestige Slap WB"
+	desc = "Prevents some issues down the road"
+	picture = "dixie"
+	
+	trigger = {
+		LCT = {
+			prestige = 24
+		}
+		tag = LCT
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	immediate = {
+		LCT = {
+			prestige = -100
+		}
+	}
+	
+	option = {
+		name = "Alright, sounds good."
+		ai_chance = {
+			factor = 1.0
+		}
+	}
+}
+
+country_event = {
+	id = 9991201
+	title = "Prestige Slap GHO"
+	desc = "Prevents some issues down the road"
+	picture = "dixie"
+	
+	trigger = {
+		GHO = {
+			prestige = 24
+		}
+		tag = GHO
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	immediate = {
+		GHO = {
+			prestige = -100
+		}
+	}
+	
+	option = {
+		name = "Alright, sounds good."
+		ai_chance = {
+			factor = 1.0
+		}
+	}
+}
+
+country_event = {
+	id = 9991119
+	title = "GHOstland Primitive Forced"
+	desc = "Prevents some issues down the road"
+	picture = "dixie"
+	
+	trigger = {
+		GHO = {
+			civilized = yes
+		}
+		tag = GHO
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	immediate = {
+		GHO = {
+			civilized = no
+		}
+	}
+	
+	option = {
+		name = "Alright, sounds good."
+		ai_chance = {
+			factor = 1.0
+		}
+	}
+}
+
+country_event = {
+	id = 9991161
+	title = "World Bank Primitive Forced"
+	desc = "Prevents some issues down the road"
+	picture = "dixie"
+	
+	trigger = {
+		LCT = {
+			civilized = yes
+		}
+		tag = LCT
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	immediate = {
+		LCT = {
+			civilized = no
+		}
+	}
+	
+	option = {
+		name = "Alright, sounds good."
+		ai_chance = {
+			factor = 1.0
+		}
+	}
+}
+
+country_event = {
+	id = 9991120
+	title = "World Market Pop Growth Nerf"
+	desc = "Prevents some issues down the road"
+	picture = "dixie"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = GHO
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Alright, sounds good."
+		add_country_modifier = {
+			name = ghost_rp_nerf
+			duration = -1
+		}
+		ai_chance = {
+			factor = 1.0
+		}
+	}
+}
+
+country_event = {
+	id = 9991160
+	title = "World Bank AI Nerf"
+	desc = "Prevents some issues down the road"
+	picture = "dixie"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = LCT
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Alright, sounds good."
+		add_country_modifier = {
+			name = world_bank_rp_nerf
+			duration = -1
+		}
+		ai_chance = {
+			factor = 1.0
+		}
+	}
+}

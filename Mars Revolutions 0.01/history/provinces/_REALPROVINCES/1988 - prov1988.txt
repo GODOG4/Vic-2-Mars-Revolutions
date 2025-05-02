@@ -1,0 +1,7 @@
+owner = ARI
+controller = ARI
+add_core = ARI
+
+trade_goods = iron
+life_rating = 35
+

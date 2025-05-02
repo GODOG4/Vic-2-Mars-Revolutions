@@ -1,0 +1,8 @@
+owner = DOT
+controller = DOT
+add_core = DOT
+
+
+trade_goods = wool
+life_rating = 35
+

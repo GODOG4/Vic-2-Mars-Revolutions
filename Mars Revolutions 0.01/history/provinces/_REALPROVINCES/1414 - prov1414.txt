@@ -1,0 +1,7 @@
+owner = KAK
+controller = KAK
+add_core = KAK
+
+trade_goods = timber
+life_rating = 35
+

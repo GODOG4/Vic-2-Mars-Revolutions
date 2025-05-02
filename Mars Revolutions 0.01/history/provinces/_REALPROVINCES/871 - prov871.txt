@@ -1,0 +1,7 @@
+owner = ERD
+controller = ERD
+add_core = ERD
+
+trade_goods = coal
+life_rating = 35
+

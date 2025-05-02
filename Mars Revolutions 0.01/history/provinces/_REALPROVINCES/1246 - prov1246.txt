@@ -1,0 +1,8 @@
+owner = SCI
+controller = SCI
+add_core = SCI
+
+
+trade_goods = coal
+life_rating = 35
+

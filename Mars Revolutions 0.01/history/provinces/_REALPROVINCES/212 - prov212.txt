@@ -1,0 +1,6 @@
+owner = CRF
+controller = CRF
+add_core = CRF
+trade_goods = tobacco
+life_rating = 35
+

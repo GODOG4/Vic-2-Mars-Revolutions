@@ -1,0 +1,8 @@
+owner = GIG
+controller = GIG
+add_core = GIG
+
+
+trade_goods = wool
+life_rating = 35
+

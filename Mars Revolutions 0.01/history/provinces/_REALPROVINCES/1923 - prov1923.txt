@@ -1,0 +1,8 @@
+owner = WAH
+controller = WAH
+add_core = WAH
+
+
+trade_goods = tobacco
+life_rating = 35
+

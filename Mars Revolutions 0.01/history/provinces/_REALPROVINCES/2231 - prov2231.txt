@@ -1,0 +1,8 @@
+owner = LUD
+controller = LUD
+add_core = LUD
+
+
+trade_goods = grain
+life_rating = 35
+

@@ -1,0 +1,8 @@
+owner = ETS
+controller = ETS
+add_core = ETS
+
+
+trade_goods = coal
+life_rating = 35
+

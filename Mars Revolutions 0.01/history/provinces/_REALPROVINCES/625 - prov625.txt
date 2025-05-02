@@ -1,0 +1,6 @@
+owner = HEL
+controller = HEL
+add_core = HEL
+trade_goods = wool
+life_rating = 35
+

@@ -1,0 +1,7 @@
+owner = ETS
+controller = ETS
+add_core = ETS
+
+trade_goods = grain
+life_rating = 35
+

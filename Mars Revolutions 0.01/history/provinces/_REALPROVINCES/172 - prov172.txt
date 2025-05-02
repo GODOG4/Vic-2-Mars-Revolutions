@@ -1,0 +1,6 @@
+owner = RAX
+controller = RAX
+add_core = RAX
+trade_goods = grain
+life_rating = 35
+

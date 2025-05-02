@@ -1,0 +1,33 @@
+owner = TRC
+controller = TRC
+add_core = TRC
+
+
+trade_goods = fish
+life_rating = 35
+
+state_building = {
+	level = 1
+	building = steamer_shipyard
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = machine_parts_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = lumber_mill
+	upgrade = yes
+}
+state_building = {
+	level = 3
+	building = clipper_shipyard
+	upgrade = yes
+}

@@ -1,0 +1,6 @@
+owner = CRF
+controller = CRF
+add_core = CRF
+trade_goods = opium
+life_rating = 35
+

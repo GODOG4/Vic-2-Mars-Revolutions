@@ -1,0 +1,8 @@
+owner = ERD
+controller = ERD
+add_core = ERD
+
+
+trade_goods = cattle
+life_rating = 35
+
