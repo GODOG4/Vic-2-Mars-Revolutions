@@ -1,0 +1,32 @@
+name = "Jihad for South Marineris"
+
+4835.10.2 = {
+	add_attacker = FLD
+	add_attacker = BOS
+	add_attacker = NRP
+	add_defender = MAR
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = liberate_country
+		country = SMR
+		actor = FLD
+		receiver = MAR
+	}
+	war_goal = {
+		casus_belli = humiliate
+		actor = MAR
+		receiver = FLD
+	}
+}
+
+4836.6.6 = {
+	rem_attacker = FLD
+	rem_attacker = BOS
+	rem_attacker = NRP
+	rem_defender = MAR
+}

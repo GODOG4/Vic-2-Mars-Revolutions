@@ -1,6 +1,0 @@
-owner = OLM
-controller = OLM
-add_core = OLM
-trade_goods = grain
-life_rating = 35
-

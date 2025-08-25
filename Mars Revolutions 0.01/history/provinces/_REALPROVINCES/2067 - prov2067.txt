@@ -1,8 +1,0 @@
-owner = NAR
-controller = NAR
-add_core = NAR
-
-
-trade_goods = coal
-life_rating = 35
-

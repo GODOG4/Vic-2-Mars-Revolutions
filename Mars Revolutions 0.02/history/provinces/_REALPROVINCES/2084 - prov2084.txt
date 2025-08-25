@@ -1,0 +1,9 @@
+owner = NAR
+controller = NAR
+add_core = NAR
+add_core = KHE
+
+
+trade_goods = tropical_wood
+life_rating = 35
+

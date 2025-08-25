@@ -1,8 +1,0 @@
-owner = TEC
-controller = TEC
-add_core = TEC
-
-
-trade_goods = grain
-life_rating = 35
-

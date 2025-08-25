@@ -1,0 +1,69 @@
+# Events to remind the player about colonisation dates
+country_event = {
+
+	id = 200010 
+
+	trigger = {
+		ai = no
+		year = 4836
+	}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 6
+
+		modifier = {
+			factor = 0.1
+			year = 4837
+		}
+		modifier = {
+			factor = 0.1
+			year = 4838
+		}
+	}
+
+	title = "EVTNAME200010"
+	desc = "EVTDESC200010"
+	picture = "colonial_uprising"
+
+	option = {
+		name = "Got it!"  
+		prestige = 1
+	}
+}
+
+# Events to remind the player about colonisation dates
+country_event = {
+
+	id = 200011 
+
+	trigger = {
+		ai = no
+		year = 4870
+	}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 6
+
+		modifier = {
+			factor = 0.1
+			year = 4871
+		}
+		modifier = {
+			factor = 0.1
+			year = 4872
+		}
+	}
+
+	title = "EVTNAME200010"
+	desc = "EVTDESC200010"
+	picture = "colonial_uprising"
+
+	option = {
+		name = "Got it!"  
+		prestige = 1
+	}
+}

@@ -1,0 +1,9 @@
+owner = TRB
+controller = TRB
+add_core = RMR
+colonial = 2
+
+
+trade_goods = coal
+life_rating = 35
+

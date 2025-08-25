@@ -1,8 +1,0 @@
-owner = NUO
-controller = NUO
-add_core = NUO
-
-
-trade_goods = tropical_wood
-life_rating = 35
-

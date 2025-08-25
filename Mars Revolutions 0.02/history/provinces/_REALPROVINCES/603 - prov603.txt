@@ -1,0 +1,5 @@
+owner = HEL
+controller = HEL
+add_core = HEL
+trade_goods = fish
+life_rating = 38

@@ -1,0 +1,9 @@
+owner = TRB
+controller = TRB
+add_core = KUC
+colonial = 2
+
+
+trade_goods = timber
+life_rating = 35
+

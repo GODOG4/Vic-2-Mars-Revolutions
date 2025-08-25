@@ -1,0 +1,18 @@
+# Yemen Goods
+country_event = {
+	id = 9999910
+	title = "Yemen Ships"
+	desc = "Starting clipper goods for Yemen so their navy doesn't attrition."
+	picture = "dixie"
+	
+ 	trigger = {
+		tag = YEM
+	}
+	
+	fire_only_once = yes
+	
+	option = {
+		name = "Gimme the Goods"
+			clipper_convoy = 500
+	}
+}

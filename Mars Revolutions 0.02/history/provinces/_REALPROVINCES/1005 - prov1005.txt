@@ -1,0 +1,6 @@
+owner = NRP
+controller = NRP
+add_core = NEP
+trade_goods = coal
+life_rating = 35
+

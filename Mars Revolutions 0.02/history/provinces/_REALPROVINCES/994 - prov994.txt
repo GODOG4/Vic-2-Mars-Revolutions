@@ -1,0 +1,8 @@
+owner = BHM
+controller = BHM
+add_core = BHM
+
+
+trade_goods = wool
+life_rating = 35
+

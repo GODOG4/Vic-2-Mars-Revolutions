@@ -1,0 +1,8 @@
+owner = TPF
+controller = TPF
+add_core = TPF
+
+
+trade_goods = coal
+life_rating = 35
+

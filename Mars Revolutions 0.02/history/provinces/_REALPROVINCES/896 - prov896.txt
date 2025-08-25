@@ -1,0 +1,7 @@
+owner = KLF
+controller = KLF
+add_core = KLF
+
+trade_goods = grain
+life_rating = 35
+

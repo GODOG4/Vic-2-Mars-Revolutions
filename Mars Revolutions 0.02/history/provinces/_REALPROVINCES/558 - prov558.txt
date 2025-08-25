@@ -1,0 +1,6 @@
+owner = MAR
+controller = MAR
+add_core = MAR
+trade_goods = wool
+life_rating = 35
+terrain = semidesert

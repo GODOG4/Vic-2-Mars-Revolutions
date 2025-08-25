@@ -1,0 +1,8 @@
+owner = KAS
+controller = KAS
+add_core = KAS
+
+
+trade_goods = fish
+life_rating = 35
+

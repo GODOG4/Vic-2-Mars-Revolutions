@@ -1,0 +1,9 @@
+owner = BON
+controller = BON
+add_core = BON
+
+
+
+trade_goods = fruit
+life_rating = 35
+

@@ -1,0 +1,8 @@
+owner = KLF
+controller = KLF
+add_core = KLF
+
+
+trade_goods = tobacco
+life_rating = 35
+

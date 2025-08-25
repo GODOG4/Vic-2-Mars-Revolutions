@@ -1,6 +1,0 @@
-owner = XAN
-controller = XAN
-add_core = XAN
-trade_goods = tobacco
-life_rating = 35
-

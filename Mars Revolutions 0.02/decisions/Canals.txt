@@ -1,0 +1,87 @@
+political_decisions = {
+
+	#Tempe Terran Canal
+	build_ceraunia_canal  = {
+		picture = suezcanal
+		potential = {
+			NOT = { is_canal_enabled = 2 }
+			OR = { 
+				is_greater_power = yes
+				owns = 211
+			}
+		}
+		allow = {
+			OR = {
+				211 = { owner = { in_sphere = THIS } }
+				owns = 211
+			}		
+			invention = machine_tools
+			invention = nitroglycerin
+			steel_steamers = 1
+			mechanical_production = 1
+		}
+		effect = {
+			treasury = -200000
+			enable_canal = 3
+			211 = { set_province_flag = 3_canal }
+			prestige = 10
+		}
+	}
+	
+	#Valles Mariner Canal
+	build_renost_canal = {
+		picture = suezcanal
+		potential = {
+			NOT = { is_canal_enabled = 3 }
+			OR = { 
+				is_greater_power = yes
+				owns = 665
+			}
+		}
+		allow = {
+			OR = {
+				665 = { owner = { in_sphere = THIS } }
+				owns = 665
+			}
+			invention = machine_tools
+			invention = nitroglycerin		
+			iron_steamers = 1
+			mechanical_production = 1
+		}
+		effect = {
+			treasury = -200000
+			enable_canal = 4
+			665 = { set_province_flag = 4_canal }
+			prestige = 10
+		}
+	}
+
+	#Canal allowing passage through the middle of the super continent, starts uncolonized, huge navial gains.
+	build_middle_mars_canal = {
+		picture = suezcanal
+		potential = {
+			NOT = { is_canal_enabled = 4 }
+			OR = { 
+				is_greater_power = yes
+				owns = 1111
+			}
+		}
+		allow = {
+			OR = {
+				1111 = { owner = { in_sphere = THIS } }
+				owns = 1111
+			}
+			invention = machine_tools
+			invention = nitroglycerin		
+			iron_steamers = 1
+			mechanical_production = 1
+		}
+		effect = {
+			treasury = -200000
+			enable_canal = 5
+			1111 = { set_province_flag = 5_canal }
+			prestige = 10
+		}
+	}
+
+}

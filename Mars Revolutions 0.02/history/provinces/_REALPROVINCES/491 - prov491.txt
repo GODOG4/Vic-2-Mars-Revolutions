@@ -1,0 +1,8 @@
+owner = THM
+controller = THM
+add_core = THM
+
+
+trade_goods = timber
+life_rating = 35
+

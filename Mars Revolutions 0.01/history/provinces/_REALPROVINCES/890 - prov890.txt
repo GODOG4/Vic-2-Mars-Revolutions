@@ -1,8 +1,0 @@
-owner = KAL
-controller = KAL
-add_core = KAL
-
-
-trade_goods = tobacco
-life_rating = 35
-

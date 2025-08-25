@@ -1,0 +1,7 @@
+owner = BHM
+controller = BHM
+add_core = BHM
+
+trade_goods = cotton
+life_rating = 35
+

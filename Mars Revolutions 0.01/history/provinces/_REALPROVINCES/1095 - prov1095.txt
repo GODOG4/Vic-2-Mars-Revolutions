@@ -1,6 +1,0 @@
-owner = NRP
-controller = NRP
-add_core = NRP
-trade_goods = cattle
-life_rating = 35
-

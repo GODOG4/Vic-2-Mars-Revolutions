@@ -1,0 +1,29 @@
+name = "Noctian War of Independence"
+
+4835.10.2 = {
+	add_attacker = MAR
+	add_defender = NCT
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = civil_war
+		actor = MAR
+		receiver = NCT
+	}
+
+	war_goal = {
+		casus_belli = status_quo
+		actor = NCT
+		receiver = MAR
+	}
+
+}
+
+4836.6.6 = {
+	rem_attacker = MAR
+	rem_defender = NCT
+}

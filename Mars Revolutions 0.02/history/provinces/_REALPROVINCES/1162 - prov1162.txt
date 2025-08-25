@@ -1,0 +1,6 @@
+owner = BOS
+controller = BOS
+add_core = NEP
+trade_goods = silk
+life_rating = 35
+

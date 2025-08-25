@@ -1,6 +1,0 @@
-owner = FLD
-controller = FLD
-
-trade_goods = fish
-life_rating = 35
-

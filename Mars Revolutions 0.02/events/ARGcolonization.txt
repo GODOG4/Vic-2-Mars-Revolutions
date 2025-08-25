@@ -1,0 +1,30 @@
+province_event = {
+	id = 78700945
+	title = "Argentian Colonial Efforts"
+	desc = "Our nation is focusing great effort on civilizing these wild steppes."
+	
+	trigger = {
+		owner = {
+			tag = ARG
+			has_country_flag = arg_argentian
+		}
+		AND = {
+			life_rating = 15
+			NOT = { life_rating = 16 }
+			pop_majority_culture = argentian
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Excellent!"
+		life_rating = 17
+		add_province_modifier = {
+			name = gold_rush
+				duration = 2190
+			}
+	}
+}

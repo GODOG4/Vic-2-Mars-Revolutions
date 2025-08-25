@@ -1,0 +1,25 @@
+owner = KYA
+controller = KYA
+add_core = KYA
+trade_goods = timber
+life_rating = 35
+state_building = {
+	level = 2
+	building = winery
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = canned_food_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = small_arms_factory
+	upgrade = yes
+}

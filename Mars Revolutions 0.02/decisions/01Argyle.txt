@@ -1,0 +1,36 @@
+political_decisions = {
+
+	ARG_noachis_argyrian = {
+		picture = colonial_policy
+		potential = { 
+			tag = ARG
+			NOT = { has_country_flag = terraformed_argyle }
+		}
+
+		allow = {
+			nationalism_n_imperialism = 1
+		}
+
+		effect = { 
+			set_country_flag = terraformed_argyle
+			prestige = 5
+			add_accepted_culture = noachis_argyrian
+			}
+		}
+	ARG_argentian = {
+		picture = colonial_policy
+		potential = { 
+			tag = ARG
+			NOT = { has_country_flag = arg_argentian }
+		}
+
+		allow = {
+			revolution_n_counterrevolution = 1
+		}
+
+		effect = { 
+			set_country_flag = arg_argentian
+			prestige = 5
+			}
+		}
+}

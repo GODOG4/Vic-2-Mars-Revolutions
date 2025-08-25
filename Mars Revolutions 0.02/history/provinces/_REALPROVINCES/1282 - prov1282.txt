@@ -1,0 +1,8 @@
+owner = ETE
+controller = ETE
+colonial = 2
+
+
+trade_goods = timber
+life_rating = 35
+

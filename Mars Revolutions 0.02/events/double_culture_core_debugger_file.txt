@@ -1,0 +1,79 @@
+province_event = {
+	id = 78700943
+	title = "Restoration of Valles Marineris Imperial Order"
+	desc = "With our control re-established over our rebellious splinter states, we've re-organized and re-invested into these provinces to ensure they will never think of rising again."
+	
+	trigger = {
+		owner = {
+			tag = MAR
+			NOT = {
+				war = yes
+			}
+		}
+		OR = {
+			AND = {
+				is_core = MAR
+				is_core = KAT
+			}
+			AND = {
+				is_core = MAR
+				is_core = KLF
+			}
+			AND = {
+				is_core = MAR
+				is_core = TOR
+			}
+			AND = {
+				is_core = MAR
+				is_core = QYO
+			}
+			AND = {
+				is_core = MAR
+				is_core = DNS
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Excellent!"
+		remove_core = KAT
+		remove_core = KLF
+		remove_core = TOR
+		remove_core = QYO
+		remove_core = DNS
+		add_core = THIS
+		add_province_modifier = {
+			name = colonial_recruitment
+				duration = 1095
+			}
+	}
+}
+	province_event = {
+	id = 78700944
+	title = "Double Culture Core Fix"
+	desc = "This generic event attempt to clean up overlapping Culture Cores"
+	
+	trigger = {
+		owner = {
+			NOT = { tag = MAR }
+			NOT = {
+				war = yes
+			}
+		}
+		any_owned = { any_country = { limit = { primary_culture = THIS any_core = { is_core = THIS } } } }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Excellent!"
+		any_core = { limit = { has_core = { primary_culture = THIS } } remove_core = THIS }
+	}
+
+}

@@ -1,0 +1,6 @@
+owner = RIT
+controller = RIT
+add_core = RIT
+trade_goods = coffee
+life_rating = 35
+

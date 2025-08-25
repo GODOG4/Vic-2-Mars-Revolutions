@@ -1,0 +1,8 @@
+owner = SLP
+controller = SLP 
+add_core = SLP
+
+
+trade_goods = coal
+life_rating = 35
+

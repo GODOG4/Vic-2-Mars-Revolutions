@@ -1,0 +1,6 @@
+owner = VIK
+controller = VIK
+add_core = VIK
+trade_goods = grain
+life_rating = 35
+

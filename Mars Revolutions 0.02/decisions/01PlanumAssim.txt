@@ -1,0 +1,27 @@
+political_decisions = {
+
+	planumian_settlement_policy = {
+		picture = colonial_policy
+		potential = { 
+			OR = {
+				tag = CEL
+				tag = BAY
+				tag = TAH
+			}
+			NOT = { has_country_flag = planum_settlement }
+		}
+
+		allow = {
+			state_n_government = 1
+		}
+
+		effect = { 
+			prestige = 5
+			set_country_flag = planum_settlement
+				add_country_modifier = {
+				    name = planumian_assim_boost
+				    duration = -1
+				}
+			}
+		}
+}

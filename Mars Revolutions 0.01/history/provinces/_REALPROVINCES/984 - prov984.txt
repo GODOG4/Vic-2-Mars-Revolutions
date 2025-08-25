@@ -1,8 +1,0 @@
-owner = DEN
-controller = DEN
-add_core = DEN
-
-
-trade_goods = iron
-life_rating = 35
-

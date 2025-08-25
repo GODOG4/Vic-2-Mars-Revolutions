@@ -1,0 +1,703 @@
+political_decisions = {
+###Elysia Formable### 
+form_elysia = {
+	potential = {
+		OR = {
+			primary_culture = elysian
+			primary_culture = alboric
+		}
+            	NOT = { exists = ELY }
+		NOT = { has_global_flag = elysia_formed }
+		}
+		
+		allow = {
+			war = no
+                        KUN = {
+				all_core = {
+                                	owned_by = THIS
+				            }
+			            }
+			NOH = {
+				all_core = {
+                                	owned_by = THIS
+				            }
+			            }
+			RIN = {
+				all_core = {
+                                	owned_by = THIS
+				            }
+			            }
+			QAH = {
+				all_core = {
+                                	owned_by = THIS
+				            }
+			            }
+			RIH = {
+				all_core = {
+                                	owned_by = THIS
+				            }
+			            }
+                }
+		
+		effect = {
+			prestige = 20
+			set_global_flag = elysia_formed
+            years_of_research = 2
+            add_accepted_culture = elysian
+            add_accepted_culture = alboric
+            all_core = { add_core = ELY }
+           	change_tag = ELY
+			KUN = {
+				all_core = {
+                    		add_core = ELY
+                    		remove_core = KUN
+				    }
+		        	}
+            		NOH = {
+				all_core = {
+                    		add_core = ELY
+                    		remove_core = NOH
+				    }
+		        }
+			RIN = {
+				all_core = {
+                    		add_core = ELY
+                    		remove_core = RIN
+				}
+		        }
+			QAH = {
+				all_core = {
+                    		add_core = ELY
+                    		remove_core = QAH
+				}
+		        }
+			RIH = {
+				all_core = {
+                    		add_core = ELY
+                    		remove_core = RIH
+				}
+		        }
+          	}
+		}
+	###Tyrrhena Terra Formable### 
+	form_tyrrhena = {
+	potential = {
+		OR = {
+			primary_culture = tyrrhenan
+			primary_culture = isidian
+			primary_culture = amenthian
+			primary_culture = escalanteu
+			has_country_flag = abadoned_hesperia
+		}
+        NOT = { exists = THT }
+		NOT = { has_global_flag = tyrrhena_formed }
+		}
+		
+		allow = {
+			war = no
+            KHE = {
+				all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+				            }
+			            }
+					}
+			NAR = {
+				all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+				            }
+			            }
+					}
+			LUN = {
+				all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+				            }
+			            }
+					}
+			TRB = {
+				all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+				            }
+			            }
+					}
+			KAD = {
+				all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+				            }
+			            }
+					}
+                }
+		
+		effect = {
+			prestige = 20
+			set_global_flag = tyrrhena_formed
+            	years_of_research = 2
+            	all_core = { add_core = THT }
+           	change_tag = THT
+		any_country = {
+                		limit = {
+                    			OR = {
+						tag = KHE
+						tag = NAR
+						tag = LUN
+						tag = TRB
+						tag = KAD
+					}
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+                }
+		civilized = yes
+                country_event = 50013
+            }
+
+			KHE = {
+				all_core = {
+                    		add_core = THT
+                    		remove_core = KHE
+				    }
+		        	}
+           		 NAR = {
+				all_core = {
+                    		add_core = THT
+                    		remove_core = NAR
+				    }
+		        }
+			LUN = {
+				all_core = {
+                    		add_core = THT
+                    		remove_core = LUN
+				}
+		        }
+			TRB = {
+				all_core = {
+                    		add_core = THT
+                    		remove_core = TRB
+				}
+		        }
+			KAD = {
+				all_core = {
+                    		add_core = THT
+                    		remove_core = KAD
+				}
+		        }
+          	}
+		}
+	###Hellas Formable### 
+	form_hellas = {
+	potential = {
+		OR = {
+			primary_culture = hellenian
+			primary_culture = hellenic
+			primary_culture = australe_hellenic
+		}
+        NOT = { exists = HLA }
+		NOT = { has_global_flag = hellas_formed }
+		}
+		
+		allow = {
+			war = no
+            TAH = {
+				all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+				            }
+			            }
+					}
+			NUR = {
+				all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+				            }
+			            }
+					}
+			SIS = {
+				all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+				            }
+			            }
+					}
+			YUG = {
+				all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+				            }
+			            }
+					}
+			ISA = {
+				all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+				            }
+			            }
+				}
+			ETE = {
+				all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+				    }
+			   }
+			}
+		}
+		effect = {
+			prestige = 20
+			set_global_flag = hellas_formed
+            all_core = { add_core = HLA }
+           	change_tag = HLA
+			any_country = {
+                		limit = {
+                    			OR = {
+						tag = TAH
+						tag = NUR
+						tag = SIS
+						tag = YUG
+						tag = ISA
+						tag = ETE
+					}
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+                }
+                country_event = 50013
+            }
+
+			TAH = {
+				all_core = {
+                    		add_core = HLA
+                    		remove_core = TAH
+				    }
+		        }
+			NUR = {
+				all_core = {
+                    		add_core = HLA
+                    		remove_core = NUR
+				    }
+		        }
+			SIS = {
+				all_core = {
+                    		add_core = HLA
+                    		remove_core = SIS
+				    }
+		        }
+			YUG = {
+				all_core = {
+                    		add_core = HLA
+                    		remove_core = YUG
+				    }
+		        }
+			ISA = {
+				all_core = {
+                    		add_core = HLA
+                    		remove_core = ISA
+				    }
+		        }
+			ETE = {
+				all_core = {
+                    		add_core = HLA
+                    		remove_core = ETE
+				    }
+		        }
+			}
+		}
+	###Eosian Formable### 
+	form_eosian = {
+	potential = {
+		primary_culture = eosian
+        NOT = { exists = EOS }
+		NOT = { has_global_flag = eosian_formed }
+		}
+		
+		allow = {
+			war = no
+            REM = {
+				all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+				            }
+			            }
+					}
+			GAL = {
+				all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+				            }
+			            }
+					}
+			BON = {
+				all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+				            }
+			            }
+					}
+			QOS = {
+				all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+				            }
+			            }
+				}
+			CHR = {
+				all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+				            }
+			            }
+				}
+		}
+		effect = {
+			prestige = 20
+			set_global_flag = eosian_formed
+            all_core = { add_core = EOS }
+           	change_tag = EOS
+			add_country_modifier = {
+				    name = republican_safe_haven
+				    duration = 12000
+				}
+			any_country = {
+                	limit = {
+                    	OR = {
+						tag = REM
+						tag = GAL
+						tag = BON
+						tag = QOS
+						tag = CHR
+						}
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+               			}
+                		country_event = 50013
+            		}
+
+			REM = {
+				all_core = {
+                    		add_core = EOS
+                    		remove_core = REM
+				    }
+		        }
+			GAL = {
+				all_core = {
+                    		add_core = EOS
+                    		remove_core = GAL
+				    }
+		        }
+			BON = {
+				all_core = {
+                    		add_core = EOS
+                    		remove_core = BON
+				    }
+		        }
+			QOS = {
+				all_core = {
+                    		add_core = EOS
+                    		remove_core = QOS
+				    }
+		        }
+			CHR = {
+				all_core = {
+                    		add_core = EOS
+                    		remove_core = CHR
+				    }
+		        }
+			}
+		}
+form_west_argyle = {
+	potential = {
+			primary_culture = argyrian
+			NOT = { exists = ARG }
+			NOT = { has_global_flag = west_argyle_formed }
+		}
+		allow = {
+			war = no
+            RAR = {
+				all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+				            }
+			            }
+					}
+			LAL = {
+				all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+				            }
+			            }
+					}
+			ELE = {
+				all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+				            }
+			            }
+					}
+			REN = {
+				all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+				            }
+			            }
+				}
+			NEP = {
+				all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+				            }
+			            }
+				}
+		}
+		effect = {
+			prestige = 20
+			set_global_flag = west_argyle_formed
+            all_core = { add_core = ARG }
+           	change_tag = ARG
+			capital = 1130
+			any_country = {
+                	limit = {
+                    			OR = {
+						tag = RAR
+						tag = LAL
+						tag = ELE
+						tag = REN
+						tag = NEP
+						tag = NRP
+						tag = BOS
+						}
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+               			}
+                		country_event = 50013
+            		}
+
+			RAR = {
+				all_core = {
+                    		add_core = ARG
+                    		remove_core = RAR
+				    }
+		        }
+			LAL = {
+				all_core = {
+                    		add_core = ARG
+                    		remove_core = LAL
+				    }
+		        }
+			ELE = {
+				all_core = {
+                    		add_core = ARG
+                    		remove_core = ELE
+				    }
+		        }
+			REN = {
+				all_core = {
+                    		add_core = ARG
+                    		remove_core = REN
+				    }
+		        }
+			NEP = {
+				all_core = {
+                    		add_core = ARG
+                    		remove_core = NEP
+				    }
+		        }
+			}
+		}
+}

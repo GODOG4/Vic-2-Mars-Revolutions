@@ -1,0 +1,8 @@
+owner = ETE
+controller = ETE
+add_core = RAN
+colonial = 2
+
+trade_goods = grain
+life_rating = 35
+

@@ -1,0 +1,14 @@
+#Fadlid-Nereidum
+vassal = { 
+    first = FLD
+    second = NRP
+    start_date = 4835.1.1
+    end_date = 4950.1.1
+}
+
+vassal = { 
+    first = FLD
+    second = BOS
+    start_date = 4835.1.1
+    end_date = 4950.1.1
+}

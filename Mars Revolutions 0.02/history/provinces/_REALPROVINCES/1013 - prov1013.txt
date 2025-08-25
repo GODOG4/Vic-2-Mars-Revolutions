@@ -1,0 +1,8 @@
+owner = BHM
+controller = BHM
+add_core = BHM
+
+
+trade_goods = fish
+life_rating = 35
+

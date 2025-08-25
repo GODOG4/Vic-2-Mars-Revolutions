@@ -1,0 +1,8 @@
+owner = NAR
+controller = NAR
+add_core = NAR
+add_core = KHE
+
+trade_goods = grain
+life_rating = 35
+

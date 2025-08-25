@@ -1,7 +1,0 @@
-owner = NAR
-controller = NAR
-add_core = NAR
-
-trade_goods = iron
-life_rating = 35
-

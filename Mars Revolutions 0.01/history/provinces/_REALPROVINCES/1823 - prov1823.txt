@@ -1,8 +1,0 @@
-owner = ETE
-controller = ETE
-add_core = ETE
-
-
-trade_goods = cattle
-life_rating = 35
-

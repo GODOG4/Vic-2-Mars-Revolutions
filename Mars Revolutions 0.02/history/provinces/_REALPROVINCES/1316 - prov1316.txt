@@ -1,0 +1,8 @@
+owner = REM
+controller = REM
+add_core = REM
+
+
+trade_goods = iron
+life_rating = 35
+

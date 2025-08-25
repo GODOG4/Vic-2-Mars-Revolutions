@@ -1,0 +1,8 @@
+owner = DNS
+controller = DNS
+add_core = DNS
+
+
+trade_goods = wool
+life_rating = 35
+

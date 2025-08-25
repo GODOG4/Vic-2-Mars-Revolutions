@@ -1,0 +1,7 @@
+owner = KAS
+controller = KAS
+add_core = KAS
+
+trade_goods = grain
+life_rating = 35
+

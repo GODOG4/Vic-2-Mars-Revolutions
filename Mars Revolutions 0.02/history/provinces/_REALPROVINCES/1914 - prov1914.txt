@@ -1,0 +1,8 @@
+owner = RAM
+controller = RAM
+add_core = DAS
+colonial = 2
+
+trade_goods = timber
+life_rating = 35
+

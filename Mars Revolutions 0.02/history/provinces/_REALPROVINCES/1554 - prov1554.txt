@@ -1,0 +1,6 @@
+owner = RIT
+controller = RIT
+add_core = RIT
+trade_goods = silk
+life_rating = 35
+
