@@ -1,0 +1,305 @@
+Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
+GC_DESC;Long ago, many centuries after Mars had been fully Terraformed, Earth went dark on the same day all existing electronics on Mars stopped working. All ships not in orbit fell from the sky.\n\nMars quickly descended into chaos as society collapsed, bringing on a new Dark Age. Most of the population succumbed to famine as governments broke down and nations fractured.\n\nAround 1000+ years later humanity is recovering and has entered a new Pre-Modern Era, largely forgetting the accurate history of humanity and the disaster. No one except the Spacers know if Earth is still around and is thought of as more of a holy icon and legend. Some ideologies reject the concept or existence of Earth as we know it or believe Mars has been Terraformed and inhabited much longer than thought.;x;x;;x;;;;;;;;;x
+GC_NAME;Mars Revolutions;;;;;;;;;;;;;x
+dryhills;Arid Hills;;;;;;;;;;;;;x
+pop_pro_small;Small State Promotion;;;;;;;;;;;;;x
+pop_pro_medium;Medium State Promotion;;;;;;;;;;;;;x
+pop_pro_big;Big State Promotion;;;;;;;;;;;;;x
+pop_pro_huge;Huge State Promotion;;;;;;;;;;;;;x
+custom_policies;Policies;;;;;;;;;;;;;x
+small_promote_aristocrats;Encourage Aristocrats;;;;;;;;;;;;;x
+small_promote_artisans;Encourage Artisans;;;;;;;;;;;;;x
+small_promote_bureaucrats;Encourage Bureaucrats;;;;;;;;;;;;;x
+small_promote_capitalists;Encourage Capitalists;;;;;;;;;;;;;x
+small_promote_clergymen;Encourage Clergymen;;;;;;;;;;;;;x
+small_promote_clerks;Encourage Clerks;;;;;;;;;;;;;x
+small_promote_craftsmen;Encourage Craftmen;;;;;;;;;;;;;x
+small_promote_farmers;Encourage Farmers;;;;;;;;;;;;;x
+small_promote_labourers;Encourage Labourers;;;;;;;;;;;;;x
+small_promote_officers;Encourage Officers;;;;;;;;;;;;;x
+small_promote_soldiers;Encourage Soldiers;;;;;;;;;;;;;x
+medium_promote_aristocrats;Encourage Aristocrats;;;;;;;;;;;;;x
+medium_promote_artisans;Encourage Artisans;;;;;;;;;;;;;x
+medium_promote_bureaucrats;Encourage Bureaucrats;;;;;;;;;;;;;x
+medium_promote_capitalists;Encourage Capitalists;;;;;;;;;;;;;x
+medium_promote_clergymen;Encourage Clergymen;;;;;;;;;;;;;x
+medium_promote_clerks;Encourage Clerks;;;;;;;;;;;;;x
+medium_promote_craftsmen;Encourage Craftmen;;;;;;;;;;;;;x
+medium_promote_farmers;Encourage Farmers;;;;;;;;;;;;;x
+medium_promote_labourers;Encourage Labourers;;;;;;;;;;;;;x
+medium_promote_officers;Encourage Officers;;;;;;;;;;;;;x
+medium_promote_soldiers;Encourage Soldiers;;;;;;;;;;;;;x
+huge_promote_aristocrats;Encourage Aristocrats;;;;;;;;;;;;;x
+huge_promote_artisans;Encourage Artisans;;;;;;;;;;;;;x
+huge_promote_bureaucrats;Encourage Bureaucrats;;;;;;;;;;;;;x
+huge_promote_capitalists;Encourage Capitalists;;;;;;;;;;;;;x
+huge_promote_clergymen;Encourage Clergymen;;;;;;;;;;;;;x
+huge_promote_clerks;Encourage Clerks;;;;;;;;;;;;;x
+huge_promote_craftsmen;Encourage Craftmen;;;;;;;;;;;;;x
+huge_promote_farmers;Encourage Farmers;;;;;;;;;;;;;x
+huge_promote_labourers;Encourage Labourers;;;;;;;;;;;;;x
+huge_promote_officers;Encourage Officers;;;;;;;;;;;;;x
+huge_promote_soldiers;Encourage Soldiers;;;;;;;;;;;;;x
+big_promote_aristocrats;Encourage Aristocrats;;;;;;;;;;;;;x
+big_promote_artisans;Encourage Artisans;;;;;;;;;;;;;x
+big_promote_bureaucrats;Encourage Bureaucrats;;;;;;;;;;;;;x
+big_promote_capitalists;Encourage Capitalists;;;;;;;;;;;;;x
+big_promote_clergymen;Encourage Clergymen;;;;;;;;;;;;;x
+big_promote_clerks;Encourage Clerks;;;;;;;;;;;;;x
+big_promote_craftsmen;Encourage Craftmen;;;;;;;;;;;;;x
+big_promote_farmers;Encourage Farmers;;;;;;;;;;;;;x
+big_promote_labourers;Encourage Labourers;;;;;;;;;;;;;x
+big_promote_officers;Encourage Officers;;;;;;;;;;;;;x
+big_promote_soldiers;Encourage Soldiers;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x

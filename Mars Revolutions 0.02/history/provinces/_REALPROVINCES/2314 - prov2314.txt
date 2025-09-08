@@ -1,7 +1,0 @@
-owner = XIP
-controller = XIP
-
-
-trade_goods = fish
-life_rating = 35
-

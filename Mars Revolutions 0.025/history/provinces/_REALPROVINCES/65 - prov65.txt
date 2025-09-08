@@ -1,0 +1,9 @@
+owner = KYA
+controller = KYA
+add_core = KYA
+
+naval_base = 1
+
+trade_goods = cotton
+life_rating = 35
+

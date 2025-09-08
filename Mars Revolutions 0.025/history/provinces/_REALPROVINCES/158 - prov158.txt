@@ -1,0 +1,8 @@
+owner = IAL
+controller = IAL
+add_core = IAL
+
+
+trade_goods = timber
+life_rating = 35
+

@@ -1,0 +1,5 @@
+owner = CEL
+controller = CEL
+trade_goods = fruit
+life_rating = 35
+

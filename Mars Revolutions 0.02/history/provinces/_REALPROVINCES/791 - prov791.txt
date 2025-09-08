@@ -1,7 +1,0 @@
-owner = SLP
-controller = SLP 
-add_core = SLP
-
-trade_goods = iron
-life_rating = 35
-

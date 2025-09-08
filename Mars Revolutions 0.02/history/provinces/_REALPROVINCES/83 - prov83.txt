@@ -1,6 +1,0 @@
-owner = KYA
-controller = KYA
-add_core = KYA
-trade_goods = cotton
-life_rating = 35
-

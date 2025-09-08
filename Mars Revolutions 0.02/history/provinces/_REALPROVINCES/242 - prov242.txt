@@ -1,8 +1,0 @@
-owner = HLI
-controller = HLI
-add_core = HLI
-
-
-trade_goods = wool
-life_rating = 35
-

@@ -1,8 +1,0 @@
-owner = NUO
-controller = NUO
-add_core = NUO
-
-
-trade_goods = grain
-life_rating = 35
-

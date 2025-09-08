@@ -1,0 +1,9 @@
+owner = ARU
+controller = ARU
+add_core = ARU
+
+
+trade_goods = timber
+life_rating = 30
+
+

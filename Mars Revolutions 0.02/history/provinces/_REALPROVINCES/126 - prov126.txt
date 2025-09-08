@@ -1,6 +1,0 @@
-owner = POP
-controller = POP
-add_core = POP
-trade_goods = cotton
-life_rating = 35
-

@@ -1,9 +1,0 @@
-owner = XIP
-controller = XIP
-add_core = XIP
-
-
-
-trade_goods = cattle
-life_rating = 35
-

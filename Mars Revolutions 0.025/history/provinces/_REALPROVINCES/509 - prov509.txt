@@ -1,0 +1,6 @@
+owner = AGN
+controller = AGN
+add_core = AGN
+trade_goods = grain
+life_rating = 35
+

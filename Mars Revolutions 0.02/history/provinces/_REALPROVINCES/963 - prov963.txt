@@ -1,7 +1,0 @@
-owner = MAR
-controller = MAR
-add_core = MAR
-add_core = SMR
-trade_goods = cattle
-life_rating = 35
-

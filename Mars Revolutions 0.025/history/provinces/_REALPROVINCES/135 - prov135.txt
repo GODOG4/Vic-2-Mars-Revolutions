@@ -1,0 +1,8 @@
+owner = POP
+controller = POP
+add_core = POP
+
+
+trade_goods = grain
+life_rating = 35
+

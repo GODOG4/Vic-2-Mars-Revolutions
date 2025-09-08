@@ -1,0 +1,27 @@
+political_decisions = {
+
+	archonian_domination_focus = {
+		picture = colonial_policy
+		potential = { 
+			OR = {
+				tag = MUS
+				tag = CER
+				tag = NCT
+			}
+			NOT = { has_country_flag = archonian_domination }
+		}
+
+		allow = {
+			state_n_government = 1
+		}
+
+		effect = { 
+			prestige = 5
+			set_country_flag = archonian_domination
+				add_country_modifier = {
+				    name = archonian_domination
+				    duration = -1
+				}
+			}
+		}
+}

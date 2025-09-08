@@ -1,6 +1,0 @@
-owner = HEL
-controller = HEL
-add_core = HEL
-trade_goods = cattle
-life_rating = 35
-

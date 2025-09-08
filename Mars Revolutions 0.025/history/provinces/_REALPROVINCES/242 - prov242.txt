@@ -1,0 +1,8 @@
+owner = SIL
+controller = SIL
+add_core = SIL
+
+
+trade_goods = wool
+life_rating = 35
+

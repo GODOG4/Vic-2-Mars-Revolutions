@@ -1,8 +1,0 @@
-owner = OLM
-controller = OLM
-add_core = OLM
-
-
-trade_goods = timber
-life_rating = 35
-

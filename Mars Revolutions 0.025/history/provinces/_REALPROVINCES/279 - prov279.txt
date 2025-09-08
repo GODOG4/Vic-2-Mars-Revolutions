@@ -1,0 +1,7 @@
+owner = CER
+controller = CER
+add_core = CER
+trade_goods = timber
+naval_base = 1
+life_rating = 35
+

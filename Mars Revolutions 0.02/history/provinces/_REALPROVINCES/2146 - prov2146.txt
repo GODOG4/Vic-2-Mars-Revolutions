@@ -1,8 +1,0 @@
-owner = LUN
-controller = LUN
-add_core = LUN
-
-
-trade_goods = iron
-life_rating = 35
-

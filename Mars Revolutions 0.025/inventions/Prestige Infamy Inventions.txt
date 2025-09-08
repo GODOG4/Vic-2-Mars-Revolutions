@@ -1,0 +1,65 @@
+###############################################################
+#New Inventions to boost or reduce the population growth of a country
+#Last Updated January 14, 2015
+###############################################################
+
+
+infamytech_1 = {
+	limit = { 
+		romanticism = 1
+	}
+	chance = {
+		base = 100
+	}
+	effect = {
+		badboy = -0.01
+	}	
+}
+
+infamytech_2 = {
+	limit = { 
+		realism = 1
+	}
+	chance = {
+		base = 100
+	}
+	effect = {
+		badboy = -0.01
+	}	
+}
+
+infamytech_3 = {
+	limit = { 
+		impressionism = 1
+	}
+	chance = {
+		base = 100
+	}
+	effect = {
+		badboy = -0.01
+	}	
+}
+
+infamytech_4 = {
+	limit = { 
+		expressionism = 1
+	}
+	chance = {
+		base = 100
+	}
+	effect = {
+		badboy = -0.02
+	}	
+}
+
+infamytech_5 = {
+	limit = { 
+		mass_culture_n_the_avant_garde = 1
+	}
+	chance = {
+		base = 100
+	}
+	effect = {
+		badboy = -0.02
+	}	
+}

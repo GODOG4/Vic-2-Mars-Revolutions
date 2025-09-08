@@ -1,0 +1,10 @@
+owner = SUD
+controller = SUD
+add_core = SUD
+
+
+trade_goods = silk
+life_rating = 30
+
+
+

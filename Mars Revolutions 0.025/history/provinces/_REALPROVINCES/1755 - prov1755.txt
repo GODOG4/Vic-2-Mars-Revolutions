@@ -1,0 +1,8 @@
+owner = NUR
+controller = NUR
+colonial = 2
+
+
+trade_goods = fish
+life_rating = 35
+

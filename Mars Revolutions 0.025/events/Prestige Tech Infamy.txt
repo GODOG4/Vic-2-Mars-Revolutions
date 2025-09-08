@@ -1,0 +1,155 @@
+country_event = {
+    id = 242000
+    title = "Infamy Tech Unlock Tier 1"
+    desc = "Researching Prestige tech grants extra prestige decay!"
+
+    trigger = {
+        NOT = {
+           invention = infamytech_2
+        }
+        invention = infamytech_1
+        civilized = yes
+        NOT = {
+            has_country_modifier = infamytech_1
+        }
+        NOT = {
+            has_country_modifier = infamytech_2
+        }
+        NOT = {
+            has_country_modifier = infamytech_3
+        }
+        NOT = {
+            has_country_modifier = infamytech_4
+        }
+        NOT = {
+            has_country_modifier = infamytech_5
+        }
+    }   
+    option = {
+        name = "Great!"
+        add_country_modifier = {
+            name = infamytech_1
+            duration = -1
+        }
+    }  
+}
+
+country_event = {
+    id = 243000
+    title = "Infamy Tech Unlock Tier 2"
+    desc = "Researching Prestige tech grants extra prestige decay!"
+
+    trigger = {
+        NOT = {
+            invention = infamytech_3
+        }
+        invention = infamytech_2
+        civilized = yes
+        NOT = {
+            has_country_modifier = infamytech_2
+        }
+        NOT = {
+            has_country_modifier = infamytech_3
+        }
+        NOT = {
+            has_country_modifier = infamytech_4
+        }
+        NOT = {
+            has_country_modifier = infamytech_5
+        }
+    }   
+    option = {
+        name = "Great!"
+        add_country_modifier = {
+            name = infamytech_2
+            duration = -1
+        }
+        remove_country_modifier = infamytech_1
+    }  
+}
+
+country_event = {
+    id = 241000
+    title = "Infamy Tech Unlock Tier 3"
+    desc = "Researching Prestige tech grants extra prestige decay!"
+
+    trigger = {
+        NOT = {
+            invention = infamytech_4
+        }
+        invention = infamytech_3
+        civilized = yes
+        NOT = {
+            has_country_modifier = infamytech_3
+        }
+        NOT = {
+            has_country_modifier = infamytech_4
+        }
+        NOT = {
+            has_country_modifier = infamytech_5
+        }
+    }
+
+    mean_time_to_happen = {
+        days = 0
+    }
+
+    option = {
+        name = "Great!"
+        add_country_modifier = {
+            name = infamytech_3
+            duration = -1
+        }
+        remove_country_modifier = infamytech_2
+    }
+}
+
+country_event = {
+    id = 245000
+    title = "Infamy Tech Unlock Tier 4"
+    desc = "Researching Prestige tech grants extra prestige decay!"
+
+    trigger = {
+        NOT = {
+            invention = infamytech_5
+        }
+       	invention = infamytech_4
+        civilized = yes
+        NOT = {
+            has_country_modifier = infamytech_4
+        }
+        NOT = {
+            has_country_modifier = infamytech_5
+        }
+    }   
+    option = {
+        name = "Great!"
+        add_country_modifier = {
+            name = infamytech_4
+            duration = -1
+        }
+        remove_country_modifier = infamytech_3
+    }  
+}
+
+country_event = {
+    id = 244000
+    title = "Infamy Tech Unlock Tier 5"
+    desc = "Researching Prestige tech grants extra prestige decay!"
+
+    trigger = {
+        invention = infamytech_5
+        civilized = yes
+        NOT = {
+            has_country_modifier = infamytech_5
+        }
+    }   
+    option = {
+        name = "Great!"
+        add_country_modifier = {
+            name = infamytech_5
+            duration = -1
+        }
+        remove_country_modifier = infamytech_4
+    }  
+}

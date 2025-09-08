@@ -1,0 +1,8 @@
+owner = NEC
+controller = NEC
+add_core = NEC
+
+
+trade_goods = coal
+life_rating = 35
+

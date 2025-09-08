@@ -1,8 +1,0 @@
-owner = RMR
-controller = RMR
-add_core = RMR
-
-
-trade_goods = tea
-life_rating = 35
-

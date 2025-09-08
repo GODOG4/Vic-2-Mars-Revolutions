@@ -1,8 +1,0 @@
-owner = RUB
-controller = RUB
-add_core = RUB
-
-
-trade_goods = timber
-life_rating = 35
-

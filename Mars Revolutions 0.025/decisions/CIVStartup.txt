@@ -1,0 +1,52 @@
+political_decisions = {
+
+	CIVstartup = {
+		potential = {
+			 always = no
+		}
+		allow = {
+
+		}
+		effect = {
+			any_pop = {	
+				limit = {
+					OR = {
+					has_pop_culture = aonian
+					has_pop_culture = argentian
+					}
+				}
+				reduce_pop = 0.67
+			}
+			any_owned = {
+				limit = {
+					continent = continent_1 
+					}
+				life_rating = -15		
+				}
+			any_owned = {
+				limit = {
+					continent = continent_2
+					}
+				life_rating = -20			
+				}
+			any_owned = {
+				limit = {
+					OR = {
+						has_pop_culture = sky_child
+						has_pop_culture = daedalian
+						has_pop_culture = solian
+						has_pop_culture = hegemonian
+						has_pop_culture = casimirite
+						}
+					}
+				life_rating = 5		
+				}
+			any_owned = {
+				limit = {
+					continent = continent_7
+					}
+				life_rating = -15				
+				}
+			}
+		}
+	}

@@ -1,8 +1,0 @@
-owner = DAS
-controller = DAS
-add_core = DAS
-
-
-trade_goods = timber
-life_rating = 35
-

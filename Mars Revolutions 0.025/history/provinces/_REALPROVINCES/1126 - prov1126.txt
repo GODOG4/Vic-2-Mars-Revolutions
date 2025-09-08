@@ -1,0 +1,8 @@
+owner = QYO
+controller = QYO
+add_core = QYO
+
+
+trade_goods = grain
+life_rating = 40
+

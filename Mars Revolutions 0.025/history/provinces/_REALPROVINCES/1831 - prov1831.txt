@@ -1,0 +1,10 @@
+owner = TRB
+controller = TRB
+add_core = KUC
+colonial = 2
+
+
+trade_goods = tea
+life_rating = 30
+
+

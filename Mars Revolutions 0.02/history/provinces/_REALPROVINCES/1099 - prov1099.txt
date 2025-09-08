@@ -1,7 +1,0 @@
-owner = QYO
-controller = QYO
-add_core = QYO
-
-
-trade_goods = fish
-life_rating = 38

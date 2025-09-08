@@ -1,0 +1,8 @@
+owner = GAN
+controller = GAN
+add_core = GAN
+
+
+trade_goods = tea
+life_rating = 35
+

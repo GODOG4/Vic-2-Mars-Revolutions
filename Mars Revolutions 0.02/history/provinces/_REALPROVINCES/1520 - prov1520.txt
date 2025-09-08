@@ -1,8 +1,0 @@
-owner = EKT
-controller = EKT
-add_core = EKT
-
-
-trade_goods = timber
-life_rating = 35
-

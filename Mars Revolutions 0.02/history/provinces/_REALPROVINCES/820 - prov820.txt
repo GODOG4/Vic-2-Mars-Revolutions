@@ -1,8 +1,0 @@
-owner = SLP
-controller = SLP 
-add_core = SLP
-
-
-trade_goods = grain
-life_rating = 35
-

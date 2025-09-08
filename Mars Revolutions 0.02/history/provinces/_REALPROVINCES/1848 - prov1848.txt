@@ -1,8 +1,0 @@
-owner = RAM
-controller = RAM
-add_core = DAS
-colonial = 2
-
-trade_goods = sulphur
-life_rating = 35
-

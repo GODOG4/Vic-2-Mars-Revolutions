@@ -1,0 +1,6 @@
+owner = SCP
+controller = SCP
+add_core = SCP
+trade_goods = cotton
+life_rating = 35
+
