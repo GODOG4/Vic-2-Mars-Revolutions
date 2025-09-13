@@ -67,6 +67,27 @@ pyramid;Elysian Pyramid;;;;;;;;;;;;;x
 desc_pyramid;These strangely shaped pyramids have always been there, and been a cornerstone of Elysian and Odyssean religious life.;;;;;;;;;;;;;x
 skyscrapers;The Skyscrapers of Valles;;;;;;;;;;;;;x
 desc_skyscrapers;The Skyscrapers of Valles are a set of massive ancient towers in the capital of the Valles Marineris Empire, surrounded by the ruins of an ancient city. Recently these impressive buildings have been reclaimed further and it's thought that one day they will all be reused and restored, or even improved.;;;;;;;;;;;;;x
+########################Mars CBs#######################;;;;;;;x,,,,,,,,,,,,,,,,
+demand_state_for_ally_tiny;Tiny Demand State for Ally;;;;;;;;;;;
+demand_state_for_ally_tiny_short;Acquire Tiny State $STATE$ for Ally.;;;;;;;;;;;
+demand_state_for_ally_tiny_desc;Demand a tiny state for Ally.;;;;;;;;;;;
+demand_state_for_ally_tiny_setup;Acquire Tiny State $STATE$ from $RECIPIENT$ for Ally.;;;;;;;;;;;
+demand_state_for_ally_small;Small Demand Statefor Ally;;;;;;;;;;;
+demand_state_for_ally_small_short;Acquire Small State $STATE$ for Ally.;;;;;;;;;;;
+demand_state_for_ally_small_desc;Demand a small state for Ally.;;;;;;;;;;;
+demand_state_for_ally_small_setup;Acquire Small State $STATE$ from $RECIPIENT$ for Ally.;;;;;;;;;;;
+demand_state_for_ally_medium;Medium Demand State for Ally;;;;;;;;;;;
+demand_state_for_ally_medium_short;Acquire Medium State $STATE$ for Ally.;;;;;;;;;;;
+demand_state_for_ally_medium_desc;Demand a medium state for Ally.;;;;;;;;;;;
+demand_state_for_ally_medium_setup;Acquire Medium State $STATE$ from $RECIPIENT$ for Ally.;;;;;;;;;;;
+demand_state_for_ally_large;Large Demand State for Ally;;;;;;;;;;;
+demand_state_for_ally_large_short;Acquire Large State $STATE$ for Ally.;;;;;;;;;;;
+demand_state_for_ally_large_desc;Demand a large state for Ally.;;;;;;;;;;;
+demand_state_for_ally_large_setup;Acquire Large State $STATE$ from $RECIPIENT$ for Ally.;;;;;;;;;;;
+demand_state_for_ally_huge;Huge Demand State for Ally;;;;;;;;;;;
+demand_state_for_ally_huge_short;Acquire Huge State $STATE$ for Ally.;;;;;;;;;;;
+demand_state_for_ally_huge_desc;Demand a huge state for Ally.;;;;;;;;;;;
+demand_state_for_ally_huge_setup;Acquire Huge State $STATE$ from $RECIPIENT$ for Ally.;;;;;;;;;;;
 X;x;;;;;;;;;;;;;x
 X;x;;;;;;;;;;;;;x
 X;x;;;;;;;;;;;;;x
