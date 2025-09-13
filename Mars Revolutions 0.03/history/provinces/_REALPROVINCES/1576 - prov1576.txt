@@ -1,0 +1,7 @@
+owner = TAH
+controller = TAH
+add_core = TAH
+
+trade_goods = silk
+life_rating = 38
+

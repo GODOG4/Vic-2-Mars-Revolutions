@@ -1,0 +1,276 @@
+navy = {
+	name = "Noctian Navy"
+	location = 530
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+		ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+
+}
+
+army = {
+	name = "Noctian Guard"
+	location = 530
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 530
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 504
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 512
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 533
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 554
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 574
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 520
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 501
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 494
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 546
+	}            
+}
+
+army = {
+	name = "Noctian Tribal Warriors"
+	location = 533
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 533
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 529
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 555
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 413
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 417
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 387
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 384
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 399
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 349
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 334
+	}            
+}
+

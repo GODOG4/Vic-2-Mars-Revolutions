@@ -1,8 +1,0 @@
-owner = ELE
-controller = ELE
-add_core = ELE
-
-
-trade_goods = fish
-life_rating = 35
-

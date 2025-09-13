@@ -1,0 +1,45 @@
+political_decisions = {
+
+	sunset_invasion = {
+		picture = colonial_policy
+		potential = { 
+			tag = ELY
+			primary_culture = elysian
+			NOT = { has_country_flag = sunset_invasion }
+		}
+
+		allow = {
+			nationalism_n_imperalism = 1
+		}
+
+		effect = { 
+			prestige = 5
+			set_country_flag = sunset_invasion
+				add_country_modifier = {
+				    name = sunset_invasion
+				    duration = 12950
+				}
+			}
+		}
+	alboric_return = {
+		picture = colonial_policy
+		potential = { 
+			tag = ELY
+			primary_culture = alboric
+			NOT = { has_country_flag = alboric_return }
+		}
+
+		allow = {
+			nationalism_n_imperalism = 1
+		}
+
+		effect = { 
+			prestige = 5
+			set_country_flag = alboric_return
+				add_country_modifier = {
+				    name = alboric_return
+				    duration = -1
+				}
+			}
+		}
+}

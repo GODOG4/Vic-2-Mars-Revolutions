@@ -1,0 +1,81 @@
+political_decisions = {
+
+	alban_warlord = {
+		picture = colonial_policy
+		potential = { 
+			tag = MUS
+			NOT = { has_country_flag = alban_warlord }
+		}
+
+		allow = {
+			state_n_government = 1
+		}
+
+		effect = { 
+			prestige = 5
+			set_country_flag = alban_warlord
+				add_country_modifier = {
+				    name = alban_warlord
+				    duration = 10950
+				}
+			}
+		}
+	alboric_recall = {
+		picture = colonial_policy
+		potential = { 
+			tag = KYA
+			NOT = { has_country_flag = alboric_recall }
+		}
+
+		allow = {
+			nationalism_n_imperalism = 1
+			state_10 = { is_colonial = no }
+			state_17 = { is_colonial = no }
+		}
+
+		effect = { 
+			prestige = 5
+			set_country_flag = alboric_recall
+			state_10 = { add_province_modifier = { name = colonial_recruitment duration = 2190 } }
+			state_17 = { add_province_modifier = { name = colonial_recruitment duration = 2190 } }
+			add_accepted_culture = alboric
+			}
+		}
+	outer_alban_navy = {
+		picture = colonial_policy
+		potential = { 
+			tag = OAL
+			NOT = { has_country_flag = outer_alban_navy }
+		}
+
+		allow = {
+			raider_group_doctrine = 1
+		}
+
+		effect = { 
+			prestige = 5
+			set_country_flag = outer_alban_navy
+				add_country_modifier = {
+				    name = alban_navy
+				    duration = 12950
+				}
+			}
+		}
+	inner_alba_claimant = {
+		picture = colonial_policy
+		potential = { 
+			tag = IAL
+			NOT = { has_country_flag = alba_claimant }
+		}
+
+		allow = {
+			war = no
+		}
+
+		effect = { 
+			prestige = 5
+			set_country_flag = alba_claimant
+			add_accepted_culture = inner_alban
+		}
+	}
+}

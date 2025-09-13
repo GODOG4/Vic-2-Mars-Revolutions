@@ -1,0 +1,8 @@
+owner = BAY
+controller = BAY
+add_core = BAY
+
+
+trade_goods = fruit
+life_rating = 38
+

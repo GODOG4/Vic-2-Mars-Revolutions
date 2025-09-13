@@ -1,7 +1,0 @@
-owner = BAY
-controller = BAY
-colonial = 2
-
-trade_goods = cattle
-life_rating = 35
-

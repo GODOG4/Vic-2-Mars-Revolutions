@@ -1,0 +1,7 @@
+owner = TAH
+controller = TAH
+add_core = TAH
+naval_base = 1
+
+trade_goods = coal
+life_rating = 38

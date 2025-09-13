@@ -1,6 +1,0 @@
-owner = BAY
-controller = BAY
-add_core = BAY
-trade_goods = silk
-life_rating = 35
-

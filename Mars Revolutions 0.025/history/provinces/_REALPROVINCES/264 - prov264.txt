@@ -1,6 +1,0 @@
-owner = OLF
-controller = OLF
-add_core = OLF
-trade_goods = cotton
-life_rating = 35
-

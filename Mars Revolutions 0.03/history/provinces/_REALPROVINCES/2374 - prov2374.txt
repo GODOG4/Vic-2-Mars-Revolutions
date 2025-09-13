@@ -1,0 +1,8 @@
+owner = TRB
+controller = TRB
+add_core = TRB
+naval_base = 1
+
+trade_goods = fish
+life_rating = 35
+

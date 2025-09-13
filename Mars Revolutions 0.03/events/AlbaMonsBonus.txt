@@ -1,0 +1,104 @@
+country_event = {
+	id = 776540
+	title = "Fall of Outer Alba"
+	desc = "With the full annexation of Outer Alba, our own claim to Alba Mons has strengthened. §GWe now gain a +30% to assimilate Inner Alban, Outer Alban, and Cyanean and so do all other Alban Claimants."
+	
+	trigger = {
+		has_global_flag = OALdead
+		has_country_flag = alba_claimant
+		NOT = { has_country_flag = alba_OAL }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Great!!"
+		set_country_flag = alba_OAL
+	}
+}
+
+country_event = {
+	id = 776541
+	title = "Fall of Inner Alba"
+	desc = "With the full annexation of Inner Alba, our own claim to Alba Mons has strengthened. §GWe now gain a +30% to assimilate Inner Alban, Outer Alban, and Cyanean and so do all other Alban Claimants."
+	
+	trigger = {
+		has_global_flag = IALdead
+		has_country_flag = alba_claimant
+		NOT = { has_country_flag = alba_IAL }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Great!!"
+		set_country_flag = alba_IAL
+	}
+}
+
+country_event = {
+	id = 776542
+	title = "Fall of West Alba"
+	desc = "With the full annexation of West Alba, our own claim to Alba Mons has strengthened. §GWe now gain a +30% to assimilate Inner Alban, Outer Alban, and Cyanean and so do all other Alban Claimants."
+	
+	trigger = {
+		has_global_flag = WALdead
+		has_country_flag = alba_claimant
+		NOT = { has_country_flag = alba_WAL }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Great!!"
+		set_country_flag = alba_WAL
+	}
+}
+
+country_event = {
+	id = 776543
+	title = "End of the Musk Dynasty"
+	desc = "With the destruction of the House of Musk, our own claim to Alba Mons has greatly strengthened. §GWe now gain a +50% to assimilate Inner Alban, Outer Alban, and Cyanean and so do all other Alban Claimants."
+	
+	trigger = {
+		has_global_flag = MUSdead
+		has_country_flag = alba_claimant
+		NOT = { has_country_flag = alba_MUS }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Great!!"
+		set_country_flag = alba_MUS
+	}
+}
+
+country_event = {
+	id = 776544
+	title = "Fall of the Republic"
+	desc = "With the destruction of the Republic of Kyayou, our own claim to Alba Mons strengthened. Â§YWe now gain a +30% to assimilate Inner Alban, Outer Alban, and Cyanean and so do all other Alban Claimants."
+	
+	trigger = {
+		has_global_flag = KYAdead
+		has_country_flag = alba_claimant
+		NOT = { has_country_flag = alba_KYA }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Great!!"
+		set_country_flag = alba_KYA
+	}
+}

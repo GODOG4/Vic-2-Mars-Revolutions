@@ -1,0 +1,9 @@
+owner = ETE
+controller = ETE
+add_core = ETE
+naval_base = 1
+
+
+trade_goods = tropical_wood
+life_rating = 35
+

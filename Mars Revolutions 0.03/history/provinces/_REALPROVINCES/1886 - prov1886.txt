@@ -1,0 +1,8 @@
+owner = XIP
+controller = XIP
+add_core = XIP
+add_core = LOD
+
+trade_goods = tobacco
+life_rating = 35
+

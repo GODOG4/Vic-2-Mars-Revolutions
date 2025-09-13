@@ -1,8 +1,0 @@
-owner = AS2
-controller = AS2
-add_core = AS2
-
-
-trade_goods = silk
-life_rating = 35
-

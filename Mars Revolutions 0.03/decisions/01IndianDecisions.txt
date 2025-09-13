@@ -1,0 +1,26 @@
+political_decisions = {
+
+	poo_in_loo = {
+		picture = colonial_policy
+		potential = { 
+			OR = {
+			is_culture_group = sabean
+			is_culture_group = amenthian
+			}
+			NOT = { has_country_flag = poo_in_loo }
+		}
+
+		allow = {
+			nationalism_n_imperalism = 1
+		}
+
+		effect = { 
+			prestige = 5
+			set_country_flag = poo_in_loo
+				add_country_modifier = {
+				    name = poo_in_loo
+				    duration = -1
+				}
+			}
+		}
+}

@@ -1,0 +1,120 @@
+
+navy = {
+	name = "Space X Navy"
+	location = 117
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+}
+
+army = {
+	name = "Tesla Automatons"
+	location = 131
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 131
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 117
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 104
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 118
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 85
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 108
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 110
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 82
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 99
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 131
+	}            
+}

@@ -1,0 +1,66 @@
+
+navy = {
+	name = "Ram Reid Navy"
+	location = 1925
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+}
+

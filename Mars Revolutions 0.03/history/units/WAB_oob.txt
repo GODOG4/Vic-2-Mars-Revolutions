@@ -1,0 +1,54 @@
+army = {
+	name = "West Alban Retinue"
+	location = 116
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 116
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 114
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 111
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 102
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 137
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 139
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 116
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 114
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 137
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 139
+	}            
+}

@@ -1,0 +1,9 @@
+owner = TRB
+controller = TRB
+add_core = TRB
+add_core = KHE
+naval_base = 1
+
+trade_goods = timber
+life_rating = 35
+

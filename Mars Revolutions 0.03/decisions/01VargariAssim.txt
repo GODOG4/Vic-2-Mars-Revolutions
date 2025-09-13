@@ -1,0 +1,26 @@
+political_decisions = {
+
+	vargari_settlement_policy = {
+		picture = colonial_policy
+		potential = { 
+			OR = {
+				tag = NUR
+				tag = DAL
+			}
+			NOT = { has_country_flag = vargari_settlement }
+		}
+
+		allow = {
+			state_n_government = 1
+		}
+
+		effect = { 
+			prestige = 5
+			set_country_flag = vargari_settlement
+				add_country_modifier = {
+				    name = vargari_assim_boost
+				    duration = -1
+				}
+			}
+		}
+}

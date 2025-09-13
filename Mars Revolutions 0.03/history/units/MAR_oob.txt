@@ -1,0 +1,547 @@
+army = {
+	name = "Southern Mariner Marines"
+	location = 1007
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 1007
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 1004
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 1030
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 963
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 862
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 856
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 861
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 821
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 811
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 787
+	}            
+}
+
+army = {
+	name = "Southern Mariner Response Force"
+	location = 787
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 787
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 744
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 737
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 774
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 706
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 703
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 673
+	}	
+	regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 861
+	}
+	regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 856
+	}
+	regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 849
+	}            
+}
+
+army = {
+	name = "Southern Solian Reserves"
+	location = 811
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 811
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 787
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 774
+	}	
+	regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 744
+	}
+	regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 737
+	}
+	regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 722
+	}            
+}
+
+army = {
+	name = "Royal Mariner Marines"
+	location = 678
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 678
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 712
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 753
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 571
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 809
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 878
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 665
+	}	
+	regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 696
+	}
+	regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 636
+	}
+	regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 648
+	}            
+}
+
+army = {
+	name = "Northern Vallian Reserves"
+	location = 665
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 678
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 753
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 683
+	}	
+	regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 646
+	}
+	regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 617
+	}
+	regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 611
+	}            
+}
+
+
+
+navy = {
+	name = "Valles Trench Navy"
+	location = 678
+
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+		ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "Outer Seas Navy"
+	location = 604
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+		ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+}

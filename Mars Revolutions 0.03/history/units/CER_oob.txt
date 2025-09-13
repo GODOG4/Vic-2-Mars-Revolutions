@@ -1,0 +1,194 @@
+navy = {
+	name = "Terran Navy"
+	location = 199
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+}
+
+army = {
+	name = "Terran Marines"
+	location = 199
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 199
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 211
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 234
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 205
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 227
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 198
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 236
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 210
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 250
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 274
+	}            
+}
+
+army = {
+	name = "Terran Reserves"
+	location = 279
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 210
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 239
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 199
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 179
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 279
+	}            
+}
+

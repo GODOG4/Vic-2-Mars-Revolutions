@@ -1,0 +1,8 @@
+owner = SIZ
+controller = SIZ
+add_core = SIZ
+naval_base = 1
+
+trade_goods = fish
+life_rating = 40
+

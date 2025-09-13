@@ -1,0 +1,9 @@
+owner = XIP
+controller = XIP
+add_core = XIP
+add_core = LOD
+naval_base = 1
+
+trade_goods = sulphur
+life_rating = 35
+

@@ -1,0 +1,93 @@
+* List of Culture Groups and Cultures for quick reference. Remember you get increased Assimilation bonus (100%) if your primary culture matches these culture groups:
+
+*central_alban 
+	high_acheronian 
+	lower_acheronian 
+	inner_alban 
+
+*northern_alban 
+	outer_alban 
+	temp_terran 
+	tempest 
+
+*western 
+	mariner 	
+	argyrian 
+	vallian 
+	cyanean
+	ceraunian
+	alboric 
+
+*titan 
+	olympian 
+	eosian 
+	herculean 
+	earther 
+	sulcian 	
+
+*australe_tharsisian 
+	
+	versian 
+	planumian  
+	sky_child 
+	vargari
+	maruklar 
+	tharsian
+	hegemonian 
+	argentian 
+	aonian 
+	
+
+*martian 
+	noachis_almalayikan 
+	noachis_argyrian
+	noachis_mariner 
+	hellenic 
+	sabaea_hellenic 
+	australe_hellenic  
+	hellenian 
+	noachian 	
+
+
+*souslanian 
+	icarian 
+	casimirite 
+	lirian 
+	meridianish  
+	
+*daedalian 
+	daedalian 
+	amazonian 
+	bakhusen 	
+
+*noctis_marineris 
+	noctian 
+	solis_mariner 
+	solian 
+	
+*elysian 
+	elysian  
+	odyssean 	
+
+*sabean 
+	sabaean 
+	huygenstani 
+	isidian 
+	tyrrhenan 
+		
+*amenthian 
+	amenthian 
+	escalanteu 
+	apollnarisa 
+	nepenthi
+
+*cimmerian_hesperia 
+	cimmerian 
+	hesperian 
+
+*tau_cetinese_group 
+	celestian 
+	lunarian 
+	tau_cetinese (off map)
+
+

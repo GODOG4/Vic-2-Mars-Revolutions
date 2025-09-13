@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = GIG
-controller = GIG
-add_core = GIG
-trade_goods = coal
-life_rating = 35
-

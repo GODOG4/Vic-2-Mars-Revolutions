@@ -1,0 +1,31 @@
+country_event = {
+
+	id = 77700
+
+	trigger = {
+		tag = GHO
+		year = 4836	
+	}
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	title = "Ebin buildings"
+	desc = "Adds the initial buildings/'crimes' to provinces"
+
+	option = {
+		name = "Excellent" 
+		466 = { add_crime = space_elevator_1 }
+		1328 = { add_crime = space_elevator_2 }
+		678 = { add_crime = skyscrapers }
+		2028 = { add_crime = terraformer }
+		1787 = { add_crime = terraformer }
+		1592 = { add_crime = terraformer }
+		1160 = { add_crime = terraformer }
+		1007 = { add_crime = terraformer }
+		1395 = { add_crime = pyramid }
+	}
+}

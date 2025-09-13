@@ -1,0 +1,164 @@
+navy = {
+	name = "North Alban Raiders"
+	location = 34
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+}
+
+
+army = {
+	name = "North Alban Retinue"
+	location = 73
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 73
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 47
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 32
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 29
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 37
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 56
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 39
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 26
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 27
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 31
+	}            
+}

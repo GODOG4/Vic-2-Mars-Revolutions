@@ -1,0 +1,7 @@
+owner = REM
+controller = REM
+add_core = REM
+naval_base = 2
+trade_goods = grain
+life_rating = 35
+

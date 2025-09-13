@@ -1,0 +1,119 @@
+navy = {
+	name = "Gigas Navy"
+	location = 448
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+}
+
+army = {
+	name = "Sulci Phalanx"
+	location = 410
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 410
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 390
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 411
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 446
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 434
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 448
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 432
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 498
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 516
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 514
+	}            
+}

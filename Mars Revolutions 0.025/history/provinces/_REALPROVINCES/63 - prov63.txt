@@ -1,6 +1,0 @@
-owner = OAL
-controller = OAL
-add_core = OAL
-trade_goods = coal
-life_rating = 35
-

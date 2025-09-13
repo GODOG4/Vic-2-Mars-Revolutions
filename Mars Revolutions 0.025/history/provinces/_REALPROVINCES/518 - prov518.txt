@@ -1,8 +1,0 @@
-owner = GIG
-controller = GIG
-add_core = GIG
-
-
-trade_goods = cotton
-life_rating = 35
-

@@ -1,9 +1,0 @@
-owner = XIP
-controller = XIP
-add_core = XIP
-
-naval_base = 1
-
-trade_goods = timber
-life_rating = 35
-

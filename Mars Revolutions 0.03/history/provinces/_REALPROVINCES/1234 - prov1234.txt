@@ -1,0 +1,7 @@
+owner = TRC
+controller = TRC
+add_core = TRC
+naval_base = 1
+trade_goods = cotton
+life_rating = 35
+

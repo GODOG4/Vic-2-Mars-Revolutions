@@ -1,0 +1,8 @@
+owner = RAM
+controller = RAM
+add_core = RAM
+naval_base = 1
+
+trade_goods = coal
+life_rating = 35
+

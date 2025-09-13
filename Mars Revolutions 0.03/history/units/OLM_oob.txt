@@ -1,0 +1,119 @@
+navy = {
+	name = "Olympic Navy"
+	location = 312
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+}
+
+army = {
+	name = "The Companions"
+	location = 275
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 275
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 276
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 319
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 317
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 312
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 352
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 341
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 365
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 262
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 342
+	}            
+}

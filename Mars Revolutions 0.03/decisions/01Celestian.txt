@@ -1,0 +1,25 @@
+political_decisions = {
+	celestial_lunarian_cooperation = {
+		picture = colonial_policy
+		potential = { 
+			tag = CEL
+			has_country_modifier = celestial_colony 
+		}
+
+		allow = {
+			nationalism_n_imperialism = 1
+			THM = { exists = yes }
+		}
+
+		effect = { 
+			prestige = 5
+			remove_country_modifier = celestial_colony
+			THM = { 
+				add_country_modifier = {
+					name = archon_boom
+					duration = 3650
+					}
+				 }
+			}
+		}
+}

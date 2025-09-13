@@ -1,7 +1,0 @@
-owner = NUR
-controller = NUR
-add_core = NUR
-
-trade_goods = cattle
-life_rating = 35
-

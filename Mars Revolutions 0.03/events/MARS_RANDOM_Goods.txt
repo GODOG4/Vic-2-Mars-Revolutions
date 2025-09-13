@@ -1,0 +1,524 @@
+# ID's to be used - 37 rubber provinces and 40 Oil provinces
+#
+# For now it's fully random where spawns are, later I may do a more focused pass
+#
+# 1105, 1106, 1107, 1108, 1109, 1110, 1111, 1112
+#
+#
+##########################################################################################################################################################
+#        RUBBER EVENTS        ############################################################################################################################
+##########################################################################################################################################################
+
+province_event = { #Aonia Rubber
+
+	title = "EVTNAME1107"
+	desc = "EVTDESC1107"
+	picture = ""	
+	
+	id = 1105
+
+	trigger = {
+		GHO = {
+			check_variable = {
+				which = rubber_region_1
+				value = 1
+			}
+		}
+		year = 4885
+		NOT = { terrain = mountain }
+		NOT = { terrain = steppe }
+		NOT = { terrain = desert }
+		NOT = { terrain = semidesert }
+		NOT = { trade_goods = rubber }
+		NOT = { trade_goods = oil }
+		NOT = { trade_goods = iron }
+		NOT = { trade_goods = coal }
+		NOT = { trade_goods = sulphur }
+		NOT = { trade_goods = precious_metal }
+		OR = {
+			terrain = jungle
+			any_neighbor_province = { terrain = jungle }
+			any_neighbor_province = { trade_goods = rubber }
+			trade_goods = tropical_wood
+		}
+		continent = continent_2
+	}
+
+	mean_time_to_happen =  {
+		months = 6000
+		modifier =  {
+			factor = 0.9
+			year = 4890
+		}
+		modifier =  {
+			factor = 0.9
+			year = 4895
+		}
+		modifier =  {
+			factor = 0.9
+			year = 4900
+		}
+		modifier =  {
+			factor = 0.9
+			year = 4905
+		}
+		modifier =  {
+			factor = 0.9
+			year = 4910
+		}
+		modifier =  {
+			factor = 0.9
+			year = 4915
+		}
+	}
+
+	immediate = {
+		GHO = {
+			change_variable = {
+				which = rubber_region_1
+				value = -1
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTA1107"
+		trade_goods = rubber
+	}
+}
+
+province_event = { #Planum Rubber 
+
+	title = "EVTNAME1107"
+	desc = "EVTDESC1107"
+	picture = ""	
+	
+	id = 1106
+
+	trigger = {
+		GHO = {
+			check_variable = {
+				which = rubber_region_2
+				value = 1
+			}
+		}
+		year = 4885
+		NOT = { terrain = mountain }
+		NOT = { terrain = steppe }
+		NOT = { terrain = desert }
+		NOT = { terrain = coastal_desert }
+		NOT = { trade_goods = rubber }
+		NOT = { trade_goods = oil }
+		NOT = { trade_goods = iron }
+		NOT = { trade_goods = coal }
+		NOT = { trade_goods = sulphur }
+		NOT = { trade_goods = precious_metal }
+		OR = {
+			terrain = jungle
+			any_neighbor_province = { terrain = jungle }
+			any_neighbor_province = { trade_goods = rubber }
+			trade_goods = tropical_wood
+		}
+		continent = continent_4
+	}
+
+	mean_time_to_happen =  {
+		months = 6000
+		modifier =  {
+			factor = 0.9
+			year = 4890
+		}
+		modifier =  {
+			factor = 0.9
+			year = 4895
+		}
+		modifier =  {
+			factor = 0.9
+			year = 4900
+		}
+		modifier =  {
+			factor = 0.9
+			year = 4905
+		}
+		modifier =  {
+			factor = 0.9
+			year = 4910
+		}
+		modifier =  {
+			factor = 0.9
+			year = 4915
+		}
+	}
+
+	immediate = {
+		GHO = {
+			change_variable = {
+				which = rubber_region_2
+				value = -1
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTA1107"
+		trade_goods = rubber
+	}
+}
+
+province_event = { #Sabaea Rubber
+
+	title = "EVTNAME1107"
+	desc = "EVTDESC1107"
+	picture = ""	
+	
+	id = 1107
+
+	trigger = {
+		GHO = {
+			check_variable = {
+				which = rubber_region_3
+				value = 1
+			}
+		}
+		year = 4885
+		NOT = { terrain = mountain }
+		NOT = { terrain = steppe }
+		NOT = { terrain = desert }
+		NOT = { terrain = coastal_desert }
+		NOT = { trade_goods = rubber }
+		NOT = { trade_goods = oil }
+		NOT = { trade_goods = iron }
+		NOT = { trade_goods = coal }
+		NOT = { trade_goods = sulphur }
+		NOT = { trade_goods = precious_metal }
+		OR = {
+			terrain = jungle
+			any_neighbor_province = { terrain = jungle }
+			any_neighbor_province = { trade_goods = rubber }
+			trade_goods = tropical_wood
+		}
+		continent = continent_7
+	}
+
+	mean_time_to_happen =  {
+		months = 6000
+		modifier =  {
+			factor = 0.9
+			year = 4890
+		}
+		modifier =  {
+			factor = 0.9
+			year = 4895
+		}
+		modifier =  {
+			factor = 0.9
+			year = 4900
+		}
+		modifier =  {
+			factor = 0.9
+			year = 4905
+		}
+		modifier =  {
+			factor = 0.9
+			year = 4910
+		}
+		modifier =  {
+			factor = 0.9
+			year = 4915
+		}
+	}
+
+	immediate = {
+		GHO = {
+			change_variable = {
+				which = rubber_region_3
+				value = -1
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTA1107"
+		trade_goods = rubber
+	}
+}
+
+##########################################################################################################################################################
+#          OIL EVENTS         ############################################################################################################################
+##########################################################################################################################################################
+
+province_event = { #Tharsis Oil
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+	picture = ""	
+	
+	id = 1109
+
+	trigger = {
+		GHO = {
+			check_variable = {
+				which = oil_region_1
+				value = 1
+			}
+		}
+		year = 4865
+		NOT = { trade_goods = rubber }
+		NOT = { trade_goods = oil }
+		NOT = { trade_goods = iron }
+		NOT = { trade_goods = coal }
+		NOT = { trade_goods = sulphur }
+		NOT = { trade_goods = tropical_wood }
+		NOT = { trade_goods = precious_metal }
+		continent = continent_1
+		}
+
+	mean_time_to_happen =  {
+		months = 600000
+		modifier =  {
+			factor = 0.5
+			year = 4870
+		}
+		modifier =  {
+			factor = 0.5
+			year = 4875
+		}
+		modifier =  {
+			factor = 0.75
+			year = 4880
+		}
+		modifier =  {
+			factor = 0.75
+			year = 4885
+		}
+		modifier =  {
+			factor = 0.75
+			year = 4890
+		}
+		modifier =  {
+			factor = 0.75
+			year = 4900
+		}
+	}
+
+	immediate = {
+		GHO = {
+			change_variable = {
+				which = oil_region_1
+				value = -1
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+	}
+}
+
+province_event = { #Aonia Oil
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+	picture = ""	
+	
+	id = 1110
+
+	trigger = {
+		GHO = {
+			check_variable = {
+				which = oil_region_2
+				value = 1
+			}
+		}
+		year = 4865
+		NOT = { trade_goods = rubber }
+		NOT = { trade_goods = oil }
+		NOT = { trade_goods = iron }
+		NOT = { trade_goods = coal }
+		NOT = { trade_goods = sulphur }
+		NOT = { trade_goods = tropical_wood }
+		NOT = { trade_goods = precious_metal }
+		continent = continent_2
+		}
+
+	mean_time_to_happen =  {
+		months = 600000
+		modifier =  {
+			factor = 0.5
+			year = 4870
+		}
+		modifier =  {
+			factor = 0.5
+			year = 4875
+		}
+		modifier =  {
+			factor = 0.75
+			year = 4880
+		}
+		modifier =  {
+			factor = 0.75
+			year = 4885
+		}
+		modifier =  {
+			factor = 0.75
+			year = 4890
+		}
+		modifier =  {
+			factor = 0.75
+			year = 4900
+		}
+	}
+
+	immediate = {
+		GHO = {
+			change_variable = {
+				which = oil_region_2
+				value = -1
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+	}
+}
+
+province_event = { #Planum Oil
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+	picture = ""	
+	
+	id = 1111
+
+	trigger = {
+		GHO = {
+			check_variable = {
+				which = oil_region_3
+				value = 1
+			}
+		}
+		year = 4865
+		NOT = { trade_goods = rubber }
+		NOT = { trade_goods = oil }
+		NOT = { trade_goods = iron }
+		NOT = { trade_goods = coal }
+		NOT = { trade_goods = sulphur }
+		NOT = { trade_goods = tropical_wood }
+		NOT = { trade_goods = precious_metal }
+		continent = continent_4
+	}
+
+	mean_time_to_happen =  {
+		months = 600000
+		modifier =  {
+			factor = 0.5
+			year = 4870
+		}
+		modifier =  {
+			factor = 0.5
+			year = 4875
+		}
+		modifier =  {
+			factor = 0.75
+			year = 4880
+		}
+		modifier =  {
+			factor = 0.75
+			year = 4885
+		}
+		modifier =  {
+			factor = 0.75
+			year = 4890
+		}
+		modifier =  {
+			factor = 0.75
+			year = 4900
+		}
+	}
+
+	immediate = {
+		GHO = {
+			change_variable = {
+				which = oil_region_3
+				value = -1
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+	}
+}
+
+province_event = { #Sabaea Oil
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+	picture = ""	
+	
+	id = 1112
+
+	trigger = {
+		GHO = {
+			check_variable = {
+				which = oil_region_4
+				value = 1
+			}
+		}
+		year = 4865
+		NOT = { trade_goods = rubber }
+		NOT = { trade_goods = oil }
+		NOT = { trade_goods = iron }
+		NOT = { trade_goods = coal }
+		NOT = { trade_goods = sulphur }
+		NOT = { trade_goods = tropical_wood }
+		NOT = { trade_goods = precious_metal }
+		continent = continent_7
+		}
+
+	mean_time_to_happen =  {
+		months = 600000
+		modifier =  {
+			factor = 0.5
+			year = 4870
+		}
+		modifier =  {
+			factor = 0.5
+			year = 4875
+		}
+		modifier =  {
+			factor = 0.75
+			year = 4880
+		}
+		modifier =  {
+			factor = 0.75
+			year = 4885
+		}
+		modifier =  {
+			factor = 0.75
+			year = 4890
+		}
+		modifier =  {
+			factor = 0.75
+			year = 4900
+		}
+	}
+
+	immediate = {
+		GHO = {
+			change_variable = {
+				which = oil_region_4
+				value = -1
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+	}
+}

@@ -1,4 +1,0 @@
-no_crime = {
-	icon = 1
-	trigger = { }
-}

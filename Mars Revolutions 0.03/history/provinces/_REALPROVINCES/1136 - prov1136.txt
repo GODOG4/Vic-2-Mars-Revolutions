@@ -1,0 +1,12 @@
+owner = BOS
+controller = BOS
+add_core = NEP
+trade_goods = silk
+life_rating = 35
+naval_base = 1
+
+state_building = {
+	level = 2
+	building = luxury_clothes_factory
+	upgrade = yes
+}

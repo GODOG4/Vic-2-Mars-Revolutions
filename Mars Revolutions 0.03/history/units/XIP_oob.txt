@@ -1,0 +1,434 @@
+navy = {
+	name = "Cimmerian Navy"
+	location = 1226
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+		ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "Sabean Navy"
+	location = 2069
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+}
+
+army = {
+	name = "The Keepers of the Flame"
+	location = 2013
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 2013
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 2030
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 2035
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 2069
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 1995
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 1996
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 1990
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 1989
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 1980
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 1962
+	}            
+}
+
+army = {
+	name = "Odyssean Hesperian Guard"
+	location = 1248
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 1248
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 1226
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 1179
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 1233
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 1072
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 1407
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 1404
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 1321
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 1443
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 1460
+	}            
+}
+
+army = {
+	name = "Meridianish Auxillaries"
+	location = 1922
+   regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 1922
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 1921
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 1893
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 1886
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 1915
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 1887
+	}            
+}

@@ -1,0 +1,187 @@
+navy = {
+	name = "Sultan's Navy"
+	location = 627
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+}
+
+army = {
+	name = "The Immortals"
+	location = 662
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 662
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 654
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 661
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 681
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 691
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 714
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 732
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 702
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 758
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 759
+	}            
+}
+
+army = {
+	name = "Shah's Reserves"
+	location = 627
+regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 565
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 551
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 576
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 561
+	}	
+
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 627
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 620
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 631
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 612
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 599
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 577
+	}            
+}

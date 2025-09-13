@@ -1,0 +1,96 @@
+political_decisions = {
+OALdead = {
+	picture = "Rebellion"
+	potential = {
+	OAL = {	exists = no }
+		tag = GHO
+		NOT = { has_global_flag = OALdead }
+	}
+	
+	allow = {
+	}
+
+	effect = {
+		set_global_flag = OALdead
+		}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+IALdead = {
+	picture = "Rebellion"
+	potential = {
+	IAL = {	exists = no }
+		tag = GHO
+		NOT = { has_global_flag = IALdead }
+	}
+	
+	allow = {
+	}
+
+	effect = {
+		set_global_flag = IALdead
+		}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+WALdead = {
+	picture = "Rebellion"
+	potential = {
+	WAL = {	exists = no }
+		tag = GHO
+		NOT = { has_global_flag = WALdead }
+	}
+	
+	allow = {
+	}
+
+	effect = {
+		set_global_flag = WALdead
+		}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+MUSdead = {
+	picture = "Rebellion"
+	potential = {
+	MUS = {	exists = no }
+		tag = GHO
+		NOT = { has_global_flag = MUSdead }
+	}
+	
+	allow = {
+	}
+
+	effect = {
+		set_global_flag = MUSdead
+		}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+KYAdead = {
+	picture = "Rebellion"
+	potential = {
+	KYA = {	exists = no }
+		tag = GHO
+		NOT = { has_global_flag = KYAdead }
+	}
+	
+	allow = {
+	}
+
+	effect = {
+		set_global_flag = KYAdead
+		}
+	ai_will_do = {
+            factor = 100
+        	}
+	}
+}

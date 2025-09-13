@@ -1,0 +1,38 @@
+owner = TRC
+controller = TRC
+add_core = TRC
+naval_base = 2
+state_building = {
+	level = 2 
+	building = small_arms_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2 
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2 
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = transport_shipyard
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = clipper_shipyard
+	upgrade = yes
+}
+
+trade_goods = sulphur
+life_rating = 35
+

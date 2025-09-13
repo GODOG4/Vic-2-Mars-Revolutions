@@ -1,0 +1,89 @@
+army = {
+	name = "The Demon King's Army"
+	location = 466
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 466
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 469
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 490
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 486
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 482
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 493
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 496
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 522
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 491
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 430
+	}            
+}
+
+army = {
+	name = "Tharsian Auxillaries"
+	location = 496
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 496
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 310
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 493
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 490
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 466
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 469
+	}            
+}

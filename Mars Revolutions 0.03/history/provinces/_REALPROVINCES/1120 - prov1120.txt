@@ -1,0 +1,8 @@
+owner = ELE
+controller = ELE
+add_core = ELE
+naval_base = 1
+
+trade_goods = fish
+life_rating = 35
+

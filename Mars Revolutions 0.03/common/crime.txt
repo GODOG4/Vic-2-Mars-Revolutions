@@ -1,0 +1,57 @@
+no_crime = {
+	icon = 1
+	trigger = { }
+}
+
+space_elevator_1 = {
+	prestige = 0.1
+	life_rating = 0.1
+	icon = 2	
+
+	trigger = {
+	}
+}
+
+space_elevator_2 = {
+	prestige = 0.1
+	life_rating = 0.1
+	icon = 3	
+
+	trigger = {
+	}
+}
+
+terraformer = {
+	prestige = 0.05
+	assimilation_rate = 0.2
+	life_rating = 0.1
+	icon = 4
+
+	trigger = {
+	}
+}
+
+pyramid = {
+	prestige = 0.05
+	local_factory_throughput = 0.05
+	local_rgo_output = 0.1
+	local_ruling_party_support = 0.5
+	life_rating = 0.1
+	icon = 5
+
+	trigger = {
+	}
+}
+
+skyscrapers = {
+	prestige = 0.1
+	local_factory_throughput = 0.05
+	local_rgo_output = 0.1
+	local_ruling_party_support = 0.5
+	naval_unit_start_experience = 2.5
+	life_rating = 0.1
+	icon = 5
+
+	trigger = {
+	}
+}

@@ -1,0 +1,54 @@
+army = {
+	name = "Ceraunius Retinue"
+	location = 213
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 213
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 185
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 177
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 207
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 212
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 256
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 245
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 235
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 224
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 194
+	}            
+}

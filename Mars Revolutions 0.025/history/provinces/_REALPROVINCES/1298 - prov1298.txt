@@ -1,7 +1,0 @@
-owner = RAC
-controller = RAC
-add_core = RAC
-
-trade_goods = grain
-life_rating = 35
-

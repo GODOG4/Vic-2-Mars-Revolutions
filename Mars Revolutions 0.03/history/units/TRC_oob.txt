@@ -1,0 +1,215 @@
+navy = {
+	name = "Terra Cimmeria Navy"
+	location = 1228
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+}
+
+army = {
+	name = "Pharoah's Guard"
+	location = 1294
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 1294
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 1290
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 1320
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 1317
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 1278
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 1261
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 1259
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 1237
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 1228
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 1234
+	}            
+}
+
+army = {
+	name = "Pharoah's Reserves"
+	location = 1228
+    regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 1228
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 1237
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 1294
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 1296
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 1317
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 1291
+	}            
+}
+

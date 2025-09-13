@@ -1,0 +1,325 @@
+navy = {
+	name = "Dalan Navy"
+	location = 1820
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+		ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+}
+
+army = {
+	name = "Dalan Royal Guard"
+	location = 1810
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 1810
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 1795
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 1816
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 1803
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 1780
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 1776
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 1767
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 1771
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 1785
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 1805
+	}            
+}
+
+army = {
+	name = "Baltic Crusaders"
+	location = 1820
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 1820
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 1819
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 1835
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 1837
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 1826
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 1860
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 1867
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 1839
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 1818
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 1871
+	}            
+}
+
+army = {
+	name = "Vargari Auxillaries"
+	location = 1866
+   regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 1866
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 1818
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 1842
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 1866
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 1867
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 1860
+	}            
+}

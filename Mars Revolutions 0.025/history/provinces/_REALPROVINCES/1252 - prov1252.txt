@@ -1,9 +1,0 @@
-owner = XIP
-controller = XIP
-add_core = EKT
-colonial = 2
-
-
-trade_goods = timber
-life_rating = 35
-

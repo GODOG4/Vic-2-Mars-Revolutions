@@ -1,6 +1,0 @@
-owner = OLM
-controller = OLM
-add_core = OLM
-trade_goods = cattle
-life_rating = 35
-

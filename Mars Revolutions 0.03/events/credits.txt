@@ -1,0 +1,16 @@
+#Credits
+#Main Event
+country_event = {
+    id = 60168151
+    title = "Mars Revolutions Credits"
+    desc = "EVTDESC60168151"
+    major = yes
+    fire_only_once = yes
+    is_triggered_only = yes
+    
+ option = {
+        name = "Extra thanks to Zombaxx!"
+    }
+}
+
+

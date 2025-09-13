@@ -1,0 +1,8 @@
+#Made with Vic2 Map Maker Tool by Dotdot :) 
+owner = GIG
+controller = GIG
+add_core = GIG
+naval_base = 1
+trade_goods = fish
+life_rating = 35
+

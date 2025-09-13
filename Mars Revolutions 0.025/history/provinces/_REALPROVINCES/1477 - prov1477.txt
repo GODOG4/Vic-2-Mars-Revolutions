@@ -1,6 +1,0 @@
-owner = CEL
-controller = CEL
-add_core = CEL
-trade_goods = sulphur
-life_rating = 35
-

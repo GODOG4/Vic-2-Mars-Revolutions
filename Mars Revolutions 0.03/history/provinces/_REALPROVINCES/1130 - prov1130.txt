@@ -1,0 +1,26 @@
+owner = NRP
+controller = NRP
+add_core = NEP
+trade_goods = grain
+life_rating = 35
+naval_base = 1
+state_building = {
+	level = 1
+	building = transport_shipyard
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = clipper_shipyard
+	upgrade = yes
+}

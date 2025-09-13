@@ -1,0 +1,28 @@
+owner = ELE
+controller = ELE
+add_core = ELE
+naval_base = 1
+
+trade_goods = coal
+life_rating = 38
+
+state_building = {
+	level = 1
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = cement_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}
