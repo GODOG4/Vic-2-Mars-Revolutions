@@ -1,0 +1,7 @@
+owner = VAL
+controller = VAL
+add_core = VAL
+naval_base = 2
+trade_goods = iron
+life_rating = 35
+

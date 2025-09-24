@@ -1,7 +1,0 @@
-owner = CEL
-controller = CEL
-add_core = CEL
-naval_base = 1
-trade_goods = timber
-life_rating = 35
-

@@ -1,0 +1,315 @@
+THM = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+TRC = {
+	value = 125		#relation
+	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+BAY = {
+	value = 125		#relation
+	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+
+
+navy = {
+	name = "Celestial Navy"
+	location = 1627
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+		ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+}
+
+army = {
+	name = "Tau Space Marines"
+	location = 1627
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 1627
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 1585
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 1578
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 1532
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 1553
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 1604
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 1615
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 1649
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 1673
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 1669
+	}            
+}
+
+army = {
+	name = "Celestial Colonial Marines"
+	location = 1645
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 1645
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 1610
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 1608
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 1575
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 1546
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 1533
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 1477
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 1514
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 1515
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 1646
+	}            
+}
+

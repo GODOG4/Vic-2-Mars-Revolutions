@@ -1,0 +1,7 @@
+owner = CEL
+controller = CEL
+add_core = CEL
+naval_base = 1
+trade_goods = wool
+life_rating = 35
+

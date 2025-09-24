@@ -1,0 +1,8 @@
+owner = RIH
+controller = RIH
+add_core = RIH
+
+
+trade_goods = wool
+life_rating = 35
+

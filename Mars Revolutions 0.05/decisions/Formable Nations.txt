@@ -1,0 +1,905 @@
+political_decisions = {
+form_elysia = {
+	potential = {
+		OR = {
+			primary_culture = elysian
+			primary_culture = alboric
+		}
+        	NOT = { exists = ELY }
+		NOT = { has_global_flag = elysia_formed }
+		}
+		
+		allow = {
+			war = no
+			NOT = { OR = { exists = ROH exists = NOH } }
+			1462 = { owned_by = THIS }
+			1434 = { owned_by = THIS }
+			1555 = { owned_by = THIS }
+			1586 = { owned_by = THIS }
+			1671 = { owned_by = THIS }
+			}
+		effect = {
+			prestige = 20
+			set_global_flag = elysia_formed
+            years_of_research = 2
+            add_accepted_culture = elysian
+            add_accepted_culture = alboric
+            all_core = { add_core = ELY }
+           	change_tag = ELY
+			KUN = {
+				all_core = {
+                    		add_core = ELY
+                    		remove_core = KUN
+				    }
+		        }
+            NOH = {
+				all_core = {
+                    		add_core = ELY
+                    		remove_core = NOH
+				    }
+		        }
+			RIN = {
+				all_core = {
+                    		add_core = ELY
+                    		remove_core = RIN
+				}
+		        }
+			QAH = {
+				all_core = {
+                    		add_core = ELY
+                    		remove_core = QAH
+					}
+		        }
+			RIH = {
+				all_core = {
+                    		add_core = ELY
+                    		remove_core = RIH
+					}
+		        }
+          	}
+		}
+form_eosian = {
+	potential = {
+		primary_culture = eosian
+        NOT = { exists = EOS }
+		NOT = { has_global_flag = eosian_formed }
+		}
+		
+		allow = {
+			war = no
+			1211 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+								}
+				            }
+			            }
+			1273 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+								}
+				            }
+			            }
+			1279 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+								}
+				            }
+			            }
+			1257 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+								}
+				            }
+			            }
+			1390 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+								}
+				            }
+			            }
+			1264 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+								}
+				            }
+			            }
+			}
+		effect = {
+			prestige = 20
+			set_global_flag = eosian_formed
+            all_core = { add_core = EOS }
+           	change_tag = EOS
+			add_country_modifier = {
+				    name = republican_safe_haven
+				    duration = 12000
+				}
+			any_country = {
+                	limit = {
+                    	OR = {
+						tag = REM
+						tag = GAL
+						tag = BON
+						tag = QOS
+						tag = CHR
+						}
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+               			}
+                		country_event = 50013
+            		}
+
+			REM = {
+				all_core = {
+                    		add_core = EOS
+                    		remove_core = REM
+				    }
+		        }
+			GAL = {
+				all_core = {
+                    		add_core = EOS
+                    		remove_core = GAL
+				    }
+		        }
+			BON = {
+				all_core = {
+                    		add_core = EOS
+                    		remove_core = BON
+				    }
+		        }
+			QOS = {
+				all_core = {
+                    		add_core = EOS
+                    		remove_core = QOS
+				    }
+		        }
+			CHR = {
+				all_core = {
+                    		add_core = EOS
+                    		remove_core = CHR
+				    }
+		        }
+			}
+		}
+form_west_argyle = {
+	potential = {
+			primary_culture = argyrian
+			NOT = { exists = ARG }
+			NOT = { has_global_flag = west_argyle_formed }
+		}
+		allow = {
+			war = no
+           	1154 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			980 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			1010 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			1071 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			1130 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			1136 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			1162 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			1048 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			1042 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			1053 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+		}
+		effect = {
+			prestige = 20
+			set_global_flag = west_argyle_formed
+            all_core = { add_core = ARG }
+           	change_tag = ARG
+			capital = 1130
+			any_country = {
+                	limit = {
+                    			OR = {
+						tag = RAR
+						tag = LAL
+						tag = ELE
+						tag = REN
+						tag = NEP
+						tag = NRP
+						tag = BOS
+						}
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+               			}
+                		country_event = 50013
+            		}
+
+			RAR = {
+				all_core = {
+                    		add_core = ARG
+                    		remove_core = RAR
+				    }
+		        }
+			LAL = {
+				all_core = {
+                    		add_core = ARG
+                    		remove_core = LAL
+				    }
+		        }
+			ELE = {
+				all_core = {
+                    		add_core = ARG
+                    		remove_core = ELE
+				    }
+		        }
+			REN = {
+				all_core = {
+                    		add_core = ARG
+                    		remove_core = REN
+				    }
+		        }
+			NEP = {
+				all_core = {
+                    		add_core = ARG
+                    		remove_core = NEP
+				    }
+		        }
+			}
+		}
+form_archeron = {
+	potential = {
+		OR = {
+			primary_culture = lower_acheronian
+			primary_culture = high_acheronian
+		}
+        	NOT = { exists = ACH }
+		NOT = { has_country_flag = alba_claimant }
+		NOT = { has_global_flag = acheronian_formed }
+		}
+		allow = {
+			war = no
+			1264 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			1344 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			1184 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			1257 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			1326 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			}
+		effect = {
+			prestige = 20
+			set_global_flag = acheron_formed
+			add_accepted_culture = lower_acheronian
+			add_accepted_culture = high_acheronian
+			clr_country_flag = alba_claimant
+            all_core = { add_core = ACH }
+           	change_tag = ACH
+			add_country_modifier = {
+				name = archon_boom
+				duration = 3650
+			}
+			any_country = {
+                	limit = {
+                    	OR = {
+						tag = PHL
+						tag = TAR
+						tag = CHA
+						tag = SIL
+						tag = AH1
+						tag = AH5
+						tag = NEC
+						tag = RAX
+						tag = ANT
+						}
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+               			}
+                		country_event = 50013
+            		}
+
+			PHL = {
+				all_core = {
+                    		add_core = ACH
+                    		remove_core = PHL
+				    }
+		        }
+			TAR = {
+				all_core = {
+                    		add_core = ACH
+                    		remove_core = TAR
+				    }
+		        }
+			CHA = {
+				all_core = {
+                    		add_core = ACH
+                    		remove_core = CHA
+				    }
+		        }
+			SIL = {
+				all_core = {
+                    		add_core = ACH
+                    		remove_core = SIL
+				    }
+		        }
+			AH1 = {
+				all_core = {
+                    		add_core = ACH
+                    		remove_core = AH1
+				    }
+		        }
+			AH5 = {
+				all_core = {
+                    		add_core = ACH
+                    		remove_core = AH1
+				    }
+		        }
+			NEC = {
+				all_core = {
+                    		add_core = ACH
+                    		remove_core = AH1
+				    }
+		        }
+			RAX = {
+				all_core = {
+                    		add_core = ACH
+                    		remove_core = AH1
+				    }
+		        }
+			ANT = {
+				all_core = {
+                    		add_core = ACH
+                    		remove_core = AH1
+				    }
+		        }
+			}
+		}
+form_temp_terra = {
+	picture = SCA_political_union
+	potential = {
+			OR = { primary_culture = temp_terran primary_culture = tempest }
+			NOT = { exists = TEM }
+			NOT = { has_global_flag = temp_terra_formed }
+		}
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+           	199 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			190 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			228 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			252 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			369 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			389 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			418 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+		}
+		effect = {
+			prestige = 10
+			set_global_flag = temp_terra_formed
+            all_core = { add_core = TEM }
+           	change_tag = TEM
+			add_accepted_culture = tempest
+			add_accepted_culture = temp_terran
+			any_country = {
+                	limit = {
+                    			OR = {
+						tag = CER
+						tag = URA
+						tag = VIK
+						tag = NIK
+						tag = VAL
+						tag = TPF
+						tag = KAS
+						}
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+               			}
+                		country_event = 50013
+            		}
+
+			CER = {
+				all_core = {
+                    		add_core = TEM
+                    		remove_core = CER
+				    }
+		        }
+			URA = {
+				all_core = {
+                    		add_core = TEM
+                    		remove_core = URA
+				    }
+		        }
+			VIK = {
+				all_core = {
+                    		add_core = TEM
+                    		remove_core = VIK
+				    }
+		        }
+			VAL = {
+				all_core = {
+                    		add_core = TEM
+                    		remove_core = VAL
+				    }
+		        }
+			TPF = {
+				all_core = {
+                    		add_core = TEM
+                    		remove_core = TPF
+				    }
+		        }
+			KAS = {
+				all_core = {
+                    		add_core = TEM
+                    		remove_core = KAS
+				    }
+		        }
+			}
+		}
+form_cimmeria = {
+	picture = annex_korea
+	potential = {
+			primary_culture = cimmerian
+			NOT = { exists = CIM }
+			NOT = { has_global_flag = cimmeria_formed }
+		}
+		allow = {
+			war = no
+			civilized = yes
+           	1166 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			1246 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			1329 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			1289 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			1454 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			1613 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+			1380 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+								}
+				            }
+			            }
+		}
+		effect = {
+			prestige = 10
+			set_global_flag = cimmeria_formed
+            all_core = { add_core = CIM }
+           	change_tag = CIM
+			add_country_modifier = {
+				name = archon_boom
+				duration = 3650
+			}
+			any_country = {
+                	limit = { primary_culture = cimmerian 
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+						}
+					}
+					country_event = 50013
+               	}
+			AGA = {
+				all_core = {
+                    		add_core = CIM
+                    		remove_core = AGA
+				    }
+		        }
+			EKT = {
+				all_core = {
+                    		add_core = CIM
+                    		remove_core = EKT
+				    }
+		        }
+			SCP = {
+				all_core = {
+                    		add_core = CIM
+                    		remove_core = SCP
+				    }
+		        }
+			SUN = {
+				all_core = {
+                    		add_core = CIM
+                    		remove_core = SUN
+				    }
+		        }
+			EVA = {
+				all_core = {
+                    		add_core = CIM
+                    		remove_core = EVA
+				    }
+		        }
+			}
+		}
+}

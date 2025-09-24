@@ -1,8 +1,0 @@
-owner = RIH
-controller = RIH
-add_core = RIH
-
-
-trade_goods = coffee
-life_rating = 35
-

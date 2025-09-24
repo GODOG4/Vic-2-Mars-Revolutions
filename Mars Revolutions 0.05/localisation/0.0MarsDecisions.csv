@@ -1,0 +1,87 @@
+##########################;;;;;;;;;;;;;x
+##########################Decisions###########################;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+build_ceraunia_canal_title;Build the Kavohn Canal;;;;;;;;;;;;;;x
+build_ceraunia_canal_desc;After the continent of Tempe Terra fell into the sea, a new culture of Pirates and Vikings emerged from the hardest hit East: The Tempest have been harrassing any ships passing around the long pennisula which is all that remains of the sub-continent. To that end, we've decided to finally choke out their lifesource: We should build a canal through Kavohn thus bypassing the pirates.;;;;;;;;;;;;;;x
+build_renost_canal_title;Finish the Renost Canal;;;;;;;;;;;;;;x
+build_renost_canal_desc;The plans to build a Canal that directly connects the Temp Terran Sea and Valles Marineris has been in production for a while. The first half had already been completed long ago, which connected the inner lake to the sea, but then the Noachian Invasion happened and the Empire put the project on hold while it struggled for survival. Now though we should finish what has been started!;;;;;;;;;;;;;;x
+build_middle_mars_canal_title;Build the Middle Passage Canal;;;;;;;;;;;;;;x
+build_middle_mars_canal_desc;There has always been a dream to find a way to 'sail through' the continent. There had been legends going back centuries that spoke of suppossed mystic routes, but now that we've surveyed the whole planet it's clear that such a thing does not exist. However, the pock-marked lands here in Aonia have proven to be easy to dig canals through. Now though there's one last part that needs to be dug: and this will require locks and much more engineering to create. With our level of technology though this can be done easily. It will certainly be worth it to finally create the Middle Passage!;;;;;;;;;;;;;;x
+planumian_settlement_policy_title;Planumian Settlement Policy.;;;;;;;;;;;;;;x
+planumian_settlement_policy_desc;The lands of the so called 'Planumian' peoples have always been hotly contested. To solidify our claim to this region we must take aggressive action in either assimilating or displacing these tribals with our own people.\n\n§GThis Decision can be taken by any nations with Celestian, Versian, or Australe Hellenic primary culture and gives +100% assim bonus on Planumian, you can all take the decision at the same time. Versian will have the easiest time assimilating however as they share culture groups with Planumian.;;;;;;;;;;;;;;x
+form_elysia_title;Unite Elysia;;;;;;;;;;;;;;x
+form_elysia_desc;The isolated Island of Elysia has been long ignored by the wider world. Now that we've united our island, we need to look outward to expanding out influence to the rest of Mars. Eylsian or Aboric, anyone who lives on our island is a friend and everyone who lives elsewhere is our enemy!;;;;;;;;;;;;;;x
+form_tyrrhena_title;Reclaim the Tyrrhenan Empire;;;;;;;;;;;;;;x
+form_tyrrhena_desc;In many of the shared religious text of Sabea, they speak of a mythical empire united under the rule of the Tyrrhenan Empire. We clearly can claim to have formed this mystic Empire and achieve Paradise on Mars!;;;;;;;;;;;;;;x
+form_hellas_title;Unite the Hellenes;;;;;;;;;;;;;;x
+form_hellas_desc;Hellas has finally been united under our fair rule, we should once again claim the ancient title of 'Hegemon of Hellas'!;;;;;;;;;;;;;;x
+form_eosian_title;Unite the Eosians;;;;;;;;;;;;;;x
+form_hellas_desc;The Eosians had never been united before, under the Empire of Valles Marineris they had just fought among each other (and against the Empire for more autonomy), with many republics and petty kingdoms having very prestigious histories of their own. Still, it's clear in this new world where we are surrounded by hostile powers we must stand together, else we'll be made slaves together. The Eosian Federation will rise!;;;;;;;;;;;;;;x
+form_west_argyle_title;Complete the Reconquista of West Argyle;;;;;;;;;;;;;;x
+form_west_argyle_desc;Argyle was once an independent Kingdom, and the source of faith in the Singularity. However our fall and demise is spoken in the Scriptures themselves: We first were subjugated by the Empire of Valles Marineris and then we were then faced with invasion from Terraformed Saracens. Now though, we stand united and will bow to no one once more: May West Argyle rise!;;;;;;;;;;;;;;x
+form_tharsis_fossae_title;Liberate the Tharsians;;;;;;;;;;;;;;x
+form_tharsis_fossae_desc;We've always had contact with the Tharsian tribes, often not very friendly contact as we struggled with raids and massacres, tit for tat. However we've recently seen their oppression by 'Demons' or the Lunarians as they've called them, and they have petitioned us relentlessly for us to liberate them. We should take up their offer and unite against a common foe.;;;;;;;;;;;;;;x
+form_archeron_title;Unite Archeron;;;;;;;;;;;;;;x
+form_archeron_desc;The ideas of Nationalism were first born in Archeron, and the idea of a united Acheron nation has finally been realized by us!;;;;;;;;;;;;;;x
+form_temp_terra_title;Re-unite Tempe Terra;;;;;;;;;;;;;;x
+form_temp_terra_desc;After the disaster that sunk our continent into the sea, the survivors who managed to make it to the highlands have carved this broken land into small fiefdoms. Of course everyone remembers the old Empire that once was. We now are in the position to recreate Tempe Terra from the fractured remains, and this time we'll ensure it is built to last any calamity.;;;;;;;;;;;;;;x
+form_cimmeria_title;Unite Cimmeria;;;;;;;;;;;;;;x
+form_cimmmeria_desc;The Cimmerian Monastic States find themselves under siege from colonial powers who eye us, and our Hesperian cousins, as free land. They do not believe we have what it takes to be 'good stewards of the land'. We need to prove our status as a civilized people to them and unite, lest we find ourselves being reduced to being subaltern.;;;;;;;;;;;;;;x
+ARG_noachis_argyrian_title;Settling the Terraformed Question;;;;;;;;;;;;;;x
+ARG_noachis_argyrian_desc;The Noachian invasion and conversion of Western Argyle had infiltrated deep. However, despite being forced to convert and resisting attempts at reconversion, they still have more in common with us than the invaders. Let us bury the hatchet and integrate them into our new Crown.;;;;;;;;;;;;;;x
+ARG_argentian_title;Argentian Settlement Society;;;;;;;;;;;;;;x
+ARG_argentian_desc;We've had extensive contact with the wild Steppe people due south of us, the so called 'Argentians'. It's clear that our natural borders lie with the settlement and civilization of these lands.\n\n§GThis decision gives you an assimilation bonus for the Argentian culture and also adds a special province event that boost the LR of any Argentian land you colonize to 32 LR.;;;;;;;;;;;;;;x
+FLD_accept_almalayikan_title;Alleviate the Almalayikan Concerns;;;;;;;;;;;;;;x
+FLD_accept_almalayikan_desc;The Almalayikan were our first conquest, and we had thought that we'd already settled their grievences, however during our extended campaigns in Argyle and Valles Marineris they have started to put up a fuss and refuse recruitment. A combination of the carrot and stick will get them back into the fold.;;;;;;;;;;;;;;x
+FLD_won_SMR_title;Create the South Marineris Pashalik;;;;;;;;;;;;;;x
+FLD_won_SMR_desc;Our next Jihad has finally been successful, now it's time for us to force our control and set up a Pashalik that will help us convert and assimilate these lands.;;;;;;;;;;;;;;x
+FLD_inherit_BOS_title;Integrate the Bosphoran Pashalik;;;;;;;;;;;;;;x
+FLD_inherit_BOS_desc;Our conversion in the Bosporan Pashalik has been rather easy, there already had been a small population of Faithful Terraformed who lived in oppression before, who happily accepted our uplifting. At any moment they'll happily join our empire officially.\n\n§GNote, your Pashalik naturally has increased assimilation and Immigration attraction which you won't benefit once you annex it.;;;;;;;;;;;;;;x
+FLD_inherit_NRP_title;Integrate the Nereidum Pashalik;;;;;;;;;;;;;;x
+FLD_inherit_NRP_desc;The core lands of Western Argyle have been much harder to convert by comparison, but with time the populace has slowly accepted our fair rule!\n\n§GNote, your Pashalik naturally has increased assimilation and Immigration attraction which you won't benefit once you annex it.;;;;;;;;;;;;;;x
+FLD_inherit_SMP_title;Integrate the Marineris Pashalik;;;;;;;;;;;;;;x
+FLD_inherit_SMP_desc;It's taken much longer and it's been a much more recent conquest, but it's time for us to take direct control of South Marineris.;;;;;;;;;;;;;;x
+MAR_lost_FLD_war_title;Aggressive Consolidation of the Valley;;;;;;;;;;;;;;x
+MAR_lost_FLD_war_desc;Disaster! We've lost even more land to those violent Terraformed Heathens! All of the Valles Marineris is now in utter panic: many in the splinter states are petitioning to rejoin the empire for protection as it's clear they cannot stand alone.;;;;;;;;;;;;;;x
+MAR_won_NCT_war_title;Reintegration of the Noctian Protectorate;;;;;;;;;;;;;;x
+MAR_won_NCT_war_desc;Noctian Fossae is once again under our control: these lands always were very tenous and porous, often forming our borderlands with the old empire of Alba Montes with the border changing back and forth. Now though it's clear we need to much more aggressively force the Imperial Mandate on these lands.;;;;;;;;;;;;;;x
+MAR_solian_mariner_title;Integration of the 'Solis Mariners';;;;;;;;;;;;;;x
+MAR_solian_mariner_desc;The Solians from the highlands are distinct from the peoples who lived by the Valles, although such nuances were lost on us. Still it's clear these 'Solis Mariners' are a much more civilized people and we can ensure rebellion won't ever bubble over again by educating and uplifting them as proper Mariners.\n\n§GThis Decision gives you 100% Assimilation Bonus for the Solis Mariner Culture and also gets rid of any Solis Mariner culture cores, you should be able to convert these lands almost fully in a few decades.;;;;;;;;;;;;;;x
+MAR_retook_SMR_title;Reclaiming South Marineris;;;;;;;;;;;;;;x
+MAR_retook_SMR_desc;Many across Mars spoke of our inevitable demise after losing South Marineris, but we've beat the odds and restored our control once more!;;;;;;;;;;;;;;x
+MAR_mariner_settled_title;Encourage Settlement across Marineris;;;;;;;;;;;;;;x
+MAR_mariner_settled_desc;The majority of our population centers and development has been historically concentrated within the Valley, while the dry outer edge of our empire has been neglected and is largely pastoral frontier land. Developing and encouraging development of our hinterland will help us have a more robust and powerful core.;;;;;;;;;;;;;;x
+sunset_invasion_title;Sunset Invasion;;;;;;;;;;;;;;x
+sunset_invasion_desc;The Island of Elysia is surrounded by enemies, all of Mars view us with envy. Thus we must be prepared to strike and prepare the planet for the Great Calamity coming!;;;;;;;;;;;;;;x
+alboric_return_title;Return to Cyane Fossae;;;;;;;;;;;;;;x
+alboric_return_desc;Long ago, our ancestors fled the cruel rule of the Olympians over Cyane Fossae. We've learned that later the Olympians were cast out. It's high time for us to head home and integrate our lesser kin into our nation.\n\n§GThis Decision gives you 100% Assimilation Bonus for the Cyanean Culture;;;;;;;;;;;;;;x
+meridianish_assimilation_title;The Meridianish Solution;;;;;;;;;;;;;;x
+meridianish_assimilation_desc;Settling the lands of the Meridianish with Odysseans is imperative for staking our claim here.\n\n§GThis Decision gives you 100% Assimilation Bonus for the Meridianish Culture;;;;;;;;;;;;;;x
+vargari_settlement_policy_title;Vargari Settlement Policy;;;;;;;;;;;;;;x
+vargari_settlement_policy_desc;The lands of the so called 'Vargari' peoples have always been hotly contested. To solidify our claim to this region we must take aggressive action in either assimilating or displacing these tribals with our own people.\n\n§GThis Decision can be taken by Dala and Nuraddinid and gives +100% assim bonus on Vargari, you can all take the decision at the same time.;;;;;;;;;;;;;;x
+claim_alba_title;Pivot to Alba;;;;;;;;;;;;;;x
+claim_alba_desc;Our lands were always the frontier of Alba Mons, we have as much claim to it's legacy as these so called 'Claimants'. Perhaps we should throw our hat into the ring.\n\n§GThis gives you the same scaling assim bonus the Alban Claimants have, but locks you out of forming your Tharisian nation;;;;;;;;;;;;;;x
+alban_warlord_title;The Legacy of the House of Musk;;;;;;;;;;;;;;x
+alban_warlord_desc;Long ago, our ancestors conquered the other Alban Warlords who emerged from their shelters and liberated the lands from the dreaded Olympians. The Empire of Alba Mons failed clearly by us becoming soft, weak, complacent. We must channel the ferocity of our ancestors to ensure our new Alba Mons will last another thousand years!;;;;;;;;;;;;;;x
+alboric_recall_title;Accept the Alboric Peoples;;;;;;;;;;;;;;x
+alboric_recall_desc;We learned that apparently there's more of these so called 'Alboric' peoples across the sea. We should integrate them into our fair Republique directly.;;;;;;;;;;;;;;x
+outer_alban_navy_title;Outer Alban Naval Spirit;;;;;;;;;;;;;;x
+outer_alban_navy_desc;The Outer Albans have much more in common with the Temp Terrans than most of the Alban Peoples, and we have a proud naval tradition that we should put much more focus towards.;;;;;;;;;;;;;;x
+inner_alba_claimant_title;Inner Alba's claim to Alba Mons;;;;;;;;;;;;;;x
+inner_alba_claimant_desc;While we have more in common with the cause of Archon Nationalism, the prize of Alba Mons is much more appealing.\n\n§GThis gives you Inner Alban as accepted and also gives you the scaling Assim bonus that the other Albans have, but locks you out of forming Archeron;;;;;;;;;;;;;;x
+archonian_domination_focus_title;Dominate Archeron;;;;;;;;;;;;;;x
+archonian_domination_focus_desc;The fertile lands of Archeron are ripe for our taking, and forcing our culture among these stubborn peoples are neccesary to that end\n\n§GThis Decision gives you 100% Assimilation Bonus for both High and Lower Archonian Culture. House Musk, Noctis Fossae, and Ceraunia can take this decision;;;;;;;;;;;;;;x
+poo_in_loo_title;Sabean Syncretism;;;;;;;;;;;;;;x
+poo_in_loo_desc;Here in Sabea, our faith, culture and langauges all have a common history and ancestor. It shall be easy to guide our brothers to speak their original language and their original faith: Ours!\n\n§GThis Decision gives you 100% Assimilation Bonus for all cultures in the Sabean and Amenthian culture groups, Basically: all the Indians.;;;;;;;;;;;;;;x
+celestial_lunarian_cooperation_title;Rewrite the Celestial Colonial Charter;;;;;;;;;;;;;;x
+celestial_lunarian_cooperation_desc;It's clear that our current Colonial Charter needs to be rewritten, and for our administration to be fully divorced from the petty politics in Fleet above. With our continued resiliance and our stabilization of the 'Lunarian' Colony in Tharsis we finally have the political ammo to make big changes.;;;;;;;;;;;;;;x
+tempest_nordic_as_fuck_title;Tempest Raiding Spirit;;;;;;;;;;;;;;x
+tempest_nordic_as_fuck_desc;After the sea swallowed whole our continent, leaving behind a narrow and hostile land at the peaks of the mountains, we've resorted to Raiding the coasts of Alba and Archon to survive, even going as far as Australe. Now that we've forced our will onto all of Tempe Terra we should ensure that our lessons from this savage times are carried over to a Professional Navay.;;;;;;;;;;;;;;x
+olympia_reborn_title;Olympia Reborn;;;;;;;;;;;;;;x
+olympia_reborn_desc;Our Empire has recently started to crumble further from it's heights, split into various independant fiefdoms. Now that we've eliminated our rivals we can help heal the cultural divide.;;;;;;;;;;;;;;x
+olympian_domination_title;Restore Imperial Control over Western Alba;;;;;;;;;;;;;;x
+olympian_domination_desc;Long ago, we used to fairly rule over Cyane and Ceraunia, however the perfidious Alban Warlords drove us out and formed their own barbaric dominion. Now it's high time we restore what once was.;;;;;;;;;;;;;;x
+deadalian_domination_title;Conquest of the New Frontier;;;;;;;;;;;;;;x
+deadalian_domination_desc;Instead of repeating the mistakes of our previous empire, attempting to subjugate the barbaric Albans, we should focus on dominating the virgin Daedalian Plateau next to us.;;;;;;;;;;;;;;x
+amazon_acceptance_title;Integration of the Amazons;;;;;;;;;;;;;;x
+amazon_acceptance_desc;In many ways, the Amazonians are even more advanced and sophisticated than us, despite living in a tropical wet climate their proximity and trade with the Spacers has allowed them to be more advanced than us. We should reward their ingenuity by making it clear we are equals and that they are not our slaves.;;;;;;;;;;;;;;x

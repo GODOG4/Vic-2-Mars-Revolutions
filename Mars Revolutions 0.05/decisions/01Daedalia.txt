@@ -1,0 +1,23 @@
+political_decisions = {
+
+	amazon_acceptance = {
+		potential = { 
+			tag = JAM
+			NOT = { has_country_flag = amazon_acceptance }
+		}
+
+		allow = {
+			nationalism_n_imperalism = 1
+			owns = 788
+			owns = 795
+			owns = 899
+			owns = 897
+			owns = 1016
+		}
+
+		effect = { 
+			prestige = 5
+			add_accepted_culture = amazonian
+			set_country_flag = amazon_acceptance
+		}
+}

@@ -1,0 +1,23 @@
+political_decisions = {
+
+	tempest_nordic_as_fuck = {
+		picture = danelaw_flag
+		potential = { 
+			primary_culture = tempest		
+			NOT = { has_country_flag = nordic_as_fuck }
+		}
+
+		allow = {
+			tag = TEM
+		}
+
+		effect = { 
+			prestige = 5
+			set_country_flag = nordic_as_fuck
+				add_country_modifier = {
+				    name = nordic_as_fuck
+				    duration = -1
+				}
+			}
+		}
+}

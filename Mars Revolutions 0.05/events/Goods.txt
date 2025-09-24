@@ -1,0 +1,52 @@
+#Change Wool back to Coffee 
+province_event = {
+
+	id = 999996
+
+	trigger = {
+		province_id = 1395		
+		not = { trade_goods = coffee }
+		owner = {
+			civilized = yes
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	title = "Wool to Coffee"
+	desc = "Now that you are a civilized country you don't need Wool RGO to Cav Spam"
+
+	option = {
+		name = "Cool"
+		trade_goods = coffee
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 999995
+
+	trigger = {
+		province_id = 1727		
+		not = { trade_goods = coffee }
+		owner = {
+			civilized = yes
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	title = "Wool to Coffee"
+	desc = "Now that you are a civilized country you don't need Wool RGO to Cav Spam"
+
+	option = {
+		name = "Cool"
+		trade_goods = coffee
+		# life_rate = 5
+	}
+}

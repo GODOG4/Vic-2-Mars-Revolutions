@@ -1,7 +1,0 @@
-owner = CIV
-controller = CIV
-
-
-trade_goods = tea
-life_rating = 20
-

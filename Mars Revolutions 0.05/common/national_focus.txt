@@ -1,0 +1,697 @@
+pop_pro_small =
+{
+	small_promote_aristocrats =
+	{
+		aristocrats = 0.35 #20% more likeley to become artisans
+		icon = 5
+		limit = {
+			NOT = { state_scope = { total_pops = 300000 } }
+		}
+		outliner_show_as_percent = yes
+	}
+
+	small_promote_artisans =
+	{
+		artisans = 0.35 #20% more likeley to become this type
+		icon = 6
+		limit = {
+			NOT = { state_scope = { total_pops = 300000 } }
+		}
+		outliner_show_as_percent = yes
+	}
+
+	small_promote_bureaucrats =
+	{
+		bureaucrats = 0.35 #20% more likeley to become this type
+		icon = 7
+		limit = {
+			NOT = { state_scope = { total_pops = 300000 } }
+		}
+		outliner_show_as_percent = yes
+	}
+
+	small_promote_capitalists =
+	{
+		capitalists = 0.35 #20% more likeley to become this type
+		icon = 8
+		outliner_show_as_percent = yes
+		limit = { 
+			civilized = yes
+			NOT = { state_scope = { total_pops = 300000 } }
+		}
+
+	}
+	
+	small_promote_clergymen =
+	{
+		clergymen = 0.35 #20% more likeley to become this type
+		icon = 9 
+		limit = {
+			NOT = { state_scope = { total_pops = 300000 } }
+		}
+		outliner_show_as_percent = yes
+	}
+
+	small_promote_clerks =
+	{
+		clerks = 0.3 #20% more likeley to become this type
+		icon = 10
+		outliner_show_as_percent = yes
+		limit = { 
+			civilized = yes
+			NOT = { state_scope = { total_pops = 300000 } }
+		}
+	}
+
+	small_promote_craftsmen =
+	{
+		craftsmen = 0.3 #20% more likeley to become this type
+		icon = 11
+		outliner_show_as_percent = yes
+		limit = { 
+			civilized = yes
+			NOT = { state_scope = { total_pops = 300000 } }
+		}
+	}
+
+	small_promote_farmers =
+	{
+		farmers = 0.35 #20% more likeley to become this type
+		icon = 12
+		limit = {
+			NOT = { state_scope = { total_pops = 300000 } }
+		}
+		outliner_show_as_percent = yes
+	}
+	
+	small_promote_labourers =
+	{
+		labourers = 0.35 #20% more likeley to become this type
+		icon = 13
+		limit = {
+			NOT = { state_scope = { total_pops = 300000 } }
+		}
+		outliner_show_as_percent = yes
+	}
+
+	small_promote_officers =
+	{
+		officers = 0.35 #20% more likeley to become this type
+		icon = 14
+		limit = {
+			NOT = { state_scope = { total_pops = 300000 } }
+		}
+		outliner_show_as_percent = yes
+	}
+
+	small_promote_soldiers =
+	{
+		soldiers = 0.35 #20% more likeley to become this type
+		icon = 15
+		limit = {
+			NOT = { state_scope = { total_pops = 300000 } }
+		}
+		outliner_show_as_percent = yes
+	}
+	
+}	
+
+pop_pro_medium =
+{
+	medium_promote_aristocrats =
+	{
+		aristocrats = 0.275 #20% more likeley to become artisans
+		icon = 5
+		limit = {
+			state_scope = {
+				total_pops = 300000
+				NOT = { total_pops = 900000 }
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+
+	medium_promote_artisans =
+	{
+		artisans = 0.275 #20% more likeley to become this type
+		icon = 6
+		limit = {
+			state_scope = {
+				total_pops = 300000
+				NOT = { total_pops = 900000 }
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+
+	medium_promote_bureaucrats =
+	{
+		bureaucrats = 0.275 #20% more likeley to become this type
+		icon = 7
+		limit = {
+			state_scope = {
+				total_pops = 300000
+				NOT = { total_pops = 900000 }
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+
+	medium_promote_capitalists =
+	{
+		capitalists = 0.275 #20% more likeley to become this type
+		icon = 8
+		outliner_show_as_percent = yes
+		limit = { 
+			civilized = yes
+			state_scope = {
+				total_pops = 300000
+				NOT = { total_pops = 900000 }
+			}
+		}
+
+	}
+	
+	medium_promote_clergymen =
+	{
+		clergymen = 0.275 #20% more likeley to become this type
+		icon = 9
+		limit = {
+			state_scope = {
+				total_pops = 300000
+				NOT = { total_pops = 900000 }
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+
+	medium_promote_clerks =
+	{
+		clerks = 0.225 #20% more likeley to become this type
+		icon = 10
+		outliner_show_as_percent = yes
+		limit = { 
+			civilized = yes
+			state_scope = {
+				total_pops = 300000
+				NOT = { total_pops = 900000 }
+			}
+		}
+	}
+
+	medium_promote_craftsmen =
+	{
+		craftsmen = 0.225 #20% more likeley to become this type
+		icon = 11
+		outliner_show_as_percent = yes
+		limit = { 
+			civilized = yes
+			state_scope = {
+				total_pops = 300000
+				NOT = { total_pops = 900000 }
+			}
+		}
+	}
+
+	medium_promote_farmers =
+	{
+		farmers = 0.275 #20% more likeley to become this type
+		icon = 12
+		limit = {
+			state_scope = {
+				total_pops = 300000
+				NOT = { total_pops = 900000 }
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+	
+	medium_promote_labourers =
+	{
+		labourers = 0.275 #20% more likeley to become this type
+		icon = 13
+		limit = {
+			state_scope = {
+				total_pops = 300000
+				NOT = { total_pops = 900000 }
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+
+	medium_promote_officers =
+	{
+		officers = 0.275 #20% more likeley to become this type
+		icon = 14
+		limit = {
+			state_scope = {
+				total_pops = 300000
+				NOT = { total_pops = 900000 }
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+
+	medium_promote_soldiers =
+	{
+		soldiers = 0.275 #20% more likeley to become this type
+		icon = 15
+		limit = {
+			state_scope = {
+				total_pops = 300000
+				NOT = { total_pops = 900000 }
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+	
+}	
+
+pop_pro_big =
+{
+	big_promote_aristocrats =
+	{
+		aristocrats = 0.20 #20% more likeley to become artisans
+		icon = 5
+		limit = {
+			state_scope = {
+				total_pops = 900000
+				NOT = { total_pops = 1800000 }
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+
+	big_promote_artisans =
+	{
+		artisans = 0.20 #20% more likeley to become this type
+		icon = 6
+		limit = {
+			state_scope = {
+				total_pops = 900000
+				NOT = { total_pops = 1800000 }
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+
+	big_promote_bureaucrats =
+	{
+		bureaucrats = 0.20 #20% more likeley to become this type
+		icon = 7
+		limit = {
+			state_scope = {
+				total_pops = 900000
+				NOT = { total_pops = 1800000 }
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+
+	big_promote_capitalists =
+	{
+		capitalists = 0.20 #20% more likeley to become this type
+		icon = 8
+		outliner_show_as_percent = yes
+		limit = { 
+			civilized = yes
+			state_scope = {
+				total_pops = 900000
+				NOT = { total_pops = 1800000 }
+			}
+		}
+
+	}
+	
+	big_promote_clergymen =
+	{
+		clergymen = 0.20 #20% more likeley to become this type
+		icon = 9
+		limit = {
+			state_scope = {
+				total_pops = 900000
+				NOT = { total_pops = 1800000 }
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+
+	big_promote_clerks =
+	{
+		clerks = 0.15 #20% more likeley to become this type
+		icon = 10
+		outliner_show_as_percent = yes
+		limit = { 
+			civilized = yes
+			state_scope = {
+				total_pops = 900000
+				NOT = { total_pops = 1800000 }
+			}
+		}
+	}
+
+	big_promote_craftsmen =
+	{
+		craftsmen = 0.15 #20% more likeley to become this type
+		icon = 11
+		outliner_show_as_percent = yes
+		limit = { 
+			civilized = yes
+			state_scope = {
+				total_pops = 900000
+				NOT = { total_pops = 1800000 }
+			}
+		}
+	}
+
+	big_promote_farmers =
+	{
+		farmers = 0.20 #20% more likeley to become this type
+		icon = 12
+		limit = {
+			state_scope = {
+				total_pops = 900000
+				NOT = { total_pops = 1800000 }
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+	
+	big_promote_labourers =
+	{
+		labourers = 0.20 #20% more likeley to become this type
+		icon = 13
+		limit = {
+			state_scope = {
+				total_pops = 900000
+				NOT = { total_pops = 1800000 }
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+
+	big_promote_officers =
+	{
+		officers = 0.20 #20% more likeley to become this type
+		icon = 14
+		limit = {
+			state_scope = {
+				total_pops = 900000
+				NOT = { total_pops = 1800000 }
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+
+	big_promote_soldiers =
+	{
+		soldiers = 0.20 #20% more likeley to become this type
+		icon = 15
+		limit = {
+			state_scope = {
+				total_pops = 900000
+				NOT = { total_pops = 1800000 }
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+	
+}	
+
+pop_pro_huge =
+{
+	huge_promote_aristocrats =
+	{
+		aristocrats = 0.15 #20% more likeley to become artisans
+		icon = 5
+		limit = {
+			state_scope = {
+				total_pops = 1800000
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+
+	huge_promote_artisans =
+	{
+		artisans = 0.15 #20% more likeley to become this type
+		icon = 6
+		limit = {
+			state_scope = {
+				total_pops = 1800000
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+
+	huge_promote_bureaucrats =
+	{
+		bureaucrats = 0.15 #20% more likeley to become this type
+		icon = 7
+		limit = {
+			state_scope = {
+				total_pops = 1800000
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+
+	huge_promote_capitalists =
+	{
+		capitalists = 0.15 #20% more likeley to become this type
+		icon = 8
+		outliner_show_as_percent = yes
+		limit = { 
+			civilized = yes
+			state_scope = {
+				total_pops = 1800000
+			}
+		}
+
+	}
+	
+	huge_promote_clergymen =
+	{
+		clergymen = 0.15 #20% more likeley to become this type
+		icon = 9
+		limit = {
+			state_scope = {
+				total_pops = 1800000
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+
+	huge_promote_clerks =
+	{
+		clerks = 0.1 #20% more likeley to become this type
+		icon = 10
+		outliner_show_as_percent = yes
+		limit = { 
+			civilized = yes
+			state_scope = {
+				total_pops = 1800000
+			}
+		}
+	}
+
+	huge_promote_craftsmen =
+	{
+		craftsmen = 0.1 #20% more likeley to become this type
+		icon = 11
+		outliner_show_as_percent = yes
+		limit = { 
+			civilized = yes
+			state_scope = {
+				total_pops = 1800000
+			}
+		}
+	}
+
+	huge_promote_farmers =
+	{
+		farmers = 0.15 #20% more likeley to become this type
+		icon = 12
+		limit = {
+			state_scope = {
+				total_pops = 1800000
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+	
+	huge_promote_labourers =
+	{
+		labourers = 0.15 #20% more likeley to become this type
+		icon = 13
+		limit = {
+			state_scope = {
+				total_pops = 1800000
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+
+	huge_promote_officers =
+	{
+		officers = 0.15 #20% more likeley to become this type
+		icon = 14
+		limit = {
+			state_scope = {
+				total_pops = 1800000
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+
+	huge_promote_soldiers =
+	{
+		soldiers = 0.15 #20% more likeley to become this type
+		icon = 15
+		limit = {
+			state_scope = {
+				total_pops = 1800000
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+	
+}	
+custom_policies =
+{
+
+	rail_focus =
+	{
+		railroads = 0.95
+		icon = 2
+	}
+	immigrant_focus =
+	{
+		immigrant_attract = 10000
+		immigrant_push = -10000
+		icon = 3
+	}
+
+	militancy_and_reform_focus =
+	{
+		pop_militancy_modifier = 0.3
+		political_reform_desire = 0.5
+		social_reform_desire = 0.5
+		icon = 4
+	}
+	
+	police =
+	{
+		pop_militancy_modifier = -0.15
+		local_factory_throughput = -0.1
+		local_RGO_output = -0.1
+		icon = 16
+	}
+	assimilation_nat_focus =
+	{
+		assimilation_rate = 2.5
+		icon = 17
+
+	}
+	
+	rgo_exploitation =
+	{
+		mine_rgo_eff = 0.25
+		farm_rgo_eff = 0.25
+		labourers = 0.15
+		farmers = 0.15
+		life_rating = -0.05
+		icon = 18
+
+	}
+	repair_focus =
+	{
+		local_repair = 0.5
+		life_rating = -0.05
+		icon = 19
+
+	}
+
+	factory_exploitation =
+	{
+		local_factory_input = -0.1
+		local_factory_output = 0.2
+		tax_efficiency = -0.0025
+		life_rating = -0.05
+		icon = 20
+
+	}
+
+	assimilation_craftsmen_focus =
+	{
+		craftsmen = 0.1
+		assimilation_rate = 1.5
+		icon = 21
+
+	}
+
+	assimilation_soldier_focus =
+	{
+		soldiers = 0.15
+		assimilation_rate = 1.5
+		icon = 22
+
+	}
+
+	colonial_immigration = {
+	bureaucrats = 0.15
+        immigrant_attract = 20000
+	immigrant_push = -10000
+        icon = 23
+        limit = {
+            is_colonial = yes
+        }
+    }
+	
+}
+
+party_loyalty_focus =
+{
+	fascist_focus =
+	{
+		ideology = fascist
+		loyalty_value = 0.005 # By that much pops will be more loyal
+		icon = 25
+	}
+	
+	reactionary_focus =
+	{
+		ideology = reactionary
+		loyalty_value = 0.005 # By that much pops will be more loyal
+		icon = 26
+	}
+	
+	conservative_focus =
+	{
+		ideology = conservative
+		loyalty_value = 0.005 # By that much pops will be more loyal
+		icon = 27
+	}
+	
+	socialist_focus =
+	{
+		ideology = socialist
+		loyalty_value = 0.005 # By that much pops will be more loyal
+		icon = 28
+	}
+	
+	communist_focus =
+	{
+		ideology = communist
+		loyalty_value = 0.005 # By that much pops will be more loyal
+		icon = 29
+	}
+	
+	liberal_focus =
+	{
+		ideology = liberal
+		loyalty_value = 0.005 # By that much pops will be more loyal
+		icon = 31
+	}
+	
+}

@@ -1,0 +1,128 @@
+political_decisions = {
+    SLP_state_167 = {
+        potential = {
+            tag = SLP
+            owns = 695
+            state_167 = { empty = yes }
+            NOT = { civilized = yes }
+        }
+
+        allow = {
+            war = no
+	    civilization_progress = 0.25
+        }
+
+        effect = {
+	    research_points = -2500
+            state_167 = { secede_province = THIS life_rating = 15 }
+        }
+
+        ai_will_do = { factor = 0 }
+    }
+
+        SLP_state_186 = {
+        potential = {
+            tag = SLP
+            OR = { owns = 695 owns = 791 }
+            state_186 = { empty = yes }
+            NOT = { civilized = yes }
+        }
+
+        allow = {
+            war = no
+	    civilization_progress = 0.25
+        }
+
+        effect = {
+	    research_points = -2500
+            state_186 = { secede_province = THIS life_rating = 15 }
+        }
+
+        ai_will_do = { factor = 0 }
+    }
+
+        SLP_state_199 = {
+        potential = {
+            tag = SLP
+            OR = { owns = 695 owns = 791 }
+            state_199 = { empty = yes }
+            NOT = { civilized = yes }
+        }
+
+        allow = {
+            war = no
+	    civilization_progress = 0.25
+        }
+
+        effect = {
+	    research_points = -2500
+            state_199 = { secede_province = THIS life_rating = 15 }
+        }
+
+        ai_will_do = { factor = 0 }
+    }
+
+        SLP_state_175 = {
+        potential = {
+            tag = SLP
+            owns = 687 owns = 747
+            state_175 = { empty = yes }
+            NOT = { civilized = yes }
+        }
+
+        allow = {
+            war = no
+	    civilization_progress = 0.25
+        }
+
+        effect = {
+	    research_points = -2500
+            state_175 = { secede_province = THIS life_rating = 15 }
+        }
+
+        ai_will_do = { factor = 0 }
+    }
+
+        SLP_state_200 = {
+        potential = {
+            tag = SLP
+            owns = 844
+            state_200 = { empty = yes }
+            NOT = { civilized = yes }
+        }
+
+        allow = {
+            war = no
+	    civilization_progress = 0.35
+        }
+
+        effect = {
+	    research_points = -2500
+            state_200 = { secede_province = THIS life_rating = 15 }
+        }
+
+        ai_will_do = { factor = 0 }
+    }
+
+        SLP_state_200 = {
+        potential = {
+            tag = SLP
+            owns = 838
+            state_224 = { empty = yes }
+            NOT = { civilized = yes }
+        }
+
+        allow = {
+            war = no
+	    civilization_progress = 0.45
+        }
+
+        effect = {
+	    research_points = -2500
+            state_224 = { secede_province = THIS life_rating = 15 }
+        }
+
+        ai_will_do = { factor = 0 }
+    }
+
+}

@@ -1,0 +1,48 @@
+political_decisions = {
+
+olympian_domination = {
+		potential = { 
+			tag = OLM
+			NOT = { has_country_flag = olympian_domination }
+		}
+
+		allow = {
+			nationalism_n_imperialism = 1
+			owns = 169
+			owns = 151
+			owns = 130
+		}
+
+		effect = { 
+			prestige = 5
+			set_country_flag = olympian_domination
+				add_country_modifier = {
+				    name = olympian_domination
+				    duration = -1
+				}
+			}
+		}
+		
+	deadalian_domination = {
+		potential = { 
+			tag = GIG
+			NOT = { has_country_flag = daedalian_domination }
+		}
+
+		allow = {
+			nationalism_n_imperalism = 1
+			owns = 551
+			owns = 576
+			owns = 536
+		}
+
+		effect = { 
+			prestige = 5
+			set_country_flag = daedalian_domination
+ 				add_country_modifier = {
+ 				    name = daedalian_domination
+ 				    duration = -1
+ 				}
+ 			}
+		}
+}
