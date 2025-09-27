@@ -20,4 +20,5 @@ political_decisions = {
 			add_accepted_culture = amazonian
 			set_country_flag = amazon_acceptance
 		}
+	}
 }

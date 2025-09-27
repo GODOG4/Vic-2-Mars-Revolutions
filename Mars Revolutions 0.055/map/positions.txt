@@ -7225,17 +7225,49 @@
 }
 
 249 = {
-    unit = {
-        x = 472.000000
-        y = 881.000000
-    }
-
     text_position = {
         x = 467.583548
         y = 881.958869
     }
 
     text_scale = 3.0
+    unit = {
+        x = 472.000000
+        y = 881.000000
+    }
+
+    factory = {
+        x = 464.840000
+        y = 887.891667
+    }
+
+    building_construction = {
+        x = 462.866667
+        y = 877.161667
+    }
+
+    military_construction = {
+        x = 468.848333
+        y = 885.240000
+    }
+
+    building_position = {
+        fort = {
+            x = 473.781667
+            y = 878.456667
+        }
+
+        naval_base = {
+            x = 458.303333
+            y = 886.535000
+        }
+
+    }
+
+    building_rotation = {
+        naval_base = 2.498092
+    }
+
 }
 
 250 = {
@@ -7765,25 +7797,25 @@
 }
 
 266 = {
-    unit = {
-        x = 478.000000
-        y = 863.000000
-    }
-
     text_position = {
         x = 480.560175
         y = 858.221007
     }
 
     text_scale = 3.0
-    building_construction = {
-        x = 483.000000
-        y = 854.000000
+    unit = {
+        x = 478.000000
+        y = 863.000000
     }
 
     factory = {
         x = 480.000000
         y = 844.000000
+    }
+
+    building_construction = {
+        x = 483.000000
+        y = 854.000000
     }
 
     building_position = {
@@ -7792,20 +7824,11 @@
             y = 877.000000
         }
 
-        naval_base = {
-            x = 464.000000
-            y = 850.000000
-        }
-
         railroad = {
             x = 479.000000
             y = 847.000000
         }
 
-    }
-
-    building_rotation = {
-        naval_base = 1.892547
     }
 
 }
@@ -19715,20 +19738,15 @@
 }
 
 629 = {
-    unit = {
-        x = 850.000000
-        y = 893.000000
-    }
-
     text_position = {
         x = 844.652520
         y = 896.881963
     }
 
     text_scale = 3.0
-    building_construction = {
-        x = 842.000000
-        y = 901.000000
+    unit = {
+        x = 850.000000
+        y = 893.000000
     }
 
     factory = {
@@ -19736,10 +19754,15 @@
         y = 900.000000
     }
 
+    building_construction = {
+        x = 842.000000
+        y = 901.000000
+    }
+
     building_position = {
         fort = {
-            x = 859.000000
-            y = 884.000000
+            x = 842.720000
+            y = 891.110000
         }
 
         railroad = {
