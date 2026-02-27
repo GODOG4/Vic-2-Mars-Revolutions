@@ -1,0 +1,286 @@
+army = {
+	name = "The CEO's Security Force"
+	location = 1264
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 1264
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 1266
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 1316
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 1219
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 1204
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 1230
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 1397
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 1466
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 1413
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 1344
+	}            
+}
+
+army = {
+	name = "City Levies"
+	location = 1344	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 1344
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 1349
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 1382
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 1397
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 1264
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 1316
+	}            
+}
+
+navy = {
+	name = "Corporate Shipping Fleet"
+	location = 1264
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+		ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+}

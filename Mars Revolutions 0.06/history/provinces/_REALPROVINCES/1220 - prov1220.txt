@@ -1,0 +1,28 @@
+owner = BAY
+controller = BAY
+add_core = SIZ
+naval_base = 1
+
+trade_goods = fish
+life_rating = 40
+
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = transport_shipyard
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = small_arms_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = clipper_shipyard
+	upgrade = yes
+}

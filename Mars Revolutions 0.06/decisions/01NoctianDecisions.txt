@@ -1,0 +1,29 @@
+political_decisions = {	
+
+	NCT_settled = {
+		picture = expedition_to_palmyra
+		potential = { 
+			tag = NCT
+			NOT = { has_country_flag = noctian_settled }
+		}
+
+		allow = {
+			war = no
+			inorganic_chemistry = 1
+		}
+
+		effect = { 
+			set_country_flag = noctian_settled	
+			any_owned = { 
+				limit = {	
+					OR = { pop_majority_culture = noctian pop_majority_culture = earther }
+					OR = { terrain = desert terrain = semidesert terrain = dryhills }
+					continent = continent_1
+					}
+				life_rating = 2
+				add_province_modifier = { name = colonial_recruitment duration = 1600 }
+			}
+		}
+	}
+
+}

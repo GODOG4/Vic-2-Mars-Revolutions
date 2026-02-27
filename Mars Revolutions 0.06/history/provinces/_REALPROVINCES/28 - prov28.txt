@@ -1,0 +1,8 @@
+owner = OAL
+controller = OAL
+add_core = OAL
+
+
+trade_goods = cotton
+life_rating = 35
+

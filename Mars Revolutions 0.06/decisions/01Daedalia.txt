@@ -1,0 +1,71 @@
+political_decisions = {
+
+	amazon_acceptance = {
+		picture = VIN_colony
+		potential = { 
+			tag = JAM
+			NOT = { has_country_flag = amazon_acceptance }
+		}
+
+		allow = {
+			nationalism_n_imperalism = 1
+			owns = 788
+			owns = 795
+			owns = 899
+			owns = 897
+			owns = 1016
+		}
+
+		effect = { 
+			prestige = 5
+			add_accepted_culture = amazonian
+			set_country_flag = amazon_acceptance
+		}
+	}
+	contact_spacers = {
+		picture = found_the_imperial_academy
+		potential = {
+			tag = JAM
+			NOT = { has_country_flag = dar_al_funun_built }
+			ai = no
+		}
+		allow = {
+			literacy = 0.25
+		}
+		effect = {
+			years_of_research = 0.5
+			any_pop = { consciousness = 0.5 }
+			set_country_flag = dar_al_funun_built
+			activate_technology = malthusian_thought
+			add_country_modifier = {
+				name = dar_al_funun
+				duration = -1
+			}
+			random_owned = {
+				limit = {
+					owner = {
+						civilized = no
+						education_reform = no_education_reform
+					}
+				}
+				owner = {
+					economic_reform = yes_education_reform
+					any_pop = {
+						scaled_militancy = {
+							ideology = liberal
+							factor = 0.5
+						}
+						scaled_militancy = {
+							ideology = conservative
+							factor = 1
+						}
+						scaled_militancy = {
+							ideology = reactionary
+							factor = 3
+						}
+					}
+				}
+			}
+		}
+	}
+}

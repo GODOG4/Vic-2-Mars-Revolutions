@@ -1,0 +1,9 @@
+owner = MAR
+controller = MAR
+add_core = AGA
+colonial = 2
+naval_base = 2
+
+trade_goods = fish
+life_rating = 35
+

@@ -1,8 +1,0 @@
-owner = SCI
-controller = SCI
-add_core = SCI
-
-
-trade_goods = sulphur
-life_rating = 35
-

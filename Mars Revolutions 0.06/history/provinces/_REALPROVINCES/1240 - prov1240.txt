@@ -1,0 +1,8 @@
+owner = MAR
+controller = MAR
+colonial = 2
+naval_base = 2
+
+trade_goods = timber
+life_rating = 35
+

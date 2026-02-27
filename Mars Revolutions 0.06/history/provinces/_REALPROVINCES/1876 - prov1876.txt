@@ -1,0 +1,9 @@
+owner = KUC
+controller = KUC
+add_core = KUC
+
+
+trade_goods = timber
+life_rating = 30
+
+

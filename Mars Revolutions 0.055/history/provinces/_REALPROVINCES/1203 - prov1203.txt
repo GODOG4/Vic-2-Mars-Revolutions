@@ -1,8 +1,0 @@
-owner = SIZ
-controller = SIZ
-add_core = SIZ
-
-
-trade_goods = fruit
-life_rating = 35
-

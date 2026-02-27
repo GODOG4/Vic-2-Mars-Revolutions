@@ -1,0 +1,8 @@
+owner = TAH
+controller = TAH
+colonial = 2
+
+
+trade_goods = cattle
+life_rating = 35
+

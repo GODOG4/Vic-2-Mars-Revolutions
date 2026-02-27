@@ -1,0 +1,25 @@
+country_event = {
+	id = 88800
+	is_triggered_only = yes
+	fire_only_once = yes
+
+	title = "Birth of Noctis Fossae"
+	desc = "We broke free of the chains of the dying Valles Marineris. Initially they dealt us a crushing defeat in battle, but the recent Jihad declared has shifted their priorities, and we've secured temporary peace."
+
+	option = {
+		name = "We'll go on to do great things." 
+	}
+}
+
+country_event = {
+	id = 88801
+	is_triggered_only = yes
+	fire_only_once = yes
+
+	title = "The Waning Valles"
+	desc = "Our Empire stretched far and wide, to Noctis Fossae and Argyle and even further afield. Now a new conquest by the Fadlid Emirate has been declared, but the winds may be changing in our favor..."
+
+	option = {
+		name = "We will rise again." 
+	}
+}

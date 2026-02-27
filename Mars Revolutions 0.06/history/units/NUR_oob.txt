@@ -1,0 +1,254 @@
+army = {
+	name = "Hellenian Falanj"
+	location = 1812
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 1812
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 1787
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 1764
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 1746
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 1779
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 1814
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 1833
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 1864
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 1853
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 1755
+	}            
+}
+
+army = {
+	name = "Vargari Auxillaries"
+	location = 1770	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 1770
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 1793
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 1799
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 1829
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 1742
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 1738
+	}            
+}
+
+navy = {
+	name = "Hellenian Navy"
+	location = 1812
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+		ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+}

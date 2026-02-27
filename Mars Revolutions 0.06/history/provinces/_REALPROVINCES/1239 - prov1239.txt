@@ -1,0 +1,8 @@
+owner = JAM
+controller = JAM
+
+naval_base = 1
+
+trade_goods = timber
+life_rating = 35
+

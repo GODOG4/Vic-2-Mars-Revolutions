@@ -1,0 +1,8 @@
+#Made with Vic2 Map Maker Tool by Dotdot :) 
+owner = LCT
+controller = LCT
+add_core = LCT
+terrain = semidesert
+trade_goods = precious_metal
+life_rating = 35
+

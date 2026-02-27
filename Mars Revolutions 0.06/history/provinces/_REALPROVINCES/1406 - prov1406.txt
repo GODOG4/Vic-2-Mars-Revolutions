@@ -1,0 +1,6 @@
+owner = CEL
+controller = CEL
+add_core = KAR
+trade_goods = coal
+life_rating = 38
+
