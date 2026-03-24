@@ -1,0 +1,6 @@
+owner = THM
+controller = THM
+add_core = ARS
+trade_goods = sulphur
+life_rating = 35
+

@@ -1,0 +1,33 @@
+###############################################################
+#FM Naval inventions
+###############################################################
+#Reach Inventions - Added to enable a truly global reach for all powers to colonize and compete more easily during the progression of the game
+continental_naval_reach = {
+
+	limit = { post_nelsonian_thought = 1 }
+	
+	chance = { base = 100 }
+	
+	effect = { naval_attrition = -0.10 }
+
+}
+
+intercontinental_naval_reach = {
+
+	limit = { raider_group_doctrine = 1 }
+	
+	chance = { base = 100 }
+	
+	effect = { naval_attrition = -0.15 }
+
+}
+
+global_naval_reach = {
+
+	limit = { high_sea_battle_fleet = 1 }
+	
+	chance = { base = 100 }
+	
+	effect = { naval_attrition = -0.20 }
+
+}

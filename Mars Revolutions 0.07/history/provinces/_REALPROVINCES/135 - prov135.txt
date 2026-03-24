@@ -1,0 +1,8 @@
+owner = SKO
+controller = SKO
+add_core = SKO
+
+
+trade_goods = grain
+life_rating = 35
+

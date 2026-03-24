@@ -1,0 +1,6 @@
+owner = THM
+controller = THM
+add_core = ARS
+trade_goods = cotton
+life_rating = 35
+

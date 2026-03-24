@@ -1,0 +1,123 @@
+
+navy = {
+	name = "Merchant Marine Navy"
+	location = 95
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+}
+army = {
+	name = "Inner Alban Guard"
+	location = 95
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 95
+	}	
+  regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 83
+	}	
+  regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 106
+	}	
+  regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 130
+	}	
+  regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 79
+	}	
+  regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 65
+	}	
+  regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 106
+	}	
+regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 95
+	}
+regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 99
+	}
+regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 130
+	}            
+}

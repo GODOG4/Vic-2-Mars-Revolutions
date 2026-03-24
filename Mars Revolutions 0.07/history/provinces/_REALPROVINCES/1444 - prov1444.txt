@@ -1,0 +1,7 @@
+owner = BAY
+controller = BAY
+add_core = BAY
+add_core = KAR
+trade_goods = coal
+life_rating = 38
+

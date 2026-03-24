@@ -1,0 +1,8 @@
+owner = ACF
+controller = ACF
+add_core = ACF
+
+
+trade_goods = grain
+life_rating = 35
+

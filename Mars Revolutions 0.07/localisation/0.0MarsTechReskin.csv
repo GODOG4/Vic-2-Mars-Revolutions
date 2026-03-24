@@ -1,0 +1,659 @@
+Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
+post_napoleonic_thought;Post-Terran Army Thought;;;;;;;;;;;;;x
+post_napoleonic_thought_desc;Post-Terran Army Thought;;;;;;;;;;;;;x
+post_napoleonic_army_doctrine;Post-Terran Army Doctrine;;;;;;;;;;;;;x
+UV_PERSONALITY;Combat Traits: $VAL$;Personnalit?: $VAL$;Pers?lichkeit: $VAL$;;Personalidad: $VAL$;;;;;;;;;x;;;;
+UV_BACKGROUND;Support Traits: $VAL$;Caract?istique : $VAL$;Hintergrund: $VAL$;;Historial: $VAL$;;;;;;;;;x;;;;
+UV_PERSONALITY_LABEL;Combat Traits;Personnalit?Pers?lichkeit;;Personalidad;;;;;;;;;x;;;;
+UV_BACKGROUND_LABEL;Support Traits;Caract?istique;Hintergrund;;Marco hist?ico;;;;;;;;;x;;;;
+MILITARY_PERSONALITY;Support Traits: §Y$NAME$§W;Personnalit?: §Y$NAME$§W;PersÃ¶nlichkeit: §Y$NAME$§W;;Personalidad: §Y$NAME$§W;;;;;;;;;x
+MILITARY_BACKGROUND;Combat Traits: §Y$NAME$§W;CaractÃ©ristique : §Y$NAME$§W;Hintergrund: §Y$NAME$§W;;Trasfondo: §Y$NAME$§W;;;;;;;;;x
+no_personality;No Traits;;;;;;;;;;;;;;
+no_background;No Traits;;;;;;;;;;;;;;
+spd20rec05;+20 Speed    +5 Recon;;;;;;;;;;;;;;
+spd20rec10;+20 Speed    +10 Recon;;;;;;;;;;;;;;
+spd20rec15;+20 Speed    +15 Recon;;;;;;;;;;;;;;
+org05mor10;+5 Org    +10 Morale;;;;;;;;;;;;;;
+org05mor10_2;+5 Org    +10 Morale;;;;;;;;;;;;;;
+org05mor10_3;+5 Org    +10 Morale;;;;;;;;;;;;;;
+org05mor10_4;+5 Org    +10 Morale;;;;;;;;;;;;;;
+org05mor20;+5 Org    +20 Morale;;;;;;;;;;;;;;
+org05mor30;+5 Org    +30 Morale;;;;;;;;;;;;;;
+org05mor40;+5 Org    +40 Morale;;;;;;;;;;;;;;
+org05rec05;+5 Org    +5 Recon;;;;;;;;;;;;;;
+org05rec05_2;+5 Org    +5 Recon;;;;;;;;;;;;;;
+org05rec05_3;+5 Org    +5 Recon;;;;;;;;;;;;;;
+org05rec05_4;+5 Org    +5 Recon;;;;;;;;;;;;;;
+org05rec10;+5 Org    +10 Recon;;;;;;;;;;;;;;
+org05rec15;+5 Org    +15 Recon;;;;;;;;;;;;;;
+org05att05;+5 Org    -0.5 Attrition;;;;;;;;;;;;;;
+org05att05_2;+5 Org    -0.5 Attrition;;;;;;;;;;;;;;
+org05att05_3;+5 Org    -0.5 Attrition;;;;;;;;;;;;;;
+org05att05_4;+5 Org    -0.5 Attrition;;;;;;;;;;;;;;
+org05att10;+5 Org    -1 Attrition;;;;;;;;;;;;;;
+org05att15;+5 Org    -1.5 Attrition;;;;;;;;;;;;;;
+org05exp05;+5 Org    +5 Experience;;;;;;;;;;;;;;
+org05exp05_2;+5 Org    +5 Experience;;;;;;;;;;;;;;
+org05exp05_3;+5 Org    +5 Experience;;;;;;;;;;;;;;
+org05exp05_4;+5 Org    +5 Experience;;;;;;;;;;;;;;
+org05exp10;+5 Org    +10 Experience;;;;;;;;;;;;;;
+org05exp15;+5 Org    +15 Experience;;;;;;;;;;;;;;
+org10mor10;+10 Org    +10 Morale;;;;;;;;;;;;;;
+org10mor20;+10 Org    +20 Morale;;;;;;;;;;;;;;
+org10mor30;+10 Org    +30 Morale;;;;;;;;;;;;;;
+org10mor40;+10 Org    +40 Morale;;;;;;;;;;;;;;
+org10rec05;+10 Org    +5 Recon;;;;;;;;;;;;;;
+org10rec10;+10 Org    +10 Recon;;;;;;;;;;;;;;
+org10rec15;+10 Org    +15 Recon;;;;;;;;;;;;;;
+org10att05;+10 Org    -0.5 Attrition;;;;;;;;;;;;;;
+org10att10;+10 Org    -1 Attrition;;;;;;;;;;;;;;
+org10att15;+10 Org    -1.5 Attrition;;;;;;;;;;;;;;
+org10exp05;+10 Org    +5 Experience;;;;;;;;;;;;;;
+org10exp10;+10 Org    +10 Experience;;;;;;;;;;;;;;
+org10exp15;+10 Org    +15 Experience;;;;;;;;;;;;;;
+org15mor10;+15 Org    +10 Morale;;;;;;;;;;;;;;
+org15mor20;+15 Org    +20 Morale;;;;;;;;;;;;;;
+org15mor30;+15 Org    +30 Morale;;;;;;;;;;;;;;
+org15mor40;+15 Org    +40 Morale;;;;;;;;;;;;;;
+org15rec05;+15 Org    +5 Recon;;;;;;;;;;;;;;
+org15rec10;+15 Org    +10 Recon;;;;;;;;;;;;;;
+org15rec15;+15 Org    +15 Recon;;;;;;;;;;;;;;
+org15att05;+15 Org    -0.5 Attrition;;;;;;;;;;;;;;
+org15att10;+15 Org    -1 Attrition;;;;;;;;;;;;;;
+org15att15;+15 Org    -1.5 Attrition;;;;;;;;;;;;;;
+org15exp05;+15 Org    +5 Experience;;;;;;;;;;;;;;
+org15exp10;+15 Org    +10 Experience;;;;;;;;;;;;;;
+org15exp15;+15 Org    +15 Experience;;;;;;;;;;;;;;
+mor10rec05;+10 Morale    +5 Recon;;;;;;;;;;;;;;
+mor10rec05_2;+10 Morale    +5 Recon;;;;;;;;;;;;;;
+mor10rec05_3;+10 Morale    +5 Recon;;;;;;;;;;;;;;
+mor10rec05_4;+10 Morale    +5 Recon;;;;;;;;;;;;;;
+mor10rec10;+10 Morale    +10 Recon;;;;;;;;;;;;;;
+mor10rec15;+10 Morale    +15 Recon;;;;;;;;;;;;;;
+mor10att05;+10 Morale    -0.5 Attrition;;;;;;;;;;;;;;
+mor10att05_2;+10 Morale    -0.5 Attrition;;;;;;;;;;;;;;
+mor10att05_3;+10 Morale    -0.5 Attrition;;;;;;;;;;;;;;
+mor10att05_4;+10 Morale    -0.5 Attrition;;;;;;;;;;;;;;
+mor10att10;+10 Morale    -1 Attrition;;;;;;;;;;;;;;
+mor10att15;+10 Morale    -1.5 Attrition;;;;;;;;;;;;;;
+mor10exp05;+10 Morale    +5 Experience;;;;;;;;;;;;;;
+mor10exp05_2;+10 Morale    +5 Experience;;;;;;;;;;;;;;
+mor10exp05_3;+10 Morale    +5 Experience;;;;;;;;;;;;;;
+mor10exp05_4;+10 Morale    +5 Experience;;;;;;;;;;;;;;
+mor10exp10;+10 Morale    +10 Experience;;;;;;;;;;;;;;
+mor10exp15;+10 Morale    +15 Experience;;;;;;;;;;;;;;
+mor20rec05;+20 Morale    +5 Recon;;;;;;;;;;;;;;
+mor20rec05_2;+20 Morale    +5 Recon;;;;;;;;;;;;;;
+mor20rec10;+20 Morale    +10 Recon;;;;;;;;;;;;;;
+mor20rec15;+20 Morale    +15 Recon;;;;;;;;;;;;;;
+mor20att05;+20 Morale    -0.5 Attrition;;;;;;;;;;;;;;
+mor20att05_2;+20 Morale    -0.5 Attrition;;;;;;;;;;;;;;
+mor20att10;+20 Morale    -1 Attrition;;;;;;;;;;;;;;
+mor20att15;+20 Morale    -1.5 Attrition;;;;;;;;;;;;;;
+mor20exp05;+20 Morale    +5 Experience;;;;;;;;;;;;;;
+mor20exp05_2;+20 Morale    +5 Experience;;;;;;;;;;;;;;
+mor20exp10;+20 Morale    +10 Experience;;;;;;;;;;;;;;
+mor20exp15;+20 Morale    +15 Experience;;;;;;;;;;;;;;
+mor30rec05;+30 Morale    +5 Recon;;;;;;;;;;;;;;
+mor30rec10;+30 Morale    +10 Recon;;;;;;;;;;;;;;
+mor30rec15;+30 Morale    +15 Recon;;;;;;;;;;;;;;
+mor30att05;+30 Morale    -0.5 Attrition;;;;;;;;;;;;;;
+mor30att10;+30 Morale    -1 Attrition;;;;;;;;;;;;;;
+mor30att15;+30 Morale    -1.5 Attrition;;;;;;;;;;;;;;
+mor30exp05;+30 Morale    +5 Experience;;;;;;;;;;;;;;
+mor30exp10;+30 Morale    +10 Experience;;;;;;;;;;;;;;
+mor30exp15;+30 Morale    +15 Experience;;;;;;;;;;;;;;
+mor40rec05;+40 Morale    +5 Recon;;;;;;;;;;;;;;
+mor40rec10;+40 Morale    +10 Recon;;;;;;;;;;;;;;
+mor40rec15;+40 Morale    +15 Recon;;;;;;;;;;;;;;
+mor40att05;+40 Morale    -0.5 Attrition;;;;;;;;;;;;;;
+mor40att10;+40 Morale    -1 Attrition;;;;;;;;;;;;;;
+mor40att15;+40 Morale    -1.5 Attrition;;;;;;;;;;;;;;
+mor40exp05;+40 Morale    +5 Experience;;;;;;;;;;;;;;
+mor40exp10;+40 Morale    +10 Experience;;;;;;;;;;;;;;
+mor40exp15;+40 Morale    +15 Experience;;;;;;;;;;;;;;
+rec05att05;+5 Recon    -0.5 Attrition;;;;;;;;;;;;;;
+rec05att05_2;+5 Recon    -0.5 Attrition;;;;;;;;;;;;;;
+rec05att05_3;+5 Recon    -0.5 Attrition;;;;;;;;;;;;;;
+rec05att05_4;+5 Recon    -0.5 Attrition;;;;;;;;;;;;;;
+rec05att10;+5 Recon    -1 Attrition;;;;;;;;;;;;;;
+rec05att15;+5 Recon    -1.5 Attrition;;;;;;;;;;;;;;
+rec05exp05;+5 Recon    +5 Experience;;;;;;;;;;;;;;
+rec05exp05_2;+5 Recon    +5 Experience;;;;;;;;;;;;;;
+rec05exp05_3;+5 Recon    +5 Experience;;;;;;;;;;;;;;
+rec05exp05_4;+5 Recon    +5 Experience;;;;;;;;;;;;;;
+rec05exp10;+5 Recon    +10 Experience;;;;;;;;;;;;;;
+rec05exp15;+5 Recon    +15 Experience;;;;;;;;;;;;;;
+rec10att05;+10 Recon    -0.5 Attrition;;;;;;;;;;;;;;
+rec10att10;+10 Recon    -1 Attrition;;;;;;;;;;;;;;
+rec10att15;+10 Recon    -1.5 Attrition;;;;;;;;;;;;;;
+rec10exp05;+10 Recon    +5 Experience;;;;;;;;;;;;;;
+rec10exp10;+10 Recon    +10 Experience;;;;;;;;;;;;;;
+rec10exp15;+10 Recon    +15 Experience;;;;;;;;;;;;;;
+rec15att05;+15 Recon    -0.5 Attrition;;;;;;;;;;;;;;
+rec15att10;+15 Recon    -1 Attrition;;;;;;;;;;;;;;
+rec15att15;+15 Recon    -1.5 Attrition;;;;;;;;;;;;;;
+rec15exp05;+15 Recon    +5 Experience;;;;;;;;;;;;;;
+rec15exp10;+15 Recon    +10 Experience;;;;;;;;;;;;;;
+rec15exp15;+15 Recon    +15 Experience;;;;;;;;;;;;;;
+att05exp05;-5 Attrition    +5 Experience;;;;;;;;;;;;;;
+att05exp05_2;-5 Attrition    +5 Experience;;;;;;;;;;;;;;
+att05exp05_3;-5 Attrition    +5 Experience;;;;;;;;;;;;;;
+att05exp05_4;-5 Attrition    +5 Experience;;;;;;;;;;;;;;
+att05exp10;-5 Attrition    +10 Experience;;;;;;;;;;;;;;
+att05exp15;-5 Attrition    +15 Experience;;;;;;;;;;;;;;
+att10exp05;-10 Attrition    +5 Experience;;;;;;;;;;;;;;
+att10exp10;-10 Attrition    +10 Experience;;;;;;;;;;;;;;
+att10exp15;-10 Attrition    +15 Experience;;;;;;;;;;;;;;
+att15exp05;-15 Attrition    +5 Experience;;;;;;;;;;;;;;
+att15exp10;-15 Attrition    +10 Experience;;;;;;;;;;;;;;
+att15exp15;-15 Attrition    +15 Experience;;;;;;;;;;;;;;
+5a4d_1;§W+5 Attack    §R+4 Defence;;;;;;;;;;;;;;
+5a3d_1;§W+5 Attack    §G+3 Defence;;;;;;;;;;;;;;
+4a5d_1;§R+4 Attack    §W+5 Defence;;;;;;;;;;;;;;
+4a4d_1;§R+4 Attack    §R+4 Defence;;;;;;;;;;;;;;
+4a4d_2;§R+4 Attack    §R+4 Defence;;;;;;;;;;;;;;
+4a3d_1;§R+4 Attack    §G+3 Defence;;;;;;;;;;;;;;
+4a3d_2;§R+4 Attack    §G+3 Defence;;;;;;;;;;;;;;
+4a2d_1;§R+4 Attack    §B+2 Defence;;;;;;;;;;;;;;
+4a2d_2;§R+4 Attack    §B+2 Defence;;;;;;;;;;;;;;
+3a5d_1;§G+3 Attack    §W+5 Defence;;;;;;;;;;;;;;
+3a4d_1;§G+3 Attack    §R+4 Defence;;;;;;;;;;;;;;
+3a4d_2;§G+3 Attack    §R+4 Defence;;;;;;;;;;;;;;
+3a3d_1;§G+3 Attack    §G+3 Defence;;;;;;;;;;;;;;
+3a3d_2;§G+3 Attack    §G+3 Defence;;;;;;;;;;;;;;
+3a3d_3;§G+3 Attack    §G+3 Defence;;;;;;;;;;;;;;
+3a3d_4;§G+3 Attack    §G+3 Defence;;;;;;;;;;;;;;
+3a3d_5;§G+3 Attack    §G+3 Defence;;;;;;;;;;;;;;
+3a3d_6;§G+3 Attack    §G+3 Defence;;;;;;;;;;;;;;
+3a3d_7;§G+3 Attack    §G+3 Defence;;;;;;;;;;;;;;
+3a3d_8;§G+3 Attack    §G+3 Defence;;;;;;;;;;;;;;
+3a2d_1;§G+3 Attack    §B+2 Defence;;;;;;;;;;;;;;
+3a2d_2;§G+3 Attack    §B+2 Defence;;;;;;;;;;;;;;
+3a2d_3;§G+3 Attack    §B+2 Defence;;;;;;;;;;;;;;
+3a2d_4;§G+3 Attack    §B+2 Defence;;;;;;;;;;;;;;
+3a2d_5;§G+3 Attack    §B+2 Defence;;;;;;;;;;;;;;
+3a2d_6;§G+3 Attack    §B+2 Defence;;;;;;;;;;;;;;
+3a2d_7;§G+3 Attack    §B+2 Defence;;;;;;;;;;;;;;
+3a2d_8;§G+3 Attack    §B+2 Defence;;;;;;;;;;;;;;
+3a1d_1;§G+3 Attack    §I+1 Defence;;;;;;;;;;;;;;
+3a1d_2;§G+3 Attack    §I+1 Defence;;;;;;;;;;;;;;
+3a1d_3;§G+3 Attack    §I+1 Defence;;;;;;;;;;;;;;
+3a1d_4;§G+3 Attack    §I+1 Defence;;;;;;;;;;;;;;
+3a1d_5;§G+3 Attack    §I+1 Defence;;;;;;;;;;;;;;
+3a1d_6;§G+3 Attack    §I+1 Defence;;;;;;;;;;;;;;
+3a1d_7;§G+3 Attack    §I+1 Defence;;;;;;;;;;;;;;
+3a1d_8;§G+3 Attack    §I+1 Defence;;;;;;;;;;;;;;
+3a1d_9;§G+3 Attack    §I+1 Defence;;;;;;;;;;;;;;
+3a1d_10;§G+3 Attack    §I+1 Defence;;;;;;;;;;;;;;
+3a1d_11;§G+3 Attack    §I+1 Defence;;;;;;;;;;;;;;
+3a1d_12;§G+3 Attack    §I+1 Defence;;;;;;;;;;;;;;
+3a1d_13;§G+3 Attack    §I+1 Defence;;;;;;;;;;;;;;
+3a1d_14;§G+3 Attack    §I+1 Defence;;;;;;;;;;;;;;
+3a1d_15;§G+3 Attack    §I+1 Defence;;;;;;;;;;;;;;
+3a1d_16;§G+3 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a4d_1;§B+2 Attack    §R+4 Defence;;;;;;;;;;;;;;
+2a4d_2;§B+2 Attack    §R+4 Defence;;;;;;;;;;;;;;
+2a3d_1;§B+2 Attack    §G+3 Defence;;;;;;;;;;;;;;
+2a3d_2;§B+2 Attack    §G+3 Defence;;;;;;;;;;;;;;
+2a3d_3;§B+2 Attack    §G+3 Defence;;;;;;;;;;;;;;
+2a3d_4;§B+2 Attack    §G+3 Defence;;;;;;;;;;;;;;
+2a3d_5;§B+2 Attack    §G+3 Defence;;;;;;;;;;;;;;
+2a3d_6;§B+2 Attack    §G+3 Defence;;;;;;;;;;;;;;
+2a3d_7;§B+2 Attack    §G+3 Defence;;;;;;;;;;;;;;
+2a3d_8;§B+2 Attack    §G+3 Defence;;;;;;;;;;;;;;
+2a3d_9;§B+2 Attack    §G+3 Defence;;;;;;;;;;;;;;
+2a3d_10;§B+2 Attack    §G+3 Defence;;;;;;;;;;;;;;
+2a3d_11;§B+2 Attack    §G+3 Defence;;;;;;;;;;;;;;
+2a3d_12;§B+2 Attack    §G+3 Defence;;;;;;;;;;;;;;
+2a3d_13;§B+2 Attack    §G+3 Defence;;;;;;;;;;;;;;
+2a3d_14;§B+2 Attack    §G+3 Defence;;;;;;;;;;;;;;
+2a3d_15;§B+2 Attack    §G+3 Defence;;;;;;;;;;;;;;
+2a3d_16;§B+2 Attack    §G+3 Defence;;;;;;;;;;;;;;
+2a2d_1;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_2;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_3;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_4;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_5;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_6;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_7;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_8;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_9;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_10;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_11;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_12;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_13;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_14;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_15;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_16;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_17;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_18;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_19;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_20;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_21;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_22;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_23;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_24;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_25;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_26;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_27;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_28;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_29;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_30;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_31;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a2d_32;§B+2 Attack    §B+2 Defence;;;;;;;;;;;;;;
+2a1d_1;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_2;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_3;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_4;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_5;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_6;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_7;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_8;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_9;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_10;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_11;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_12;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_13;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_14;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_15;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_16;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_17;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_18;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_19;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_20;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_21;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_22;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_23;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_24;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_25;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_26;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_27;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_28;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_29;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_30;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_31;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_32;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_33;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_34;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_35;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_36;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_37;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_38;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_39;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_40;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_41;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_42;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_43;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_44;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_45;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_46;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_47;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_48;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_49;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_50;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_51;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_52;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_53;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_54;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_55;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_56;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_57;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_58;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_59;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_60;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_61;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_62;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_63;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+2a1d_64;§B+2 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a3d_1;§I+1 Attack    §G+3 Defence;;;;;;;;;;;;;;
+1a3d_2;§I+1 Attack    §G+3 Defence;;;;;;;;;;;;;;
+1a3d_3;§I+1 Attack    §G+3 Defence;;;;;;;;;;;;;;
+1a3d_4;§I+1 Attack    §G+3 Defence;;;;;;;;;;;;;;
+1a3d_5;§I+1 Attack    §G+3 Defence;;;;;;;;;;;;;;
+1a3d_6;§I+1 Attack    §G+3 Defence;;;;;;;;;;;;;;
+1a3d_7;§I+1 Attack    §G+3 Defence;;;;;;;;;;;;;;
+1a3d_8;§I+1 Attack    §G+3 Defence;;;;;;;;;;;;;;
+1a3d_9;§I+1 Attack    §G+3 Defence;;;;;;;;;;;;;;
+1a3d_10;§I+1 Attack    §G+3 Defence;;;;;;;;;;;;;;
+1a3d_11;§I+1 Attack    §G+3 Defence;;;;;;;;;;;;;;
+1a3d_12;§I+1 Attack    §G+3 Defence;;;;;;;;;;;;;;
+1a3d_13;§I+1 Attack    §G+3 Defence;;;;;;;;;;;;;;
+1a3d_14;§I+1 Attack    §G+3 Defence;;;;;;;;;;;;;;
+1a3d_15;§I+1 Attack    §G+3 Defence;;;;;;;;;;;;;;
+1a3d_16;§I+1 Attack    §G+3 Defence;;;;;;;;;;;;;;
+1a2d_1;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_2;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_3;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_4;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_5;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_6;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_7;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_8;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_9;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_10;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_11;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_12;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_13;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_14;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_15;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_16;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_17;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_18;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_19;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_20;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_21;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_22;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_23;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_24;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_25;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_26;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_27;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_28;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_29;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_30;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_31;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_32;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_33;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_34;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_35;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_36;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_37;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_38;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_39;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_40;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_41;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_42;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_43;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_44;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_45;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_46;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_47;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_48;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_49;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_50;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_51;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_52;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_53;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_54;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_55;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_56;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_57;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_58;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_59;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_60;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_61;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_62;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_63;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a2d_64;§I+1 Attack    §B+2 Defence;;;;;;;;;;;;;;
+1a1d_1;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_2;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_3;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_4;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_5;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_6;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_7;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_8;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_9;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_10;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_11;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_12;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_13;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_14;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_15;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_16;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_17;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_18;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_19;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_20;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_21;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_22;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_23;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_24;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_25;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_26;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_27;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_28;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_29;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_30;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_31;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_32;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_33;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_34;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_35;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_36;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_37;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_38;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_39;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_40;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_41;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_42;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_43;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_44;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_45;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_46;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_47;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_48;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_49;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_50;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_51;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_52;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_53;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_54;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_55;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_56;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_57;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_58;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_59;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_60;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_61;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_62;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_63;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_64;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_65;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_66;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_67;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_68;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_69;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_70;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_71;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_72;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_73;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_74;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_75;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_76;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_77;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_78;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_79;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_80;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_81;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_82;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_83;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_84;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_85;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_86;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_87;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_88;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_89;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_90;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_91;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_92;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_93;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_94;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_95;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_96;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_97;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_98;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_99;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_100;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_101;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_102;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_103;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_104;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_105;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_106;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_107;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_108;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_109;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_110;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_111;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_112;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_113;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_114;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_115;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_116;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_117;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_118;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_119;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_120;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_121;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_122;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_123;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_124;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_125;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_126;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_127;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+1a1d_128;§I+1 Attack    §I+1 Defence;;;;;;;;;;;;;;
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x

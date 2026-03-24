@@ -1,0 +1,91 @@
+political_decisions = {
+
+	land_of_opportunity = {
+		picture = liberty_enlightening_the_world
+		potential = {
+			NOT = { tag = MAR }
+			NOT = { tag = THM }
+			continent = continent_1
+			NOT = { has_country_flag = land_of_opportunity }
+		}
+		
+		allow = {
+			war = no
+			OR = { 
+			government = democracy
+			government = hms_government 
+			}
+		}
+		
+		effect = {
+			set_country_flag = land_of_opportunity
+			set_country_flag = tharsis_immigrant_buff
+			add_country_modifier = {
+				name = land_of_opportunity
+				duration = 1825
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	alban_warlord = {
+		picture = colonial_policy
+		potential = { 
+			tag = MUS
+			NOT = { has_country_flag = alban_warlord }
+		}
+
+		allow = {
+			state_n_government = 1
+		}
+
+		effect = { 
+			prestige = 5
+			set_country_flag = alban_warlord
+				add_country_modifier = {
+				    name = alban_warlord
+				    duration = 10950
+				}
+			}
+		}
+	outer_alban_navy = {
+		picture = colonial_policy
+		potential = { 
+			tag = OAL
+			NOT = { has_country_flag = outer_alban_navy }
+		}
+
+		allow = {
+			raider_group_doctrine = 1
+		}
+
+		effect = { 
+			prestige = 5
+			set_country_flag = outer_alban_navy
+				add_country_modifier = {
+				    name = alban_navy
+				    duration = 12950
+				}
+			}
+		}
+	inner_alba_claimant = {
+		picture = colonial_policy
+		potential = { 
+			tag = IAL
+			NOT = { has_country_flag = alba_claimant }
+		}
+
+		allow = {
+			war = no
+		}
+
+		effect = { 
+			prestige = 5
+			set_country_flag = alba_claimant
+			add_accepted_culture = inner_alban
+		}
+	}
+}

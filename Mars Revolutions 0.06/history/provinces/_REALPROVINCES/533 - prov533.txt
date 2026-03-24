@@ -1,7 +1,0 @@
-owner = NCT
-controller = NCT
-add_core = NCT
-trade_goods = cattle
-terrain = semidesert
-life_rating = 38
-naval_base = 1
