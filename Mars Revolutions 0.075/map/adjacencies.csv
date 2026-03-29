@@ -29,6 +29,7 @@
 #
 #Volcano 1
 #
+
 359;315;impassable;0;0;
 359;336;impassable;0;0;
 359;362;impassable;0;0;
@@ -355,6 +356,9 @@
 1;2394;impassable;0;0;ocean
 #
 # River Crossings
+#
+#Elysian Island Island
+1467;1459;sea;1421;0;
 #
 151;169;sea;165;0;
 142;169;sea;165;0;

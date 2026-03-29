@@ -1664,10 +1664,7 @@ assimilation_chance = {
 	group = {
 		modifier = {
 			factor = 20
-			OR = {
 			is_culture_group = sabean
-			is_culture_group = amenthian
-			}
 			country = {
 				has_country_flag = poo_in_loo
 			}
@@ -1676,10 +1673,7 @@ assimilation_chance = {
 		modifier = {
 			factor = -19.6
 			has_culture_core = no
-			OR = {
 			is_culture_group = sabean
-			is_culture_group = amenthian
-			}
 			country = {
 				has_country_flag = poo_in_loo
 			}

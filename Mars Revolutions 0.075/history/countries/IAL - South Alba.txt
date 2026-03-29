@@ -65,7 +65,6 @@ water_wheel_power = 1
 mechanized_mining = 1
 basic_chemistry = 1
 
-set_country_flag = alba_claimant
 set_country_flag = holy_terra
  decision = literacy_setup_1836
 

@@ -11,7 +11,7 @@ form_elysia = {
 		
 		allow = {
 			war = no
-			NOT = { OR = { exists = ROH exists = NOH } }
+			OR = { NOT = { exists = RIH }  NOT = { exists = NOH } }
 			1462 = { owned_by = THIS }
 			1434 = { owned_by = THIS }
 			1555 = { owned_by = THIS }
@@ -21,18 +21,18 @@ form_elysia = {
 		effect = {
 			prestige = 20
 			set_global_flag = elysia_formed
-            years_of_research = 2
-            add_accepted_culture = elysian
-            add_accepted_culture = alboric
-            all_core = { add_core = ELY }
-           	change_tag = ELY
+            		years_of_research = 2
+            		add_accepted_culture = elysian
+            		add_accepted_culture = alboric
+            		all_core = { add_core = ELY }
+           		change_tag = ELY
 			KUN = {
 				all_core = {
                     		add_core = ELY
                     		remove_core = KUN
 				    }
 		        }
-            NOH = {
+            		NOH = {
 				all_core = {
                     		add_core = ELY
                     		remove_core = NOH

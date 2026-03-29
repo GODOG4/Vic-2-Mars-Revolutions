@@ -5,22 +5,22 @@ province_event = {
 
 	trigger = {
 		province_id = 1395		
-		not = { trade_goods = coffee }
+		not = { trade_goods = tea }
 		owner = {
 			civilized = yes
 		}
 	}
 
 	mean_time_to_happen = {
-		months = 1
+		days = 1
 	}
 
-	title = "Wool to Coffee"
-	desc = "Now that you are a civilized country you don't need Wool RGO to Cav Spam"
+	title = "Wool to Tea"
+	desc = "Now that you are a civilized country you don't need a shitty Wool RGO to Cav Spam"
 
 	option = {
 		name = "Cool"
-		trade_goods = coffee
+		trade_goods = tea
 		# life_rate = 5
 	}
 }
@@ -31,22 +31,22 @@ province_event = {
 
 	trigger = {
 		province_id = 1727		
-		not = { trade_goods = coffee }
+		not = { trade_goods = tea }
 		owner = {
 			civilized = yes
 		}
 	}
 
 	mean_time_to_happen = {
-		months = 1
+		days = 1
 	}
 
-	title = "Wool to Coffee"
-	desc = "Now that you are a civilized country you don't need Wool RGO to Cav Spam"
+	title = "Wool to Tea"
+	desc = "Now that you are a civilized country you don't need a shitty Wool RGO to Cav Spam"
 
 	option = {
 		name = "Cool"
-		trade_goods = coffee
+		trade_goods = tea
 		# life_rate = 5
 	}
 }
