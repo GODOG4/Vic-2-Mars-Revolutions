@@ -1777,6 +1777,60 @@ SRP = {
 		war = yes
 	}
 }
+DLO = {
+	is_greater_power = no
+	exists = no
+	OR = {
+		total_amount_of_divisions = 1
+		is_mobilised = yes
+		war = yes
+	}
+}
+TMI = {
+	is_greater_power = no
+	exists = no
+	OR = {
+		total_amount_of_divisions = 1
+		is_mobilised = yes
+		war = yes
+	}
+}
+QAZ = {
+	is_greater_power = no
+	exists = no
+	OR = {
+		total_amount_of_divisions = 1
+		is_mobilised = yes
+		war = yes
+	}
+}
+TIL = {
+	is_greater_power = no
+	exists = no
+	OR = {
+		total_amount_of_divisions = 1
+		is_mobilised = yes
+		war = yes
+	}
+}
+HTE = {
+	is_greater_power = no
+	exists = no
+	OR = {
+		total_amount_of_divisions = 1
+		is_mobilised = yes
+		war = yes
+	}
+}
+AML = {
+	is_greater_power = no
+	exists = no
+	OR = {
+		total_amount_of_divisions = 1
+		is_mobilised = yes
+		war = yes
+	}
+}
 		}
 	}
 
