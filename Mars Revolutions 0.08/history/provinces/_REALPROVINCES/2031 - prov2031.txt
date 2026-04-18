@@ -1,0 +1,10 @@
+owner = RAM
+controller = RAM
+add_core = RAM
+add_core = TRB
+add_core = KHE
+naval_base = 1
+
+trade_goods = tea
+life_rating = 35
+

@@ -1,0 +1,7 @@
+owner = TMI
+controller = TMI
+add_core = TMI
+
+trade_goods = cotton
+life_rating = 35
+

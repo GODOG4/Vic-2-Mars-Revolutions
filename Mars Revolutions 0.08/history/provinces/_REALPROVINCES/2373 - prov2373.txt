@@ -1,0 +1,9 @@
+owner = DAL
+controller = DAL
+colonial = 2
+add_core = RMR
+
+
+trade_goods = coal
+life_rating = 35
+

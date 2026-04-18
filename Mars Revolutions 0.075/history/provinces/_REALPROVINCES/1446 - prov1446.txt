@@ -1,8 +1,0 @@
-owner = REM
-controller = REM
-add_core = REM
-
-
-trade_goods = timber
-life_rating = 35
-

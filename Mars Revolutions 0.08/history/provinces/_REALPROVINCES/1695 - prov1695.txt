@@ -1,0 +1,8 @@
+owner = TIL
+controller = TIL
+add_core = TIL
+
+
+trade_goods = coal
+life_rating = 35
+

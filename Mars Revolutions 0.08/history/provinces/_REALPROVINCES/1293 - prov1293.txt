@@ -1,0 +1,6 @@
+owner = TMI
+controller = TMI
+add_core = TMI
+trade_goods = grain
+life_rating = 35
+

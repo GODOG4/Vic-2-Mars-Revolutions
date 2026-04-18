@@ -1,0 +1,9 @@
+owner = DAL
+controller = DAL
+colonial = 2
+add_core = RMR
+
+
+trade_goods = fish
+life_rating = 35
+

@@ -1,0 +1,7 @@
+owner = ETE
+controller = ETE
+
+
+trade_goods = fish
+life_rating = 35
+

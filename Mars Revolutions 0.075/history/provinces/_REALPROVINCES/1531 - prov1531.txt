@@ -1,6 +1,0 @@
-owner = FLD
-controller = FLD
-add_core = FLD
-trade_goods = sulphur
-life_rating = 35
-

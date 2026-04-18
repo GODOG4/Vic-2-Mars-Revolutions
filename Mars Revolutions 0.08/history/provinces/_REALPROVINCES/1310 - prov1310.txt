@@ -1,0 +1,8 @@
+owner = DLO
+controller = DLO
+add_core = DLO
+
+
+trade_goods = timber
+life_rating = 35
+

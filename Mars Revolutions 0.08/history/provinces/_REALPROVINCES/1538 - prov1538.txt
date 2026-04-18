@@ -1,0 +1,7 @@
+owner = QAZ
+controller = QAZ
+add_core = QAZ
+
+trade_goods = iron
+life_rating = 38
+

@@ -1,0 +1,8 @@
+owner = QAZ
+controller = QAZ
+add_core = QAZ
+
+
+trade_goods = fruit
+life_rating = 38
+

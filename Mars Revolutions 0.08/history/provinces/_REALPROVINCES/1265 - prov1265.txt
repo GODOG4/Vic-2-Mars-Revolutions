@@ -1,0 +1,8 @@
+owner = TMI
+controller = TMI
+add_core = TMI
+
+
+trade_goods = timber
+life_rating = 35
+

@@ -1,0 +1,8 @@
+owner = NUR
+controller = NUR
+add_core = TAH
+
+
+trade_goods = timber
+life_rating = 35
+

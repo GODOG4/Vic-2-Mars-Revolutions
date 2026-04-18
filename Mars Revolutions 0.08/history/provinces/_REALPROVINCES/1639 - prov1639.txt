@@ -1,0 +1,9 @@
+owner = FLD
+controller = FLD
+add_core = FLD
+add_core = AML
+
+
+trade_goods = grain
+life_rating = 35
+
