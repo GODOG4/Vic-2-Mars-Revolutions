@@ -50,7 +50,7 @@ political_decisions = {
 #			jingoism = 5
 #			pro_military = 5
 #			NOT = {
-#				tech_school = prussian_tech_school
+#				tech_school = hellenic_tech_school
 #				has_country_modifier = academic_confusion
 #			}
 			has_country_flag = tech_school_change
@@ -61,7 +61,7 @@ political_decisions = {
 #			prestige = 45
 #			military_score = 50
 			NOT = {
-				tech_school = prussian_tech_school
+				tech_school = hellenic_tech_school
 				has_country_modifier = academic_confusion
 			}
 		}
@@ -89,7 +89,7 @@ political_decisions = {
 #			pro_military = 5
 #			laissez_faire = 5
 #			NOT = {
-#				tech_school = prussian_tech_school
+#				tech_school = hellenic_tech_school
 #				has_country_modifier = academic_confusion
 #			}
 			has_country_flag = tech_school_change
@@ -101,7 +101,7 @@ political_decisions = {
 #			military_score = 50
 #			total_amount_of_ships = 30
 			NOT = {
-				tech_school = prussian_tech_school
+				tech_school = hellenic_tech_school
 				has_country_modifier = academic_confusion
 			}
 		}
@@ -128,7 +128,7 @@ political_decisions = {
 #			pacifism = 5
 #			secularized = 5
 #			NOT = {
-#				tech_school = prussian_tech_school
+#				tech_school = hellenic_tech_school
 #				has_country_modifier = academic_confusion
 #			}
 			has_country_flag = tech_school_change
@@ -139,7 +139,7 @@ political_decisions = {
 #			prestige = 45
 #			average_consciousness = 4
 			NOT = {
-				tech_school = prussian_tech_school
+				tech_school = hellenic_tech_school
 				has_country_modifier = academic_confusion
 			}
 		}
@@ -165,7 +165,7 @@ political_decisions = {
 #			laissez_faire = 5
 #			free_trade = 5
 #			NOT = {
-#				tech_school = prussian_tech_school
+#				tech_school = hellenic_tech_school
 #				has_country_modifier = academic_confusion
 #			}
 			has_country_flag = tech_school_change
@@ -176,7 +176,7 @@ political_decisions = {
 #			prestige = 45
 #			industrial_score = 50
 			NOT = {
-				tech_school = prussian_tech_school
+				tech_school = hellenic_tech_school
 				has_country_modifier = academic_confusion
 			}
 		}
@@ -203,7 +203,7 @@ political_decisions = {
 #			interventionism = 5
 #			protectionism = 5
 #			NOT = {
-#				tech_school = prussian_tech_school
+#				tech_school = hellenic_tech_school
 #				has_country_modifier = academic_confusion
 #			}
 			has_country_flag = tech_school_change
@@ -214,7 +214,7 @@ political_decisions = {
 #			prestige = 45
 #			industrial_score = 50
 			NOT = {
-				tech_school = prussian_tech_school
+				tech_school = hellenic_tech_school
 				has_country_modifier = academic_confusion
 			}
 		}
