@@ -1,0 +1,9 @@
+owner = CRF
+controller = CRF
+add_core = CRF
+add_core = ILL
+
+
+trade_goods = wool
+life_rating = 35
+

@@ -1,0 +1,7 @@
+owner = THM
+controller = THM
+add_core = ARS
+
+trade_goods = wool
+life_rating = 35
+

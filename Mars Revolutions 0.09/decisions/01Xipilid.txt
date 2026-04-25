@@ -1,0 +1,23 @@
+political_decisions = {
+	meridianish_assimilation = {
+		picture = colonial_policy
+		potential = { 
+			tag = XIP
+			NOT = { has_country_flag = meridianish_assimilation }
+		}
+
+		allow = {
+			state_n_government = 1
+			LOD = { all_core = { owned_by = THIS } }
+		}
+
+		effect = { 
+			prestige = 5
+			set_country_flag = meridianish_assimilation
+				add_country_modifier = {
+				    name = meridianish_assimilation
+				    duration = -1
+				}
+			}
+		}
+}

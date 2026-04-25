@@ -1,0 +1,368 @@
+Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
+GC_DESC;Long ago, many centuries after Mars had been fully Terraformed, Earth went dark on the same day all existing electronics on Mars stopped working. All ships not in orbit fell from the sky.\n\nMars quickly descended into chaos as society collapsed, bringing on a new Dark Age. Most of the population succumbed to famine as governments broke down and nations fractured.\n\nAround 1000+ years later humanity is recovering and has entered a new Pre-Modern Era, largely forgetting the accurate history of humanity and the disaster. No one except the Spacers know if Earth is still around and is thought of as more of a holy icon and legend. Some ideologies reject the concept or existence of Earth as we know it or believe Mars has been Terraformed and inhabited much longer than thought.;x;x;;x;;;;;;;;;x
+GC_NAME;Mars Revolutions;;;;;;;;;;;;;x
+dryhills;Arid Hills;;;;;;;;;;;;;x
+pop_pro_small;Small State Promotion;;;;;;;;;;;;;x
+pop_pro_medium;Medium State Promotion;;;;;;;;;;;;;x
+pop_pro_big;Big State Promotion;;;;;;;;;;;;;x
+pop_pro_huge;Huge State Promotion;;;;;;;;;;;;;x
+custom_policies;Policies;;;;;;;;;;;;;x
+small_promote_aristocrats;Encourage Aristocrats;;;;;;;;;;;;;x
+small_promote_artisans;Encourage Artisans;;;;;;;;;;;;;x
+small_promote_bureaucrats;Encourage Bureaucrats;;;;;;;;;;;;;x
+small_promote_capitalists;Encourage Capitalists;;;;;;;;;;;;;x
+small_promote_clergymen;Encourage Clergymen;;;;;;;;;;;;;x
+small_promote_clerks;Encourage Clerks;;;;;;;;;;;;;x
+small_promote_craftsmen;Encourage Craftmen;;;;;;;;;;;;;x
+small_promote_farmers;Encourage Farmers;;;;;;;;;;;;;x
+small_promote_labourers;Encourage Labourers;;;;;;;;;;;;;x
+small_promote_officers;Encourage Officers;;;;;;;;;;;;;x
+small_promote_soldiers;Encourage Soldiers;;;;;;;;;;;;;x
+medium_promote_aristocrats;Encourage Aristocrats;;;;;;;;;;;;;x
+medium_promote_artisans;Encourage Artisans;;;;;;;;;;;;;x
+medium_promote_bureaucrats;Encourage Bureaucrats;;;;;;;;;;;;;x
+medium_promote_capitalists;Encourage Capitalists;;;;;;;;;;;;;x
+medium_promote_clergymen;Encourage Clergymen;;;;;;;;;;;;;x
+medium_promote_clerks;Encourage Clerks;;;;;;;;;;;;;x
+medium_promote_craftsmen;Encourage Craftmen;;;;;;;;;;;;;x
+medium_promote_farmers;Encourage Farmers;;;;;;;;;;;;;x
+medium_promote_labourers;Encourage Labourers;;;;;;;;;;;;;x
+medium_promote_officers;Encourage Officers;;;;;;;;;;;;;x
+medium_promote_soldiers;Encourage Soldiers;;;;;;;;;;;;;x
+huge_promote_aristocrats;Encourage Aristocrats;;;;;;;;;;;;;x
+huge_promote_artisans;Encourage Artisans;;;;;;;;;;;;;x
+huge_promote_bureaucrats;Encourage Bureaucrats;;;;;;;;;;;;;x
+huge_promote_capitalists;Encourage Capitalists;;;;;;;;;;;;;x
+huge_promote_clergymen;Encourage Clergymen;;;;;;;;;;;;;x
+huge_promote_clerks;Encourage Clerks;;;;;;;;;;;;;x
+huge_promote_craftsmen;Encourage Craftmen;;;;;;;;;;;;;x
+huge_promote_farmers;Encourage Farmers;;;;;;;;;;;;;x
+huge_promote_labourers;Encourage Labourers;;;;;;;;;;;;;x
+huge_promote_officers;Encourage Officers;;;;;;;;;;;;;x
+huge_promote_soldiers;Encourage Soldiers;;;;;;;;;;;;;x
+big_promote_aristocrats;Encourage Aristocrats;;;;;;;;;;;;;x
+big_promote_artisans;Encourage Artisans;;;;;;;;;;;;;x
+big_promote_bureaucrats;Encourage Bureaucrats;;;;;;;;;;;;;x
+big_promote_capitalists;Encourage Capitalists;;;;;;;;;;;;;x
+big_promote_clergymen;Encourage Clergymen;;;;;;;;;;;;;x
+big_promote_clerks;Encourage Clerks;;;;;;;;;;;;;x
+big_promote_craftsmen;Encourage Craftmen;;;;;;;;;;;;;x
+big_promote_farmers;Encourage Farmers;;;;;;;;;;;;;x
+big_promote_labourers;Encourage Labourers;;;;;;;;;;;;;x
+big_promote_officers;Encourage Officers;;;;;;;;;;;;;x
+big_promote_soldiers;Encourage Soldiers;;;;;;;;;;;;;x
+CANAL_1;Watun Canal;;;;;;;;;;;;;x
+CANAL_2;Kavohn Canal;;;;;;;;;;;;;x
+CANAL_3;Renost Canal;;;;;;;;;;;;;x
+CANAL_4;Middle Mars Passage;;;;;;;;;;;;;x
+CANAL_5;Space Elevator;;;;;;;;;;;;;x
+boreal;Tundra;;;;;;;;;;;;;x
+semi_desert;Semi-Desert;;;;;;;;;;;;;x
+red_sun;The Blood Red Planet;;;;;;;;;;;;;x
+########################Mars Revolutions "Crimes" (Monuments)#######################;;;;;;;x,,,,,,,,,,,,,,,,
+space_elevator_1;Pavonis Space Elevator;;;;;;;;;;;;;x
+desc_space_elevator_1;A tall and visible landmark, the Space Elevator is used to escape gravity to travel to and from the Celestial Spaceship in orbit around Mars, and to the second Space Elevator if both are in working order. The Pavonis Space Elevator malfunctioned after the Spacers' first use upon reaching Mars, stranding several of their people in Tharsis Montes.;;;;;;;;;;;;;x
+space_elevator_2;Planum Australe Space Elevator;;;;;;;;;;;;;x
+desc_space_elevator_2;A tall and visible landmark, the Space Elevator is used to escape gravity to travel to and from the Celestial Spaceship in orbit around Mars, and to the second Space Elevator if both are in working order. The Planum Space Elevator was in well functioning order and helps connect the Celestial Colonial Protectorate to the Tau Centinese Fleet.;;;;;;;;;;;;;x
+terraformer;Ancient Terraforming Machines;;;;;;;;;;;;;x
+desc_terraformer;Legends and engravings say that these Ancient Machines terraformed this world from a red waste to the garden it is today. While no one questions that these are extravagant fortresses, these sites are sacred to the Terraformed faithful who believe they must be restored to sustain the atmosphere from fading away.;;;;;;;;;;;;;x
+pyramid;Elysian Pyramid;;;;;;;;;;;;;x
+desc_pyramid;These strangely shaped pyramids have always been there, and been a cornerstone of Elysian and Odyssean religious life.;;;;;;;;;;;;;x
+skyscrapers;The Skyscrapers of Valles;;;;;;;;;;;;;x
+desc_skyscrapers;The Skyscrapers of Valles are a set of massive ancient towers in the capital of the Valles Marineris Empire, surrounded by the ruins of an ancient city. Recently these impressive buildings have been reclaimed further and it's thought that one day they will all be reused and restored, or even improved.;;;;;;;;;;;;;x
+pope_palace;Parliamentic Palace;;;;;;;;;;;;;x
+desc_pope_palace;The Palace of the Pope of Holy Tera himself, sitting atop a cliff on the Cyane Coast.;;;;;;;;;;;;;x
+########################Mars CBs#######################;;;;;;;x,,,,,,,,,,,,,,,,
+demand_state_for_ally_tiny;Tiny Demand State for Ally;;;;;;;;;;;
+demand_state_for_ally_tiny_short;Acquire Tiny State $STATE$ for Ally.;;;;;;;;;;;
+demand_state_for_ally_tiny_desc;Demand a tiny state for Ally.;;;;;;;;;;;
+demand_state_for_ally_tiny_setup;Acquire Tiny State $STATE$ from $RECIPIENT$ for Ally.;;;;;;;;;;;
+demand_state_for_ally_small;Small Demand Statefor Ally;;;;;;;;;;;
+demand_state_for_ally_small_short;Acquire Small State $STATE$ for Ally.;;;;;;;;;;;
+demand_state_for_ally_small_desc;Demand a small state for Ally.;;;;;;;;;;;
+demand_state_for_ally_small_setup;Acquire Small State $STATE$ from $RECIPIENT$ for Ally.;;;;;;;;;;;
+demand_state_for_ally_medium;Medium Demand State for Ally;;;;;;;;;;;
+demand_state_for_ally_medium_short;Acquire Medium State $STATE$ for Ally.;;;;;;;;;;;
+demand_state_for_ally_medium_desc;Demand a medium state for Ally.;;;;;;;;;;;
+demand_state_for_ally_medium_setup;Acquire Medium State $STATE$ from $RECIPIENT$ for Ally.;;;;;;;;;;;
+demand_state_for_ally_large;Large Demand State for Ally;;;;;;;;;;;
+demand_state_for_ally_large_short;Acquire Large State $STATE$ for Ally.;;;;;;;;;;;
+demand_state_for_ally_large_desc;Demand a large state for Ally.;;;;;;;;;;;
+demand_state_for_ally_large_setup;Acquire Large State $STATE$ from $RECIPIENT$ for Ally.;;;;;;;;;;;
+demand_state_for_ally_huge;Huge Demand State for Ally;;;;;;;;;;;
+demand_state_for_ally_huge_short;Acquire Huge State $STATE$ for Ally.;;;;;;;;;;;
+demand_state_for_ally_huge_desc;Demand a huge state for Ally.;;;;;;;;;;;
+demand_state_for_ally_huge_setup;Acquire Huge State $STATE$ from $RECIPIENT$ for Ally.;;;;;;;;;;;
+########################Inventions Changes#######################;;;;;;;x,,,,,,,,,,,,,,,,
+TYPE_TANKS;Mechs;Blindés;Panzer;;Tanques;;;;;;;;;x;;;;
+TYPE_PLANES;UFOs;Avions;Flugzeuge;;Aviones;;;;;;;;;x;;;;
+tank;Mech Suit;Blindé;Panzer;;Blindados;;;;;;;;;x;;;;
+plane;UFO;Avion;Flugzeug;;Aviación;;;;;;;;;x;;;
+tank_short;MEC;Blin.;Pz;;Aco;;;;;;;;;x;;;;
+plane_short;UFO;Av.;Luft;;Avi;;;;;;;;;x;;;;
+barrel_factory;Mech Fabricator;Usine de blindés;Geschützrohrfabrik;;Fábrica de carros de combate;;;;;;;;;x;;;;
+aeroplane_factory;Spaceship Fabricator;Usine d'avions;Flugzeugfabrik;;Fábrica de aeroplanos;;;;;;;;;x;;;;
+tank_experiments;Mech Experiments;Expérimentation des chars d'assaut;Panzerexperimente;;Experim. tanques;;;;;;;;;x;;;;
+tank_experiments_desc;The first tank, sometimes called barrel, was blessed with mixed success due to the unreliability of these first steel monsters. However, when they worked they could open up the front wherever they went.;"Les premiers chars, parfois surnommés ""tank"", n'ont connu qu'un succès mitigé en raison de leur manque de fiabilité. Cependant, quand ils fonctionnaient, ils pouvaient percer le front en n'importe quel point.";Die ersten Panzer, manchmal einfach als Fässer bezeichnet, hatten aufgrund ihrer Unzuverlässigkeit nur mittelmäßigen Erfolg. Wenn sie aber funktionierten, konnten sie an einer beliebigen Stelle eine Lücke in die Front reißen.;;El primer tanque fue bendecido con un éxito desigual debido a la inestabilidad de estos primeros monstruos de acero. Sin embargo, cuando funcionaban podían abrir el frente allí donde fueran.;;;;;;;;;x;;;;
+tank_exploits;Mech Exploits;Exploitation des chars d'assaut;Panzereffizienz;;Proezas tanques;;;;;;;;;x;;;;
+tank_exploits_desc;At this point tanks were more reliable and used in smaller units to break holes in the line where stormtroopers and regular infantry could pour in and fight the enemy.;Les chars sont devenus plus fiables et on les utilise en petites unités pour créer des brèches dans lesquelles les troupes d'assaut et l'infanterie régulière peuvent s'engouffrer et combattre l'ennemi.;Zu diesem Zeitpunkt sind Panzer zuverlässiger und werden in kleineren Einheiten dazu eingesetzt, Lücken in die gegnerische Front zu reißen, durch die Sturmtruppen und Infanterie dann eindringen und den Feind bekämpfen können.;;En ese momento, los tanques son más fiables y se utilizan en unidades menores para hacer agujeros en las líneas, donde podían introducirse las tropas de asalto y la infantería regular para combatir al enemigo.;;;;;;;;;x;;;;
+tankette;Mini Mech;Chenillette;Tankette;;Tanqueta;;;;;;;;;x;;;;
+tankette_desc;Experience in the Great War showed the value and usefulness of tanks. However, those that saw action tended to be a bit unwieldy in rough terrain, and not very mobile. Tankettes were the first in a long line of developments in tank technology, that allowed for greater speeds and better maneuverability.;L'expérience de la Grande Guerre a montré la valeur et l'utilité des tanks. Toutefois, ceux qui ont été vus en action tendent à être un peu lourds en terrain accidenté, et pas très mobiles. Les chenillettes ont été les premières d'une longue lignée d'évolution de la technologie des blindés, qui ont permis une plus grande vitesse et une meilleure maniabilité. ;Die ersten Panzereinsätze im ersten Weltkrieg hatten die Nützlichkeit von Panzern gezeigt. Die Panzer des ersten Weltkriegs waren in grobem Gelände aber noch recht schwerfällig und nicht besonders mobil. Tanketten waren der Beginn einer langen Entwicklungsreihe der Panzertechnologie, die höhere Geschwindigkeiten und bessere Manövrierbarkeit ermöglichte.;;Las experiencias de la Gran Guerra demostraron el valor y la utilidad de los tanques. Sin embargo, los que entraron en acción tendían a ser poco manejables en terreno escabroso, además de poco móviles. Las tanquetas, primero de una larga línea de avances en la tecnología de tanques, contaban con mayor velocidad y maniobrabilidad.;;;;;;;;;x;;;;
+light_tank;Light Mech;Char léger;Leichter Panzer;;Tanque ligero;;;;;;;;;x;;;;
+medium_tanks;Medium Mech;Char léger;Leichter Panzer;;Tanque ligero;;;;;;;;;x;;;;
+medium_tanks_desc;Medium Mech;Char léger;Leichter Panzer;;Tanque ligero;;;;;;;;;x;;;;
+light_tank_desc;A major step forward in tank technology was the light tank. Generally mounting machine guns or a light gun, these were the first ''true'' tanks to be produced. Used in an infantry-support role, these tanks gave divisions much-needed mobile firepower with a solid defensive capability.;Une avancée majeure dans la technologie du tank a été le char léger. Généralement surmonté de mitrailleuses ou d'un canon léger, ce sont les ''premiers'' vrais chars à être produit. Utilisé dans un rôle de soutien d'infanterie, ces chars apportent beaucoup aux divisions qui ont grand besoin d'une puissance de feu mobile avec une capacité de défense sans failles. ;Der leichte Panzer stellte einen großen Fortschritt der Panzertechnologie dar. Diese ersten richtigen Panzer waren meist mit Maschinengewehren oder einer leichten Panzerkanone bestückt. Sie wurden zur Infanterieunterstützung eingesetzt und boten Divisionen dringend benötigte mobile Feuerunterstützung bei solider Verteidigungsfähigkeit.;;El tanque ligero fue un gran paso adelante en la tecnología de los tanques. Estos vehículos, armados con ametralladoras o cañones ligeros, fueron los primeros tanques 'de verdad' que se produjeron. Usados en tareas de apoyo de infantería, proporcionaban a las divisiones potencia de fuego móvil, además de gran capacidad defensiva.;;;;;;;;;x;;;;
+armoured_cars;Powered Armor;Véhicules blindés;Panzerwagen;;Coches blindados;;;;;;;;;x;;;;
+armoured_cars_desc;Armored Cars filled a role not well suited to tanks or to regular infantry mounted on trucks. Providing lighter vehicles to cavalry and police units, armored cars could travel at speed over regular roads, and provide a high degree of fire power per vehicle.;Les véhicules blindés remplissent un rôle qui ne convient pas aux chars ou à l'infanterie montée sur des camions. Avec la fourniture de véhicules légers pour les unités de cavalerie et les unités de la police, des véhicules blindés pouvaient circuler à grande vitesse sur les routes ordinaires, et fournir un haut degré de puissance de feu par véhicule. ;Panzerwagen füllten eine Rolle aus, für die Panzer oder reguläre Infanterie auf Lastwagen nicht geeignet waren. Panzerwagen, mit der die Kavallerie und Polizei ausgerüstet wurden, konnten auf normalen Straßen schnell fahren und verfügten über hohe Feuerkraft.;;Los coches blindados desempeñaron un papel para el que no estaban bien preparados ni los tanques ni la infantería montada en camiones. Los coches blindados proporcionaban vehículos ligeros a las unidades de caballería y policía, que con ellos podían viajar a gran velocidad por carreteras normales y disponer de una más que decente potencia de fuego.;;;;;;;;;x;;;;
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
+X;x;;;;;;;;;;;;;x
