@@ -1,0 +1,20 @@
+owner = MAR
+controller = MAR
+add_core = MAR
+trade_goods = grain
+life_rating = 38
+naval_base = 1
+
+state_building = {
+	level = 2
+	building = canned_food_factory
+	upgrade = yes
+}
+
+state_building = {
+	level = 1
+	building = liquor_distillery
+	upgrade = yes
+}
+
+ 

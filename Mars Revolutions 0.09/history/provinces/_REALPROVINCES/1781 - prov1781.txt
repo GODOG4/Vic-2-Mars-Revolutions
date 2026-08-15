@@ -1,8 +1,0 @@
-owner = QAR
-controller = QAR
-add_core = QAR
-
-
-trade_goods = tea
-life_rating = 35
-

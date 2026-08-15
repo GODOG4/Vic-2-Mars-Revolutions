@@ -1,0 +1,50 @@
+political_decisions = {
+	celestial_lunarian_cooperation = {
+		picture = greater_korea
+		potential = { 
+			tag = CEL
+			NOT = { has_country_flag = celestia_reborn } 
+		}
+
+		allow = {
+			revolution_n_counterrevolution = 1
+			THM = { exists = yes owns = 466 }
+			owns = 1328
+		}
+
+		effect = { 
+			prestige = 20
+			set_country_flag = celestia_reborn
+			any_owned = {
+				limit = { continent = continent_4 is_core = THIS }
+					limit = { NOT = { life_rating = 33 } }
+					life_rating = 3
+			}
+			remove_country_modifier = celestial_colony
+			THM = { 
+				add_country_modifier = {
+					name = archon_boom
+					duration = 3650
+					}
+				 }
+			}
+		}
+	celestial_lunarian_puppet = {
+		picture = control_puppets
+		potential = { 
+			tag = CEL
+			ai = no
+			THM = { exists = yes ai = yes }
+		}
+
+		allow = {
+			ai = no
+			THM = { exists = yes ai = yes NOT = { vassal_of = THIS } }
+			owns = 1328
+		}
+
+		effect = { 
+			create_vassal = THM
+		}
+	}
+}

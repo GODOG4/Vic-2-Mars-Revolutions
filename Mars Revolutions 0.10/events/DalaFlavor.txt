@@ -1,0 +1,13 @@
+country_event = {
+	id = 88802
+	is_triggered_only = yes
+	fire_only_once = yes
+
+	title = "Bloody Nose from the Xipilid Wars"
+	desc = "Months ago, we had just fought against the Xipilids to a stalemate, but it's clear we took a much worse beating than them. It will take a few years for us to recover fully."
+
+	option = {
+		name = "Damn..." 
+	}
+}
+

@@ -1,0 +1,27 @@
+political_decisions = {
+
+	maruklar_settlement_policy = {
+		picture = Execute_Bab
+		potential = { 
+			OR = {
+				tag = FLD
+				tag = DAL
+			}
+			NOT = { has_country_flag = maruklar_settlement }
+		}
+
+		allow = {
+			state_n_government = 1
+			OR = { owns = 1630 owns = 1781 }
+		}
+
+		effect = { 
+			prestige = 5
+			set_country_flag = maruklar_settlement
+				add_country_modifier = {
+				    name = maruklar_assim_boost
+				    duration = -1
+				}
+			}
+		}
+}

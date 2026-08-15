@@ -1,0 +1,6 @@
+owner = DLO
+controller = DLO
+add_core = DLO
+trade_goods = fruit
+life_rating = 35
+

@@ -1,0 +1,566 @@
+political_decisions = {
+
+	startup = {
+		potential = {
+			NOT = { has_global_flag = startedup }
+			tag = GHO
+		}
+		allow = {}
+		effect = {
+			MAR = {	
+				country_event = 88801
+			}
+			NCT = {
+				country_event = 88800
+				war_exhaustion = 20
+			}
+			FLD = {
+				war_exhaustion = 20
+			}
+			DAL = {
+				war_exhaustion = 25
+				country_event = 88802
+			}
+			CIV = {
+				## Audax Validator "." Ignore_NEXT
+				annex_to = FROM
+			}
+			NRP = {
+				any_owned = { add_province_modifier = { name = mass_conversion duration = 2000 } }
+			}
+			BOS = {
+				any_owned = { add_province_modifier = { name = mass_conversion duration = 2000 } }
+			}
+			set_global_flag = startedup
+			enable_canal = 1
+			enable_canal = 5
+			604 = { set_province_flag = 1_canal }
+			NRP = { civilized = yes }
+			any_country = {
+				limit = {
+					exists = yes
+				}
+				leadership = 80
+				any_pop = {
+					money = 5000
+					}
+				}
+			any_country = {
+				limit = { ai = yes }
+				iron = 100
+				cement = 500
+				machine_parts = 200
+				}
+			any_country = {
+				limit = { is_greater_power = yes }
+				treasury = 300000
+				}
+			any_country = {
+				limit = { is_greater_power = no is_secondary_power = yes }
+				treasury = 150000
+			}
+			any_country = {
+				limit = { is_greater_power = no is_secondary_power = no }
+				treasury = 75000
+			}
+			any_country = {
+				limit = { is_greater_power = yes }
+				leadership = 80
+				cement = 500
+				machine_parts = 400
+				canned_food = 400
+				artillery = 400
+				small_arms = 400
+				ammunition = 400
+				regular_clothes = 120
+				luxury_clothes = 120
+				clipper_convoy = 400
+				transport_convoy = 400
+			}
+			any_country = {
+				limit = { ai = no }
+				cement = 500
+				machine_parts = 200
+				canned_food = 200
+				artillery = 200
+				small_arms = 200
+				ammunition = 200
+				regular_clothes = 80
+				luxury_clothes = 80
+				clipper_convoy = 200
+				transport_convoy = 200
+			}
+			any_country = {
+				limit = { civilized = yes }
+				add_country_modifier = { name = early_boost duration = 365 }
+			}
+			any_country = {
+				limit = { civilized = yes NOT = { publishing_industry = 1 } }
+				activate_technology = publishing_industry
+				}
+			any_country = {
+				limit = { civilized = no }
+				political_reform = yes_slavery
+				}
+			any_country = {
+				limit = { NOT = { classicism_n_early_romanticism = 1 } }
+				activate_technology = classicism_n_early_romanticism
+				}
+		any_country = {
+				limit = {
+					ai = no
+				}
+				country_event = 60168151
+			}
+			any_country = {
+				limit = { civilized = yes }
+				any_pop = {
+						limit = {
+							type = bureaucrats
+						}
+						reduce_pop = 2
+					}
+			}
+			any_country = {
+				limit = { civilized = yes }
+				any_pop = {
+						limit = {
+							type = clergymen
+						}
+						reduce_pop = 2.5
+					}
+			}
+			any_country = {
+				limit = { NOT = { tag = CEL } NOT = { tag = MAR } }
+				any_pop = {
+						limit = {
+							type = soldiers
+						}
+						reduce_pop = 1.33
+					}
+			}
+			any_country = {
+				limit = { ai = no }
+				leadership = 60
+			}
+			any_country = {
+				any_owned = {
+					limit = {
+						OR = {
+							has_pop_culture = huygenstani
+							has_pop_culture = apollnarisa
+						}
+					}
+					life_rating = -3		
+				}			
+			}
+			any_country = {
+				any_owned = {
+					limit = {
+						has_pop_culture = cimmerian
+					}
+					life_rating = -5		
+				}			
+			}
+			any_country = {
+				any_owned = {
+					limit = {
+						OR = {
+							has_pop_culture = lower_acheronian
+							has_pop_culture = high_acheronian
+							has_pop_culture = sulcian
+							has_pop_culture = olympian
+							has_pop_culture = herculean
+						}
+					}
+					life_rating = 3		
+				}			
+			}
+			any_country = {
+				any_owned = {
+					limit = {
+						is_core = CEL
+					}
+					life_rating = -3		
+				}			
+			}
+			any_country = {	
+				any_pop = {
+					limit = { has_pop_culture = cimmerian }
+					reduce_pop = 0.6
+					}
+				}
+			any_country = {	
+				any_pop = {
+					limit = {
+						OR = {
+						has_pop_culture = westerner
+						has_pop_culture = inner_alban
+							}
+						}
+						reduce_pop = 0.7
+					}
+				}
+			any_country = {	
+				any_pop = {
+					limit = {
+						OR = {
+						has_pop_culture = apollnarisa
+						has_pop_culture = huygenstani
+							}
+						}
+						reduce_pop = 1.15
+					}
+				}
+			any_country = {	
+				any_pop = {
+					limit = {
+						OR = {
+						has_pop_culture = sky_child
+						has_pop_culture = star_child
+						has_pop_culture = hegemonian
+						has_pop_culture = noctian
+							}
+						}
+						reduce_pop = 1.25
+					}
+				}
+			any_country = {	
+				any_pop = {
+					limit = {
+						OR = {
+					has_pop_culture = planumian
+					has_pop_culture = earther
+						}
+					}
+					reduce_pop = 1.33
+					}
+				}
+			any_country = {	
+				any_owned = {
+					limit = { continent = continent_5 }
+					any_pop = { reduce_pop = 1.25 }
+					life_rating = 2	
+					}
+				}
+			any_country = {
+				limit = {
+					has_country_flag = holy_terra
+				}
+				add_country_modifier = { name = holy_terra duration = -1 }
+			}
+			any_country = {
+				limit = {
+					has_country_flag = post_terra
+				}
+				add_country_modifier = { name = post_terra duration = -1 }
+			}
+			any_country = {
+				limit = {
+					has_country_flag = blessed_singularity
+				}
+				add_country_modifier = { name = blessed_singularity duration = -1 }
+			}
+			any_country = {
+				limit = {
+					has_country_flag = seaborne
+				}
+				add_country_modifier = { name = seaborne duration = -1 }
+			}
+			any_country = {
+				limit = {
+					has_country_flag = spacer
+				}
+				add_country_modifier = { name = spacer duration = -1 }
+			}
+			any_country = {
+				limit = {
+					has_country_flag = olympic
+				}
+				add_country_modifier = { name = olympic duration = -1 }
+			}
+			any_country = {
+				limit = {
+					has_country_flag = divine_circle
+				}
+				add_country_modifier = { name = divine_circle duration = -1 }
+			}
+			any_country = {
+				limit = {
+					has_country_flag = divine_cycle
+				}
+				add_country_modifier = { name = divine_cycle duration = -1 }
+			}
+			any_country = {
+				limit = {
+					has_country_flag = solarian
+				}
+				add_country_modifier = { name = solarian duration = -1 }
+			}
+			any_country = {
+				limit = {
+					has_country_flag = divine_truth
+				}
+				add_country_modifier = { name = divine_truth duration = -1 }
+			}
+			any_country = {
+				limit = {
+					has_country_flag = animism
+				}
+				add_country_modifier = { name = animism duration = -1 }
+			}
+			any_country = {
+				limit = {
+					has_country_flag = terraformed
+				}
+				add_country_modifier = { name = terraformed duration = -1 }
+			}
+			any_country = {
+				limit = {
+					has_country_flag = altered
+				}
+				add_country_modifier = { name = altered duration = -1 }
+			}
+			any_country = {
+				limit = {
+					has_country_flag = kemetic
+				}
+				add_country_modifier = { name = kemetic duration = -1 }
+			}
+			any_country = {
+				limit = {
+					has_country_flag = aiti_marsilainen
+				}
+				add_country_modifier = { name = aiti_marsilainen duration = -1 }
+			}
+			any_country = {
+				limit = {
+					has_country_flag = vimana
+				}
+				add_country_modifier = { name = vimana duration = -1 }
+			}
+			any_country = {
+				limit = {
+					has_country_flag = yoghi
+				}
+				add_country_modifier = { name = yoghi duration = -1 }
+			}
+			any_country = {
+				limit = {
+					has_country_flag = ahimsa
+				}
+				add_country_modifier = { name = ahimsa duration = -1 }
+			}
+			any_country = {
+				limit = {
+					has_country_flag = mother_of_waters
+				}
+				add_country_modifier = { name = mother_of_waters duration = -1 }
+			}
+			any_country = {
+				limit = {
+					has_country_flag = escudo_solar
+				}
+				add_country_modifier = { name = escudo_solar duration = -1 }
+			}
+			any_country = {
+				limit = {
+					is_culture_group = central_alban
+				}
+				add_country_modifier = { name = central_alban_group duration = -1 }
+			}
+			any_country = {
+				limit = {
+					is_culture_group = northern_alban
+				}
+				add_country_modifier = { name = northern_alban_group duration = -1 }
+			}
+			any_country = {
+				limit = {
+					is_culture_group = western
+				}
+				add_country_modifier = { name = western_group duration = -1 }
+			}
+			any_country = {
+				limit = {
+					is_culture_group = titan
+				}
+				add_country_modifier = { name = titan_group duration = -1 }
+			}
+			any_country = {
+				limit = {
+					is_culture_group = australe_tharsisian
+				}
+				add_country_modifier = { name = australe_tharsisian_group duration = -1 }
+			}
+			any_country = {
+				limit = {
+					is_culture_group = martian
+				}
+				add_country_modifier = { name = martian_group duration = -1 }
+			}
+			any_country = {
+				limit = {
+					is_culture_group = souslanian
+				}
+				add_country_modifier = { name = souslanian_group duration = -1 }
+			}
+			any_country = {
+				limit = {
+					is_culture_group = daedalian
+				}
+				add_country_modifier = { name = daedalian_group duration = -1 }
+			}
+			any_country = {
+				limit = {
+					is_culture_group = noctis_marineris
+				}
+				add_country_modifier = { name = noctis_marineris_group duration = -1 }
+			}
+			any_country = {
+				limit = {
+					is_culture_group = elysian
+				}
+				add_country_modifier = { name = elysian_group duration = -1 }
+			}
+			any_country = {
+				limit = {
+					is_culture_group = sabean
+				}
+				add_country_modifier = { name = sabean_group duration = -1 }
+			}
+			any_country = {
+				limit = {
+					is_culture_group = amenthian
+				}
+				add_country_modifier = { name = amenthian_group duration = -1 }
+			}
+			any_country = {
+				limit = {
+					is_culture_group = cimmerian_hesperia
+				}
+				add_country_modifier = { name = cimmerian_hesperia_group duration = -1 }
+			}
+			any_country = {
+				limit = {
+					is_culture_group = tau_cetinese
+				}
+				add_country_modifier = { name = tau_cetinese_group duration = -1 }
+			}
+			CEL = {
+				add_country_modifier = { name = celestial_colony duration = 15000 }
+			}
+			THM = {
+				add_country_modifier = { name = mogui_1 duration = 12500 }
+			}
+			POP = {
+				add_country_modifier = { name = holy_tera_pope duration = 10000 }
+			}
+			LOD = {
+				all_core = {
+					add_province_modifier = { name = meriandish_resistance duration = 1600 }
+				}
+			}
+		GHO = { 
+			set_variable = {
+				which = rubber_region_1
+				value = 7
+			}
+			set_variable = {
+				which = rubber_region_2
+				value = 9
+			}
+			set_variable = {
+				which = rubber_region_3
+				value = 6
+			}
+			set_variable = {
+				which = rubber_region_4
+				value = 5
+			}
+			set_variable = {
+				which = rubber_region_5
+				value = 10
+			}
+
+			set_variable = {
+				which = oil_region_1
+				value = 6
+			}
+			set_variable = {
+				which = oil_region_2
+				value = 10
+			}
+			set_variable = {
+				which = oil_region_3
+				value = 8
+			}
+			set_variable = {
+				which = oil_region_4
+				value = 6
+			}
+			set_variable = {
+				which = oil_region_5
+				value = 6
+			}
+			set_variable = {
+				which = oil_region_6
+				value = 4
+			}
+		}
+
+	
+		any_country = {
+				limit = { OR = { tag = KHE tag = NAR tag = LUN tag = KAD tag = NOH tag = RIH } }
+				capital_scope = {
+			    sub_unit = {type = infantry value = current}
+		            sub_unit = {type = infantry value = current}
+		            sub_unit = {type = infantry value = current}
+		            sub_unit = {type = infantry value = current}
+		            sub_unit = {type = cavalry value = current}
+		            sub_unit = {type = cavalry value = current}
+		            sub_unit = {type = cavalry value = current}
+		            sub_unit = {type = cavalry value = current}
+		            sub_unit = {type = cavalry value = current}
+		            sub_unit = {type = cavalry value = current}
+				}
+			}
+		any_country = {
+				limit = { civilized = yes exists = yes ai = yes NOT { tag = BOS } NOT = { tag = NRP } NOT = { NEP } }
+				capital_scope = {
+			    sub_unit = {type = infantry value = current}
+		            sub_unit = {type = infantry value = current}
+		            sub_unit = {type = infantry value = current}
+		            sub_unit = {type = infantry value = current}
+				}
+			}
+		any_country = {
+				limit = { civilized = no exists = yes ai = yes NOT = { tag = REB } NOT = { tag = ELE } NOT = { tag = GHO } NOT = { tag = CIV } NOT = { tag = NRP } NOT = { tag = FLD } }
+				capital_scope = {
+		            sub_unit = {type = cavalry value = current}
+		            sub_unit = {type = cavalry value = current}
+		            sub_unit = {type = cavalry value = current}
+		            sub_unit = {type = cavalry value = current}
+		            sub_unit = {type = cavalry value = current}
+		            sub_unit = {type = cavalry value = current}
+				}
+			}
+		any_country = {
+				limit = { OR = { tag = NRP tag = BOS primary_culture = cimmerian } }
+				capital_scope = {
+			    sub_unit = {type = infantry value = current}
+		            sub_unit = {type = infantry value = current}
+		            sub_unit = {type = infantry value = current}
+		            sub_unit = {type = infantry value = current}
+		            sub_unit = {type = artillery value = current}
+		            sub_unit = {type = artillery value = current}
+		            sub_unit = {type = artillery value = current}
+		            sub_unit = {type = artillery value = current}
+		            sub_unit = {type = artillery value = current}
+		            sub_unit = {type = hussar value = current}
+				}
+			}
+		}
+	}
+
+}

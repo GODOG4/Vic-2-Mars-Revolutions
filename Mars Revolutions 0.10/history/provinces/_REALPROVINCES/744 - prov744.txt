@@ -1,0 +1,25 @@
+owner = MAR
+controller = MAR
+add_core = MAR
+add_core = SMR
+trade_goods = grain
+life_rating = 38
+
+state_building = {
+	level = 1
+	building = clipper_shipyard
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = explosives_factory
+	upgrade = yes
+}
+
+state_building = {
+	level = 1
+	building = fertilizer_factory
+	upgrade = yes
+}
+
+ 

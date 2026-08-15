@@ -1,9 +1,0 @@
-owner = DAL
-controller = DAL
-add_core = EKT
-colonial = 2
-
-
-trade_goods = tea
-life_rating = 35
-

@@ -1,0 +1,25 @@
+owner = NCT
+controller = NCT
+add_core = NCT
+trade_goods = cattle
+terrain = semidesert
+life_rating = 40
+naval_base = 2
+
+
+state_building = {
+	level = 1
+	building = transport_shipyard
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = canned_food_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = clipper_shipyard
+	upgrade = yes
+}
+
