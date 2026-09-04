@@ -1,0 +1,797 @@
+##################################################################################################
+# scriptable and usable for event-system below.
+##################################################################################################
+
+WB_no_bankruns_please = {
+	min_tax = 0.99
+	icon = 10
+}
+
+Stop_printing_money = {
+	tax_efficiency = -0.45
+	icon = 10
+}
+
+
+capital_supply = {
+    max_attrition = -1000
+    icon = 17
+}
+
+youre_kicked_mate = {
+	icon = 19
+}
+
+
+early_boost = {
+	factory_output = 1
+	supply_consumption = -0.2
+	factory_input = -0.15
+	cb_generation_speed_modifier = 0.2
+	icon = 11
+}
+
+
+### Rip from Zombie
+kinda_bad_badboy = {
+	loan_interest = 4
+	tariff_efficiency_modifier = -0.40
+	mobilisation_economy_impact = 2
+	diplomatic_points_modifier = -0.6
+	factory_owner_cost = 1
+	global_immigrant_attract = -4.0
+	org_regain = -0.3
+	land_organisation = -0.3
+	naval_organisation = -0.3
+	factory_throughput = -0.6
+	RGO_throughput = -0.6
+	prestige = -0.2
+	war_exhaustion = 2
+	research_points_modifier = -0.6
+	cb_generation_speed_modifier = -0.3
+	icon = 8
+}
+
+
+##### POLITICAL EVENTS ######
+government_sanitarium = {
+	population_growth = 0.005
+	icon = 19
+}
+
+
+##### TECH SCHOOLS ######
+academic_confusion = {
+#	research_points_modifier = -0.01
+#	prestige = -0.01
+	icon = 6
+}
+
+
+springtime_of_nations = {
+	global_pop_militancy_modifier = 0.3
+	icon = 8
+}
+
+
+global_liberal_agitation = {
+	core_pop_militancy_modifier = 0.02
+	global_pop_consciousness_modifier = 0.05
+	icon = 4
+}
+
+
+sizing_cooldown = {
+	icon = 10
+}
+
+
+ghost_rp_nerf = {
+	diplomatic_points_modifier = -1000.0
+	global_pop_militancy_modifier = -100.0
+	research_points_modifier = -1
+	prestige = -10
+	administrative_efficiency_modifier = 1
+	icon = 10
+}
+
+
+world_bank_rp_nerf = {
+	global_pop_militancy_modifier = -100.0
+	research_points_modifier = -10
+	prestige = -10
+	tariff_efficiency_modifier = 1		
+	icon = 10
+}
+
+
+colonial_dry_spell = {
+	pop_militancy_modifier = 0.05
+	farm_rgo_eff = -0.20
+	icon = 14
+}
+
+
+colonial_exploitation = {
+	farm_rgo_eff = 0.10
+	mine_rgo_eff = 0.10
+	pop_militancy_modifier = 0.1
+	icon = 18
+}
+
+
+colonial_museum_of_natural_history = {
+	research_points_modifier = 0.02
+	icon = 5
+}
+
+
+colonial_mismanagement = {
+	pop_militancy_modifier = -0.02
+	farm_rgo_eff = -0.5
+	mine_rgo_eff = -0.5
+	icon = 2
+}
+
+
+colonial_recruitment = {
+	immigrant_attract = 1		#100%
+	life_rating = 0.1
+	population_growth = 0.001
+	assimilation_rate = 0.25
+	icon = 9
+}
+
+
+baby_boom = {
+	population_growth = 0.001
+	icon = 19
+}
+
+
+loyal_askaris = {
+	pop_militancy_modifier = -0.01
+	pop_consciousness_modifier = -0.05
+	prestige = 0.01
+	icon = 17
+}
+
+
+##### SUFFRAGETTE MOVEMENTS #####
+
+female_suffrage = {
+	global_immigrant_attract = 0.1	#10%
+	#global_assimilation_rate = 0.1  #10%
+	poor_vote = 0.05
+	middle_vote = 0.02
+	rich_vote = -0.01
+	core_pop_militancy_modifier = -0.02
+	icon = 7
+}
+
+
+blood_and_iron_mine = {
+	mine_rgo_eff = 1.25
+	pop_militancy_modifier = 0.01
+	icon = 14
+}
+
+
+######CB generation######
+ CB_gen_plus = {
+	cb_generation_speed_modifier = 0.25
+ }
+
+ 
+  CB_gen_minus = {
+	cb_generation_speed_modifier = -0.25
+ }
+
+ recent_safari2 = {
+	prestige = 0.001
+ }
+
+
+ dar_al_funun = {
+	research_points_modifier = 0.2
+	icon = 3
+}
+
+
+nationalist_agitation = {
+	pop_consciousness_modifier = 0.25
+	pop_militancy_modifier = 0.05
+	icon = 4
+}
+
+
+###Eidur-Infamy Limit Penalty###
+badboymod = {
+	global_population_growth = -0.005
+	research_points_modifier = -1.0
+	global_immigrant_attract = -4.0
+	diplomatic_points_modifier = -1.0
+	org_regain = -0.2
+    land_organisation = -0.2
+    naval_organisation = -0.2
+    factory_throughput = -0.5
+    RGO_throughput = -0.5
+    prestige = -0.2
+    war_exhaustion = 2
+	icon = 17
+}
+
+
+### RGO Change ###
+switched_production = {
+	icon = 14
+}
+
+
+rgo_changed_mine = {
+	icon = 12
+}
+
+
+rgo_changed_farm = {
+	icon = 12
+}
+
+
+bureaucrats_fix_cooldown = {
+	icon = 12
+}
+
+
+### Dynamic Cores ###
+integration_refusal = {
+	#assimilation_rate = -0.1
+	immigrant_attract = -0.1
+	pop_militancy_modifier = -0.02
+	icon = 7
+}
+
+
+core_integration = {
+	assimilation_rate = 0.1
+	pop_consciousness_modifier = 0.05
+	non_accepted_pop_consciousness_modifier = 0.01
+	icon = 7
+}
+
+
+### NV Changes ###
+national_confusion = {
+	research_points_modifier = -0.01
+	global_pop_consciousness_modifier = 0.01
+	global_pop_militancy_modifier = 0.01
+	prestige = -0.01
+	icon = 2
+}
+
+
+### Victoria Universalis Addition ###
+requested_grant = {
+	icon = 10
+}
+
+
+##### Triggered mods that were moved to Events + Country Modifiers #####
+policestate_modifier = {
+	global_pop_consciousness_modifier = -0.01
+	global_pop_militancy_modifier = -0.01
+	icon = 15
+}
+
+
+one_party_state_modifier = {
+	literacy_con_impact = -0.25
+	political_reform_desire = -0.2
+	social_reform_desire = -0.2
+	icon = 4
+}
+
+
+totalitarianism_modifier = {
+	suppression_points_modifier = 0.5
+	mobilization_impact = -0.2
+	global_immigrant_attract = -0.25
+	issue_change_speed = -0.25
+	political_reform_desire = -0.1
+	social_reform_desire = -0.1
+	global_pop_consciousness_modifier = 0.01
+	global_pop_militancy_modifier = 0.01
+	non_accepted_pop_militancy_modifier = 0.02
+	icon = 18
+}
+
+
+leadership_principle_modifier = {
+	mobilisation_size = 0.01
+	ruling_party_support = 0.2
+	leadership_modifier = 0.25
+	factory_throughput = 0.1
+	cb_generation_speed_modifier = 0.1
+	#RGO_throughput = -0.1
+	#army_tech_research_bonus = -0.1
+	#navy_tech_research_bonus = -0.1
+	#commerce_tech_research_bonus = -0.1
+	#culture_tech_research_bonus = -0.1
+	#industry_tech_research_bonus = -0.1
+	issue_change_speed = -0.25
+	icon = 17
+}
+
+
+ultranationalism_modifier = {
+	min_military_spending = 0.5
+	core_pop_militancy_modifier = -0.1
+	global_population_growth = 0.002
+	suppression_points_modifier = 0.2
+	global_immigrant_attract = -2
+	#global_assimilation_rate = -2
+	political_reform_desire = -0.1
+	non_accepted_pop_militancy_modifier = 0.05
+	icon = 15
+}
+
+
+collectivisation_modifier = {
+	mobilisation_size = 0.01
+	tax_efficiency = 0.05
+	factory_throughput = 0.05
+	mine_rgo_eff = 0.2
+	farm_rgo_eff = -0.2
+	max_tariff = 0.35 #cancels out all malus from nation modifiers
+	#tariff_efficiency_modifier = -0.5
+	global_population_growth = -0.001
+	#global_assimilation_rate = -0.25
+	icon = 11
+}
+
+
+classless_society_modifier = {
+	min_social_spending = 0.5
+	education_efficiency_modifier = 0.2
+	global_immigrant_attract = 0.75
+	suppression_points_modifier = 0.2
+	non_accepted_pop_militancy_modifier = -0.02
+	political_reform_desire = -0.1
+	leadership_modifier = -0.1
+	icon = 17
+}
+
+##########Mars Unique assim modifiers(just reminders, they do nothing, controlled via country flags)#######
+
+planumian_assim_boost = {
+	icon = 3
+}
+
+archonian_domination = {
+	icon = 3
+}
+
+bakhusen_assim_boost = {
+	icon = 3
+}
+
+vargari_assim_boost = {
+	icon = 3
+}
+
+maruklar_assim_boost = {
+	icon = 3
+}
+
+tharsian_assim_boost = {
+	icon = 3
+}
+
+ceraunian_assim_boost = {
+	icon = 3
+}
+
+meridianish_assimilation = {
+	icon = 3
+}
+
+alboric_return = {
+	icon = 3
+}
+
+poo_in_loo = {
+	icon = 3
+}
+
+olympian_domination = {
+	icon = 3
+}
+
+daedalian_domination = {
+	icon = 3
+}
+##########Mars Culture Group Modifiers#######
+
+central_alban_group = {
+	icon = 13
+}
+
+northern_alban_group = {
+	icon = 13
+}
+
+western_group = {
+	icon = 13
+}
+
+titan_group = {
+	icon = 13
+}
+
+australe_tharsisian_group = {
+	icon = 13
+}
+
+martian_group = {
+	icon = 13
+}
+
+souslanian_group = {
+	icon = 13
+}
+
+daedalian_group = {
+	icon = 13
+}
+
+noctis_marineris_group = {
+	icon = 13
+}
+
+elysian_group = {
+	icon = 13
+}
+
+sabean_group = {
+	icon = 13
+}
+
+amenthian_group = {
+	icon = 13
+}
+
+cimmerian_hesperia_group = {
+	icon = 13
+}
+
+tau_cetinese_group = {
+	icon = 13
+}
+
+##########Mars Religion Modifiers#######
+
+holy_terra = {
+	icon = 17
+	influence_modifier = 0.30
+	core_pop_militancy_modifier = -0.03	
+	research_points_modifier = -0.1
+}
+
+post_terra = {
+	icon = 17
+	land_organisation = 0.05
+    	supply_consumption = -0.05
+	non_accepted_pop_militancy_modifier = 0.02
+}
+
+blessed_singularity = {
+	icon = 17
+	war_exhaustion = -0.05
+	mobilization_impact = 0.125
+	non_accepted_pop_militancy_modifier = 0.01
+}
+
+seaborne = {
+	org_regain = 0.1
+	naval_organisation = 0.05
+	education_efficiency_modifier = -0.15
+	icon = 17
+}
+
+spacer = {
+	RGO_throughput = 0.05
+    	research_points_modifier = 0.20
+    	diplomatic_points_modifier = -0.25
+	icon = 17
+}
+
+olympic = {
+	land_organisation = 0.05
+	leadership_modifier = 0.1
+	non_accepted_pop_consciousness_modifier = 0.05
+	icon = 17
+}
+
+divine_circle = {
+	core_pop_militancy_modifier = -0.05
+	non_accepted_pop_militancy_modifier = 0.025
+	leadership_modifier = 0.2
+	icon = 17
+}
+
+divine_cycle = {
+	core_pop_militancy_modifier = -0.05
+	non_accepted_pop_militancy_modifier = 0.025
+	leadership_modifier = 0.2
+	icon = 17
+}
+
+solarian = {
+	leadership_modifier = 0.3
+    	land_organisation = 0.1
+    	naval_organisation = -0.1
+	icon = 17
+}
+
+divine_truth = {
+	icon = 17
+	factory_owner_cost = -0.25
+    	factory_throughput = 0.05
+	global_assimilation_rate = -0.15
+}
+
+animism = {
+	icon = 17
+	research_points_modifier = -0.2
+    	land_unit_start_experience = 0.5
+    	RGO_throughput = 0.2
+}
+
+terraformed = {
+	icon = 17
+	pop_consciousness_modifier = 0.02
+	RGO_throughput = 0.025
+	badboy = -0.02
+}
+
+altered = {
+	icon = 17
+	core_pop_militancy_modifier = -0.02
+	global_assimilation_rate = 0.25
+	non_accepted_pop_militancy_modifier = 0.03
+}
+
+kemetic = {
+	icon = 17
+	RGO_throughput = 0.02
+    	research_points_modifier = 0.1
+	leadership = -0.1
+}
+
+aiti_marsilainen = {
+	icon = 17
+	war_exhaustion = -0.05
+	org_regain = 0.05
+	influence_modifier = -0.2
+}
+
+vimana = {
+	icon = 17
+	cb_generation_speed_modifier = 0.25
+	global_pop_militancy_modifier = -0.025
+	badboy = 0.005
+}
+
+yoghi = {
+	icon = 17
+	research_points_modifier = 0.25
+	global_pop_militancy_modifier = -0.05
+	badboy = 0.01
+}
+
+ahimsa = {
+	icon = 17
+	global_pop_militancy_modifier = -0.07
+	global_assimilation_rate = 0.50
+	badboy = 0.02
+}
+
+mother_of_waters = {
+	naval_organisation = 0.05
+	navy_tech_research_bonus = 0.05
+	culture_tech_research_bonus = -0.05
+	icon = 17
+}
+
+escudo_solar = {
+	icon = 17
+	naval_organisation = 0.1
+	land_organisation = 0.1
+	global_assimilation_rate = -0.25
+}
+
+mother_earth = {
+	icon = 17
+	education_efficiency_modifier = 0.3
+	global_population_growth = 0.001
+	factory_owner_cost = 0.2
+}
+
+##########Mars Decision Modifiers#######
+
+republican_safe_haven = {
+	global_immigrant_attract = 0.5	#50%
+	global_assimilation_rate = 0.5
+	political_reform_desire = 0.25
+	social_reform_desire = 0.15
+	icon = 9
+}
+
+celestial_colony = {
+    prestige = 0.02
+    badboy = 0.03	
+    core_pop_consciousness_modifier = -0.05
+    core_pop_militancy_modifier = -0.05
+    influence_modifier = -0.25
+    cb_generation_speed_modifier = -0.4
+    mobilisation_size = -0.01
+    global_assimilation_rate = -0.25
+    icon = 7
+}
+
+mogui_1 = {
+    badboy = 0.03
+    org_regain = 0.1
+    leadership_modifier = 0.3
+    core_pop_militancy_modifier = -0.02
+    pop_consciousness_modifier = 0.02
+    global_assimilation_rate = -0.5
+    icon = 7
+}
+
+alban_warlord = {
+	org_regain = 0.1
+	land_organisation = 0.05
+	land_unit_start_experience = 0.5
+	supply_consumption = -0.05
+	icon = 15
+}
+
+alban_navy = {
+	org_regain = 0.1
+	naval_unit_start_experience = 1
+	naval_organisation = 0.05
+	navy_tech_research_bonus = 0.15
+	supply_consumption = -0.05
+	icon = 15
+}
+
+sunset_invasion = {
+	org_regain = 0.1
+	naval_unit_start_experience = 1
+	land_unit_start_experience = 0.5
+	naval_organisation = 0.05	
+	navy_tech_research_bonus = 0.15
+	army_tech_research_bonus = 0.10
+	land_organisation = 0.05
+	land_unit_start_experience = 0.5
+	supply_consumption = -0.05
+	icon = 15
+}
+
+archon_boom = {
+	factory_owner_cost = -0.5
+	global_population_growth = 0.001
+	factory_throughput = 0.05
+	icon = 11
+}
+
+nordic_as_fuck = {
+	org_regain = 0.1
+	naval_unit_start_experience = 2.5
+	naval_organisation = 0.05
+	navy_tech_research_bonus = 0.15
+	badboy = -0.05
+	icon = 15
+}
+
+meriandish_resistance = {
+	pop_militancy_modifier = 0.02
+	pop_consciousness_modifier = 0.02
+	assimilation_rate = -0.34
+	icon = 19
+}
+
+land_of_opportunity = {
+	global_immigrant_attract = 10
+	global_assimilation_rate = 0.50
+	icon = 13
+}
+
+expel_lunarians = {
+	assimilation_rate = 1.0
+	pop_consciousness_modifier = 0.02
+	pop_militancy_modifier = 0.02
+}
+
+mass_conversion = {
+	assimilation_rate = 0.50
+	pop_consciousness_modifier = -0.02
+}
+
+holy_tera_pope = {
+	badboy = -0.03
+	prestige = 0.02
+	research_points_modifier = -0.1
+	education_efficiency_modifier = -0.2
+}
+
+hellenic_breadbasket = {
+	population_growth = 0.001
+	mine_rgo_size = 0.2
+	farm_rgo_size = 0.2
+	icon = 19
+}
+
+hellenic_army_reforms = {
+	org_regain = 0.1
+	land_organisation = 0.05
+	land_unit_start_experience = 0.5
+	supply_consumption = -0.05
+	army_tech_research_bonus = 0.05
+	navy_tech_research_bonus = 0.05
+	icon = 15
+}
+
+martian_realpolitik = {
+	prestige = 0.02
+	core_pop_militancy_modifier = -0.02
+	pop_consciousness_modifier = 0.02
+	diplomatic_points_modifier = 0.25
+	ruling_party_support = 0.5
+	badboy = -0.04
+	icon = 17
+}
+
+grand_cothon = {
+	local_repair = 0.5
+	local_ship_build = -0.05
+	local_factory_throughput = 0.05
+	icon = 15
+}
+
+infamytech_1 = {
+	badboy = -0.02
+	icon = 9
+}
+
+infamytech_2 = {
+	badboy = -0.04
+	icon = 9
+}
+
+infamytech_3 = {
+	badboy = -0.06
+	icon = 9
+}
+
+infamytech_4 = {
+	badboy = -0.08
+	icon = 9
+}
+
+infamytech_5 = {
+	badboy = -0.1
+	icon = 9
+}
+
+slp_colonial_research_focus = {
+	research_points_modifier = -1
+	icon = 10
+}
+
+slp_aonia_assimilation = {
+	assimilation_rate = 1.0
+	pop_consciousness_modifier = 0.02
+	icon = 13
+}

@@ -1,0 +1,8 @@
+owner = CIV
+controller = CIV
+add_core = SLP
+
+
+trade_goods = fruit
+life_rating = 35
+

@@ -1,0 +1,7 @@
+owner = DAL
+controller = DAL
+add_core = DAL
+add_core = RNN
+trade_goods = coal
+life_rating = 35
+

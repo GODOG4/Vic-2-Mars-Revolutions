@@ -1,0 +1,8 @@
+owner = DAL
+controller = DAL
+add_core = DAL
+add_core = RNN
+trade_goods = iron
+life_rating = 35
+naval_base = 1
+

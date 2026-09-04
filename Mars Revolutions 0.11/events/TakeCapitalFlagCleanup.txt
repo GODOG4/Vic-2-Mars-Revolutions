@@ -1,0 +1,26 @@
+# Clears sticky take_capital_war_goal after peace when the capital PO was not enforced.
+# Pair with take_capital on_add / on_po_accepted in common/cb_types.txt.
+
+country_event = {
+	id = 74737272
+	title = "Take Capital Flag Debug Event"
+	desc = "You added a take capital CB but did not take it in the peace, this event exists to clean up your flags so no bugs occur."
+	picture = "native_force"
+
+	trigger = {
+		has_country_flag = take_capital_war_goal
+		war = no
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		clr_country_flag = take_capital_war_goal
+	}
+
+	option = {
+		name = "Thanks"
+	}
+}

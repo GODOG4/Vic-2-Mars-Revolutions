@@ -1,0 +1,239 @@
+political_decisions = {
+    # Banking: requires Foreign Officers reform, applies -50% RP modifier for ~3 years,
+    # grants one colonial annexation credit. Re-take blocked until modifier expires.
+    SLP_commit_colonial_research = {
+        potential = {
+            tag = SLP
+            ai = no
+            OR = {
+                state_167 = { empty = yes }
+                state_186 = { empty = yes }
+                state_199 = { empty = yes }
+                state_175 = { empty = yes }
+                state_200 = { empty = yes }
+                state_224 = { empty = yes }
+            }
+        }
+
+        allow = {
+            war = no
+            OR = { civilized = yes foreign_officers = yes_foreign_officers }
+            NOT = { has_country_modifier = slp_colonial_research_focus }
+        }
+
+        effect = {
+            add_country_modifier = {
+                name = slp_colonial_research_focus
+                duration = 1000
+            }
+            change_variable = {
+                which = slp_colonial_credit
+                value = 1
+            }
+        }
+
+        ai_will_do = { factor = 0 }
+    }
+
+    # Colonial annexation chain for Solis Planum (SLP).
+
+    SLP_state_167 = {
+        potential = {
+            tag = SLP
+            NOT = { civilized = yes }
+            owns = 695
+            state_167 = { empty = yes }
+        }
+
+        allow = {
+            war = no
+            check_variable = {
+                which = slp_colonial_credit
+                value = 1
+            }
+        }
+
+        effect = {
+            change_variable = {
+                which = slp_colonial_credit
+                value = -1
+            }
+            state_167 = { secede_province = THIS life_rating = 15 }
+        }
+
+        ai_will_do = { factor = 0 }
+    }
+
+    SLP_state_186 = {
+        potential = {
+            tag = SLP
+            NOT = { civilized = yes }
+            owns = 695
+            owns = 791
+            state_186 = { empty = yes }
+        }
+
+        allow = {
+            war = no
+            check_variable = {
+                which = slp_colonial_credit
+                value = 1
+            }
+        }
+
+        effect = {
+            change_variable = {
+                which = slp_colonial_credit
+                value = -1
+            }
+            state_186 = { secede_province = THIS life_rating = 15 }
+        }
+
+        ai_will_do = { factor = 0 }
+    }
+
+    SLP_state_199 = {
+        potential = {
+            tag = SLP
+            NOT = { civilized = yes }
+            owns = 695
+            owns = 791
+            state_199 = { empty = yes }
+        }
+
+        allow = {
+            war = no
+            check_variable = {
+                which = slp_colonial_credit
+                value = 1
+            }
+        }
+
+        effect = {
+            change_variable = {
+                which = slp_colonial_credit
+                value = -1
+            }
+            state_199 = { secede_province = THIS life_rating = 15 }
+        }
+
+        ai_will_do = { factor = 0 }
+    }
+
+    SLP_state_175 = {
+        potential = {
+            tag = SLP
+            NOT = { civilized = yes }
+            owns = 687
+            owns = 747
+            state_175 = { empty = yes }
+        }
+
+        allow = {
+            war = no
+            check_variable = {
+                which = slp_colonial_credit
+                value = 1
+            }
+        }
+
+        effect = {
+            change_variable = {
+                which = slp_colonial_credit
+                value = -1
+            }
+            state_175 = { secede_province = THIS life_rating = 15 }
+        }
+
+        ai_will_do = { factor = 0 }
+    }
+
+    SLP_state_200 = {
+        potential = {
+            tag = SLP
+            NOT = { civilized = yes }
+            owns = 844
+            state_200 = { empty = yes }
+        }
+
+        allow = {
+            war = no
+            check_variable = {
+                which = slp_colonial_credit
+                value = 1
+            }
+        }
+
+        effect = {
+            change_variable = {
+                which = slp_colonial_credit
+                value = -1
+            }
+            state_200 = { secede_province = THIS life_rating = 15 }
+        }
+
+        ai_will_do = { factor = 0 }
+    }
+
+    SLP_state_224 = {
+        potential = {
+            tag = SLP
+            NOT = { civilized = yes }
+            owns = 838
+            state_224 = { empty = yes }
+        }
+
+        allow = {
+            war = no
+            check_variable = {
+                which = slp_colonial_credit
+                value = 1
+            }
+        }
+
+        effect = {
+            change_variable = {
+                which = slp_colonial_credit
+                value = -1
+            }
+            state_224 = { secede_province = THIS life_rating = 15 }
+        }
+
+        ai_will_do = { factor = 0 }
+    }
+    SLP_solis_mariner_acceptance = {
+        potential = {
+            tag = SLP
+            NOT = { has_country_flag = slp_solis_mariner_acceptance }
+        }
+
+        allow = {
+            state_n_government = 1
+            owns = 605
+            owns = 744
+            owns = 862
+        }
+
+        effect = {
+            prestige = 20
+            set_country_flag = slp_solis_mariner_acceptance
+            add_accepted_culture = solis_mariner
+            any_owned = {
+                limit = {
+                    continent = continent_2
+                    OR = {
+                        has_pop_culture = vallian
+                        has_pop_culture = mariner
+                    }
+                }
+                add_province_modifier = {
+                    name = slp_aonia_assimilation
+                    duration = 3650
+                }
+            }
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
+}
